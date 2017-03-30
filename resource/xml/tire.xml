@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>		
+            <tire>Galicia</tire>
+			<address>в. Юності, 19/1</address>
+            <phoneVodaphone>+38(050)434-59-07</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Renault</tire>
+			<address>в. Хриплинська, 5а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-38-00</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>SunLit</tire>
+			<address>в. Надрічна, 46в</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)044-69-91</phoneKyivstar>
+			<phoneHome>+38(0342)50-05-40</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Авто100П</tire>
+			<address>в. С. Петлюри, 13а</address>
+            <phoneVodaphone>+38(050)246-99-32</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Автодонор</tire>
+			<address>с. Угринів в. Ремонтна, 8</address>
+            <phoneVodaphone>+38(050)508-79-80</phoneVodaphone>
+			<phoneKyivstar>+38(067)344-10-73</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Арсен-Авто</tire>
+			<address>в. Тисменицька, 249б</address>
+            <phoneVodaphone>+38(095)726-79-24</phoneVodaphone>
+			<phoneKyivstar>+38(098)318-69-96</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Самара</tire>
+			<address>в. Максимовича, 11є</address>
+            <phoneVodaphone>+38(050)153-76-05</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-99-54</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>СВ-Авто</tire>
+			<address>в. Набережна, 46</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(093)530-04-24</phoneKyivstar>
+			<phoneHome>+38 (0342) 72-12-73</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>СВ-Авто</tire>
+			<address>в. Надрічна, 92б</address>
+            <phoneVodaphone>+38(050)670-40-02</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(093)530-04-24</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Сергенюк-сервіс</tire>
+			<address>с. Крихівці в. Криховецька, 2в</address>
+            <phoneVodaphone>+38(050)433-70-40</phoneVodaphone>
+			<phoneKyivstar>+38(098)433-70-40</phoneKyivstar>
+			<phoneHome>+38(0342)77-44-84</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Ураган</tire>
+			<address>в. Тичини, 50</address>
+            <phoneVodaphone>+38(095)948-00-24</phoneVodaphone>
+			<phoneKyivstar>+38(068)545-75-45</phoneKyivstar>
+			<phoneHome>+38(0342)51-11-55</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Форсаж</tire>
+			<address>в. Набережна ім. Василя Стефаника, 1д</address>
+            <phoneVodaphone>+38(050)373-73-53</phoneVodaphone>
+			<phoneKyivstar>+38(098)131-92-30</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Форсаж</tire>
+			<address>в. Надрічна, 12</address>
+            <phoneVodaphone>+38(050)373-73-53</phoneVodaphone>
+			<phoneKyivstar>+38(098)131-92-30</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Шинний Дім</tire>
+			<address>в. Ботанічна, 6</address>
+            <phoneVodaphone>+38(099)331-25-22</phoneVodaphone>
+			<phoneKyivstar>+38(097)813-74-99</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Шиномонтаж</tire>
+			<address>в. Сорохтея, 24</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)464-26-12</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Шиномонтаж</tire>
+			<address>в. Тисменицька, 311</address>
+            <phoneVodaphone>+38(095)084-67-90</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Шиномонтаж</tire>
+			<address>в. Ребета, 8а</address>
+            <phoneVodaphone>+38(095)528-72-22</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Шиномонтаж</tire>
+			<address>в. С. Петлюри, 6</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)332-52-45</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Шиномонтаж</tire>
+			<address>в. Г. Хоткевича, 2а</address>
+            <phoneVodaphone>+38(050)811-90-94</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Шиномонтаж</tire>
+			<address>в. С. Петлюри, 16</address>
+            <phoneVodaphone>+38(050)205-39-46</phoneVodaphone>
+			<phoneKyivstar>+38(098)390-50-87</phoneKyivstar>
+			<phoneHome>+38(0342)52-74-56</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Шипшина</tire>
+			<address>шосе Калуське, 15</address>
+            <phoneVodaphone>+38(050)430-70-46</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-46-13</phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+		<item>		
+            <tire>Ямал-ІФ</tire>
+			<address>в. Вовчинецька, 229</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)143-30-30</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/tire.png</icon>
+        </item>
+	</channel>
+</rss>

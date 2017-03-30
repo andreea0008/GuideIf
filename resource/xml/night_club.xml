@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+				<nc>El Dorado</nc>
+				<address>в. Івасюка, 60 </address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)77-39-05</phoneHome>
+				<icon>qrc:/img/resource/img/nigthClub.png</icon>
+		</item>
+		<item>
+				<nc>Pasage Gartenberg</nc>
+				<address>в. Незалежності, 3</address>
+				<phoneVodaphone>+38(095)175-90-00</phoneVodaphone>
+				<phoneKyivstar>+38(067)175-90-00</phoneKyivstar>
+				<phoneHome>+38(0342)72-51-01</phoneHome>
+				<icon>qrc:/img/resource/img/nigthClub.png</icon>
+		</item>
+		<item>
+				<nc>PLAZA Night Club</nc>
+				<address>в. Північний бульвар, 2а, пов. 5</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)340-54-45</phoneKyivstar>
+				<phoneHome>+38(0342)77-30-10</phoneHome>
+				<icon>qrc:/img/resource/img/nigthClub.png</icon>
+		</item>
+		<item>
+				<nc>Tuning Hall</nc>
+				<address>в. Гетьмана Мазепи, 168</address>
+				<phoneVodaphone>+38(095)000-08-51</phoneVodaphone>
+				<phoneKyivstar>+38(098)000-08-51</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/nigthClub.png</icon>
+		</item>
+		<item>
+				<nc>БОМБА</nc>
+				<address>в. Крайківського, 1б</address>
+				<phoneVodaphone>+38(095)037-34-62</phoneVodaphone>
+				<phoneKyivstar>+38(096)090-95-55</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/nigthClub.png</icon>
+		</item>
+	</channel>
+</rss>

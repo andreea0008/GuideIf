@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<item>
+            <sauna>На в дерев'яному зрубі</sauna>
+			<address>в. Нескорених, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)220-87-91</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Finska</sauna>
+			<address>в. Набережна ім. Василя Стефаника, 42</address>
+            <phoneVodaphone>+38(099)482-14-76</phoneVodaphone>
+			<phoneKyivstar>+38(098)428-60-40</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Galicia</sauna>
+			<address>в. Юності, 19, офіс 1</address>
+            <phoneVodaphone>+38(066)311-87-22</phoneVodaphone>
+			<phoneKyivstar>+38(093)331-33-66</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Nika</sauna>
+			<address>в. Коновальця, 359</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)104-91-79</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Party club</sauna>
+			<address>в. Вовчинецька, 225</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)591-55-00</phoneKyivstar>
+			<phoneHome>+38(0342)73-12-56</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Reikartz Парк Готель</sauna>
+			<address>в. Гетьмана Мазепи, 146</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)343-15-82</phoneKyivstar>
+			<phoneHome>+38(0342)59-55-95</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Аква</sauna>
+			<address>в. Вовчинецька, 26</address>
+            <phoneVodaphone>+38(050)373-13-00</phoneVodaphone>
+			<phoneKyivstar>+38(097)130-13-00</phoneKyivstar>
+			<phoneHome>+38(0342)71-07-71</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Атлант</sauna>
+			<address>в. О. Довженка, 6</address>
+            <phoneVodaphone>+38(095)086-34-14</phoneVodaphone>
+			<phoneKyivstar>+38(0342)71-74-76</phoneKyivstar>
+			<phoneHome>+38(0342)71-74-76</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Диканька</sauna>
+			<address>с. Загвіздя в. Озерна, 1</address>
+            <phoneVodaphone>+38(095)900-01-11</phoneVodaphone>
+			<phoneKyivstar>+38(098)945-48-16</phoneKyivstar>
+			<phoneHome>+38(0342)58-44-04</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Дрова</sauna>
+			<address>с. Загвіздя в. Незалежності, 43</address>
+            <phoneVodaphone>+38(050)810-05-96</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(097)804-70-98</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Затишна</sauna>
+			<address>в. Г. Хоткевича, 44г</address>
+            <phoneVodaphone>+38(066)893-50-46</phoneVodaphone>
+			<phoneKyivstar>+38(068)263-63-17</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Ідеал</sauna>
+			<address>в. Сагайдачного, 42а</address>
+            <phoneVodaphone>+38(066)195-12-30</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-78-01</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Козацька</sauna>
+			<address>в. Василіянок, 15а</address>
+            <phoneVodaphone>+38(095)650-08-00</phoneVodaphone>
+			<phoneKyivstar>+38(098)650-08-00</phoneKyivstar>
+			<phoneHome>+38(0342)50-80-80</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Лазня на Олімпі</sauna>
+			<address>в. Академіка Сахарова, 38</address>
+            <phoneVodaphone>+38(095)095-19-50</phoneVodaphone>
+			<phoneKyivstar>+38(097)472-89-00</phoneKyivstar>
+			<phoneHome>+38(0342)52-33-37</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Лелеч</sauna>
+			<address>с. Угринів вул. Галицька, 22а</address>
+            <phoneVodaphone>+38(066)833-86-89</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Мрія</sauna>
+			<address>в. Хіміків, 17в</address>
+            <phoneVodaphone>+38(095)335-01-88</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-03-43</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Сауна</sauna>
+			<address>в. Сніжна, 32а</address>
+            <phoneVodaphone>+38(066)631-44-80</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Сауна на дровах</sauna>
+			<address>в. Мазепи, 140а</address>
+            <phoneVodaphone>+38(095)638-16-27</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Фараон</sauna>
+			<address>в. Угорницька, 12</address>
+            <phoneVodaphone>+38(050)373-82-71</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-93-03</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Фінська сауна</sauna>
+			<address>в. Василя Стуса, 37а</address>
+            <phoneVodaphone>+38(066)367-87-27</phoneVodaphone>
+			<phoneKyivstar>+38(096)808-59-69</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+	<item>
+            <sauna>Хамам</sauna>
+			<address>в. Промислова, 2б</address>
+            <phoneVodaphone>+38(050)950-05-37</phoneVodaphone>
+			<phoneKyivstar>+38(097)103-92-87</phoneKyivstar>
+			<phoneHome>+38(0342)54-32-23</phoneHome>
+			<icon>qrc:/img/resource/img/sauna.png</icon>
+	</item>
+</channel>
+</rss>

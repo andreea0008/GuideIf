@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+   <channel>
+        <item>
+            <kp>Arcobaleno</kp>
+			<address>в.Коновальця,260</address>
+            <phoneVodaphone>+38(050)734-32-35</phoneVodaphone>
+			<phoneKyivstar>+38(097)257-55-71</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Cool Kids</kp>
+			<address>в.Зв'язкова,6</address>
+            <phoneVodaphone>+38(050)505-55-08</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Disneyland</kp>
+			<address>в.Грушевського,22а</address>
+            <phoneVodaphone>+38(095)475-51-51</phoneVodaphone>
+			<phoneKyivstar>+38(097)475-51-51</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+		    <kp>Englishschool</kp>
+			<address>в.Січових Стрільців,70</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)806-85-97</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>FANTASIA</kp>
+			<address>в.Івасюка,11</address>
+            <phoneVodaphone>+38(050)666-46-27</phoneVodaphone>
+			<phoneKyivstar>+38(068)901-10-29</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>FONTUSH KINDER'S HALL</kp>
+			<address>в.Чорновола,82</address>
+            <phoneVodaphone>+38(066)730-54-32</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-40-44</phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>HAPPY KIDS</kp>
+			<address>в.Галицька,120а</address>
+            <phoneVodaphone>+38(066)650-37-00</phoneVodaphone>
+			<phoneKyivstar>+38(067)734-55-13</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Kids Party</kp>
+			<address>в. І. Миколайчука,6</address>
+            <phoneVodaphone>+38(095)948-61-62</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Kingdom Kids</kp>
+			<address>в.Олександра Довженка,29г</address>
+            <phoneVodaphone>+38(050)640-15-79</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Академія знань</kp>
+			<address>в.Панаса Мирного,8</address>
+            <phoneVodaphone>+38(099)516-59-44</phoneVodaphone>
+			<phoneKyivstar>+38(068)815-37-22</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Веселий вулик</kp>
+			<address>в.Вовчинецька,225а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)921-11-33</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Вінні-Пух</kp>
+			<address>в.Січових Стрільців,70</address>
+            <phoneVodaphone>+38(066)925-86-67</phoneVodaphone>
+			<phoneKyivstar>+38(097)897-26-88</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Дамбо</kp>
+			<address>в.Василя Стуса,37а</address>
+            <phoneVodaphone>+38(066)051-25-84</phoneVodaphone>
+			<phoneKyivstar>+38(097)099-36-74</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Дитячий квартал</kp>
+			<address>в.Володимира Великого,12Б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)054-05-54</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Зростайлик</kp>
+			<address>в.Бельведерська,42</address>
+            <phoneVodaphone>+38(099)302-89-58</phoneVodaphone>
+			<phoneKyivstar>+38(098)513-51-04</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+	    <item>
+            <kp>КІНДЕР</kp>
+			<address>в.Богдана Лепкого,14,пов.2</address>
+            <phoneVodaphone>+38(066)105-69-59</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Країна дитинства</kp>
+			<address>в.І. Миколайчука,16а</address>
+            <phoneVodaphone>+38(066)606-82-30</phoneVodaphone>
+			<phoneKyivstar>+38(097)668-00-81</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Кралечка</kp>
+			<address>в.Грушевського,12</address>
+            <phoneVodaphone>+38(095)492-67-92</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Крамничка Фантазера</kp>
+			<address>в.Вовчинецька,225а</address>
+            <phoneVodaphone>+38(050)815-70-35</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Літл Піпл</kp>
+			<address>в.Гетьмана Мазепи,6,офіс1</address>
+            <phoneVodaphone>+38(050)649-17-77</phoneVodaphone>
+			<phoneKyivstar>+38(097)308-87-87</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Марсік</kp>
+			<address>в.Богдана Хмельницького,78</address>
+            <phoneVodaphone>+38(099)079-25-29</phoneVodaphone>
+			<phoneKyivstar>+38(097)464-58-33</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Маша і Ведмідь</kp>
+			<address>в.Південний Бульвар,22</address>
+            <phoneVodaphone>+38(099)312-18-20</phoneVodaphone>
+			<phoneKyivstar>+38(098)055-16-41</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+            <kp>Мері Поппінс</kp>
+			<address>в.Галицька,98</address>
+            <phoneVodaphone>+38(050)980-50-84</phoneVodaphone>
+			<phoneKyivstar>+38(097)399-23-54</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+		    <kp>Мікі Хаус</kp>
+			<address>в.Гетьмана Мазепи,72</address>
+            <phoneVodaphone>+38(099)639-77-87</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+		    <kp>Панда</kp>
+			<address>в.Пасічна,41</address>
+            <phoneVodaphone>+38(095)948-62-11</phoneVodaphone>
+			<phoneKyivstar>+38(096)976-52-94</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+		    <kp>Ренесанс</kp>
+			<address>в.Шухевичів,35</address>
+            <phoneVodaphone>+38(050)887-03-54</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+		    <kp>Ромашка</kp>
+			<address>в.Пилипа Орлика,3</address>
+            <phoneVodaphone>+38(099)534-80-43</phoneVodaphone>
+			<phoneKyivstar>+38(096)399-45-59</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+		    <kp>СОНЕЧКО</kp>
+			<address>в.Курінного Чорноти,19</address>
+            <phoneVodaphone>+38(099)951-77-83</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+		    <kp>Тедді</kp>
+			<address>в.Бельведерська,50/4</address>
+            <phoneVodaphone>+38(066)789-68-77</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+		<item>
+		    <kp>Холідей</kp>
+			<address>в.Вовчинецька,172а</address>
+            <phoneVodaphone>+38(099)640-75-95</phoneVodaphone>
+			<phoneKyivstar>+38(098)968-39-39</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/kidsroom.png</icon>
+		</item>
+	</channel>
+</rss>
+		
+		
+		
+			

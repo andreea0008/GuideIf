@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>		
+            <billiard>Betford</billiard>
+			<address>Вулиця Крайківського, 1б</address>
+            <phoneVodaphone>+38(066)373-20-02</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-49-28</phoneHome>
+			<icon></icon>
+        </item>
+		<item>		
+            <billiard>Buffalo</billiard>
+			<address>Вулиця Тичини, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-15-17</phoneHome>
+			<icon></icon>
+        </item>
+		<item>		
+            <billiard>Dinaris</billiard>
+			<address>Вулиця Чорновола, 30</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-63-77</phoneHome>
+			<icon></icon>
+        </item>
+		<item>		
+            <billiard>el Dorado</billiard>
+			<address>Вулиця Івасюка, 60</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-39-05</phoneHome>
+			<icon></icon>
+        </item><item>		
+            <billiard>Panorama Club</billiard>
+			<address>Вулиця Південний Бульвар, 2а</address>
+            <phoneVodaphone>+38(066)682-43-30</phoneVodaphone>
+			<phoneKyivstar>+38(068)144-28-55</phoneKyivstar>
+			<phoneHome>+38(0342)71-12-04</phoneHome>
+			<icon></icon>
+        </item>
+		<item>		
+            <billiard>Доміно</billiard>
+			<address>Вулиця Чорновола, 126</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-71-44</phoneHome>
+			<icon></icon>
+        </item>
+		<item>		
+            <billiard>Паб "Легенда"</billiard>
+			<address>Вулиця Незалежності, 34а</address>
+            <phoneVodaphone>+38(050)378-83-00</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-95-96</phoneHome>
+			<icon></icon>
+        </item>
+		<item>		
+            <billiard>Патерсон</billiard>
+			<address>Вулиця Галицька, 203</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-85-38</phoneHome>
+			<icon></icon>
+        </item>
+		<item>		
+            <billiard>Роджер</billiard>
+			<address>Вулиця Вовчинецька, 194</address>
+            <phoneVodaphone>+38(066)665-45-64</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-81-17</phoneHome>
+			<icon></icon>
+        </item>
+	</channel>
+</rss>

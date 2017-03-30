@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+		<item>		
+            <taxi>TaxiClub 5005</taxi>
+			<address></address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-50-05</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Вантажне таксі</taxi>
+			<address></address>
+            <phoneVodaphone>+38(050)803-41-82</phoneVodaphone>
+			<phoneKyivstar>+38(097)288-58-42</phoneKyivstar>
+			<phoneHome>+38(0342)50-05-00</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Галичина-таксі</taxi>
+			<address>шосе Калуське, 4</address>
+            <phoneVodaphone>+38(050)661-85-26</phoneVodaphone>
+			<phoneKyivstar>+38(067)969-68-40</phoneKyivstar>
+			<phoneHome>+38(0342)15-53</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Драйв</taxi>
+			<address>Вулиця Промислова, 2б, офіс 9</address>
+            <phoneVodaphone>+38(099)375-20-20</phoneVodaphone>
+			<phoneKyivstar>+38(067)342-60-07</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Еталон-таксі</taxi>
+			<address></address>
+            <phoneVodaphone>+38(050)373-62-46</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)15-58</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Карпати</taxi>
+			<address></address>
+            <phoneVodaphone>+38(050)434-31-10</phoneVodaphone>
+			<phoneKyivstar>+38(067)790-13-68</phoneKyivstar>
+			<phoneHome>+38(0342)15-65</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Лідер</taxi>
+			<address>Вулиця Дністровська, 49</address>
+            <phoneVodaphone>+38(050)540-42-12</phoneVodaphone>
+			<phoneKyivstar>+38(067)944-04-82</phoneKyivstar>
+			<phoneHome>+38(0342)15-55</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Оптимальне таксі</taxi>
+			<address>Вулиця Макогона, 31а</address>
+            <phoneVodaphone>+38(066)952-11-11</phoneVodaphone>
+			<phoneKyivstar>+38(096)233-11-11</phoneKyivstar>
+			<phoneHome>+38(0342)59-11-11</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Сервіс-таксі</taxi>
+			<address></address>
+            <phoneVodaphone>+38(050)950-09-14</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)15-79</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Спартак</taxi>
+			<address></address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)681-75-84</phoneKyivstar>
+			<phoneHome>+38(0342)15-78</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Фортуна</taxi>
+			<address>Вулиця Молодіжна, 40</address>
+            <phoneVodaphone>+38(050)584-62-47</phoneVodaphone>
+			<phoneKyivstar>+38(067)252-85-34</phoneKyivstar>
+			<phoneHome>+38(0342)15-56</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+		<item>		
+            <taxi>Явір</taxi>
+			<address>с. Драгомирчани в. Шкільна, 13</address>
+            <phoneVodaphone>+38(050)373-00-54</phoneVodaphone>
+			<phoneKyivstar>+38(067)965-36-36</phoneKyivstar>
+			<phoneHome>+38(0342)79-15-54</phoneHome>
+			<icon>qrc:/img/resource/img/taxi.png</icon>
+        </item>
+	</channel>
+</rss>

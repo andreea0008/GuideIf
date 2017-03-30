@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+   <channel>
+		<mobile>
+			<item>
+				<rm>Apple Market</rm>
+				<address>в. Шевченка, 2</address>
+				<phoneVodaphone>+38(066)664-14-79</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>APPLE PLUS</rm>
+				<address>в. Чорновола, 4</address>
+				<phoneVodaphone>+38(066)212-34-56</phoneVodaphone>
+				<phoneKyivstar>+38(098)654-32-12</phoneKyivstar>
+				<phoneHome>+38(093)019-14-92</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>AppleShop.if.ua</rm>
+				<address>в. Грушевського, 13</address>
+				<phoneVodaphone>+38(050)026-90-00</phoneVodaphone>
+				<phoneKyivstar>+38(096)025-90-00</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>AYMobile</rm>
+				<address>в. Коновальця, 32</address>
+				<phoneVodaphone>+38(066)996-90-66</phoneVodaphone>
+				<phoneKyivstar>+38(067)996-90-66</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>AYMobile</rm>
+				<address>в. Новгородська, 24б</address>
+				<phoneVodaphone>+38(050)433-93-56</phoneVodaphone>
+				<phoneKyivstar>+38(096)586-99-01</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>AYMobile</rm>
+				<address>пл. Ринок, 7</address>
+				<phoneVodaphone>+38(095)076-06-09</phoneVodaphone>
+				<phoneKyivstar>+38(097)257-62-82</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Digital centre-IF</rm>
+				<address>в. Страчених, 3, пов. 2</address>
+				<phoneVodaphone>+38(099)451-05-75</phoneVodaphone>
+				<phoneKyivstar>+38(096)782-47-70</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Enter</rm>
+				<address>в. В. Стуса, 25</address>
+				<phoneVodaphone>+38(050)888-47-73</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)581-38-88</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>F5</rm>
+				<address>в. Красівського, 1</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)72-22-83</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>GSM Сервіс</rm>
+				<address>в. Незалежності, 49, оф. 7</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)50-40-88</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ifmobil</rm>
+				<address>в. Новгородська, 24а </address>
+				<phoneVodaphone>+38(099)049-41-09</phoneVodaphone>
+				<phoneKyivstar>+38(097)489-00-05</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>iHome</rm>
+				<address>в. Шеремети, 6</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)555-99-93</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Inter-IF</rm>
+				<address>в. Тичини, 20</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(097)793-95-65</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Inter-IF</rm>
+				<address>в. Чорновола, 89</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(097)793-95-65</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>iPeople</rm>
+				<address>в. Новгородська, 4</address>
+				<phoneVodaphone>+38(066)441-59-99</phoneVodaphone>
+				<phoneKyivstar>+38(067)777-88-40</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>iPeople</rm>
+				<address>в. Грушевського, 9</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)341-29-20</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Mak Store</rm>
+				<address>в. В. Великого, 12в </address>
+				<phoneVodaphone>+38(099)751-80-09</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Mobile home</rm>
+				<address>в. Незалежності, 34</address>
+				<phoneVodaphone>+38(099)058-78-48</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)50-55-05</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>MY APPLE STYLE</rm>
+				<address>в. П. Орлика, 4</address>
+				<phoneVodaphone>+38(099)124-59-62</phoneVodaphone>
+				<phoneKyivstar>+38(096)004-44-88</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>MY APPLE STYLE</rm>
+				<address>в. Незалежності, 31</address>
+				<phoneVodaphone>+38(099)124-59-62</phoneVodaphone>
+				<phoneKyivstar>+38(096)004-44-88</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>MY APPLE STYLE</rm>
+				<address>пл. Ринок, 1</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)833-50-03</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>MY APPLE STYLE</rm>
+				<address>в. Північний бульвар, 2а </address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>My service</rm>
+				<address>в. Військових Ветеранів, 14</address>
+				<phoneVodaphone>+38(099)332-95-55</phoneVodaphone>
+				<phoneKyivstar>+38(098)374-15-13</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Prestige</rm>
+				<address>в. Тичини, 43б, оф. 1</address>
+				<phoneVodaphone>+38(099)290-73-28</phoneVodaphone>
+				<phoneKyivstar>+38(098)532-44-34</phoneKyivstar>
+				<phoneHome>+38(0342)73-54-35</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Reanimator</rm>
+				<address>в. Галицька, 43б</address>
+				<phoneVodaphone>+38(066)902-22-69</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Smart</rm>
+				<address>в. І. Франка, 5</address>
+				<phoneVodaphone>+38(066)721-98-73</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(093)283-30-10</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>SOURCE</rm>
+				<address>в. Української дивізії, 5а</address>
+				<phoneVodaphone>+38(050)284-75-47</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)474-71-85</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Update</rm>
+				<address>в. Василіянок, 34</address>
+				<phoneVodaphone>+38(050)293-94-00</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(03422)4-60-60</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Захід ІТ Сервіс</rm>
+				<address>в. Гетьмана Мазепи, 11Б, пов. 2</address>
+				<phoneVodaphone>+38(099)558-17-22</phoneVodaphone>
+				<phoneKyivstar>+38(097)303-47-48</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>М-Стайл</rm>
+				<address>в. Незалежності, 179б</address>
+				<phoneVodaphone>+38(050)433-33-44</phoneVodaphone>
+				<phoneKyivstar>+38(096)733-22-33</phoneKyivstar>
+				<phoneHome>+38(0342)77-33-22</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>МasteRS</rm>
+				<address>в. Академіка Сахарова, 22а</address>
+				<phoneVodaphone>+38(066)032-08-28</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)661-52-92</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Майстер-клас</rm>
+				<address>в. Б. Лепкого, 37</address>
+				<phoneVodaphone>+38(050)084-33-59</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)455-03-10</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Майстер-клас</rm>
+				<address>в. Новгородська, 24а</address>
+				<phoneVodaphone>+38(050)084-33-59</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)455-03-10</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Медіа софт</rm>
+				<address>в. Незалежності, 83</address>
+				<phoneVodaphone>+38(050)434-27-27</phoneVodaphone>
+				<phoneKyivstar>+38(097)217-62-01</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Менс сервіс</rm>
+				<address>в. Галицька, 9</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)55-60-91</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Мобітел</rm>
+				<address>в. Валова, 2</address>
+				<phoneVodaphone>+38(050)969-07-77</phoneVodaphone>
+				<phoneKyivstar>+38(098)097-59-00</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Пріоритет</rm>
+				<address>в. Чорновола, 7</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)675-05-66</phoneKyivstar>
+				<phoneHome>+38(0342)54-00-20</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Січових Стрільців, 28</address>
+				<phoneVodaphone>+38(066)977-97-24</phoneVodaphone>
+				<phoneKyivstar>+38(096)000-23-50</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Василіянок, 62а</address>
+				<phoneVodaphone>+38(066)714-57-64</phoneVodaphone>
+				<phoneKyivstar>+38(098)386-82-27</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Гординського, 2</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(097)643-56-70</phoneKyivstar>
+				<phoneHome>+38(0342)55-32-88</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. В. Стуса, 13б</address>
+				<phoneVodaphone>+38(066)866-86-44</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(063)348-46-48</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. С. Петлюри, 1</address>
+				<phoneVodaphone>+38(095)760-14-48</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Гетьмана Мазепи, 168б</address>
+				<phoneVodaphone>+38(050)182-91-72</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Тролейбусна, 1</address>
+				<phoneVodaphone>+38(099)178-86-24</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Січових Стрільців, 5 </address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(097)918-29-27</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Дністровська, 45а</address>
+				<phoneVodaphone>+38(050)087-72-47</phoneVodaphone>
+				<phoneKyivstar>+38(098)829-98-79</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Незалежності, 25, оф. 1, пов. 2</address>
+				<phoneVodaphone>+38(050)723-91-31</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт мобільних телефонів</rm>
+				<address>в. Чорновола, 4</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(094)924-09-94</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Світ електроніки</rm>
+				<address>в. Красівського, 1</address>
+				<phoneVodaphone>+38(099)077-15-60</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Серцен</rm>
+				<address>в. Шевченка, 9</address>
+				<phoneVodaphone>+38(095)495-98-00</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Труба</rm>
+				<address>в. Незалежності, 34а</address>
+				<phoneVodaphone>+38(066)649-86-68</phoneVodaphone>
+				<phoneKyivstar>+38(096)600-60-05</phoneKyivstar>
+				<phoneHome>+38(0342)73-86-68</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Фішка</rm>
+				<address>в. Коновальця, 138</address>
+				<phoneVodaphone>+38(066)908-84-43</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Центр відновлення інформації</rm>
+				<address>в. І. Миколайчука, 6</address>
+				<phoneVodaphone>+38(050)729-69-60</phoneVodaphone>
+				<phoneKyivstar>+38(068)189-06-32</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>			
+		</mobile>
+		<orgtechnick>
+			<item>
+				<rm>Prestige</rm>
+				<address>в. Тичини, 43б, оф. 1</address>
+				<phoneVodaphone>+38(099)290-73-28</phoneVodaphone>
+				<phoneKyivstar>+38(098)532-44-34</phoneKyivstar>
+				<phoneHome>+38(0342)73-54-35</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>IT-TECH</rm>
+				<address>в. Чорновола, 107а</address>
+				<phoneVodaphone>+38(066)950-11-81</phoneVodaphone>
+				<phoneKyivstar>+38(097)458-97-98</phoneKyivstar>
+				<phoneHome>+38(0342)74-07-14</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>IT-TECH</rm>
+				<address>в. Г. Хоткевича, 65</address>
+				<phoneVodaphone>+38(099)037-93-12</phoneVodaphone>
+				<phoneKyivstar>+38(097)060-95-44</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>SATA Service</rm>
+				<address>в. Вовчинецька, 57</address>
+				<phoneVodaphone>+38(067)340-59-09</phoneVodaphone>
+				<phoneKyivstar>+38(067)340-59-89</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Алеути</rm>
+				<address>в. Дудаєва, 13</address>
+				<phoneVodaphone>+38(066)858-63-91</phoneVodaphone>
+				<phoneKyivstar>+38(097)086-38-63</phoneKyivstar>
+				<phoneHome>+38(0342)73-47-40</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Альтернатива</rm>
+				<address>в. Вовчинецька, 192б</address>
+				<phoneVodaphone>+38(099)378-58-55</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)71-16-90</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Бінар-техно</rm>
+				<address>в. Гетьмана Дорошенка, 28</address>
+				<phoneVodaphone>+38(050)300-77-41</phoneVodaphone>
+				<phoneKyivstar>+38(097)300-77-41</phoneKyivstar>
+				<phoneHome>+38(0342)50-47-50</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Боб</rm>
+				<address>в. Вірменська, 5</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)55-91-46</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Захід ІТ Сервіс</rm>
+				<address>в. Гетьмана Мазепи, 11Б, пов. 2</address>
+				<phoneVodaphone>+38(099)558-17-22</phoneVodaphone>
+				<phoneKyivstar>+38(097)303-47-48</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm> ІТ-Експерт </rm>
+				<address>в. О. Довженка, 29г</address>
+				<phoneVodaphone>+38(050)925-46-69</phoneVodaphone>
+				<phoneKyivstar>+38(096)720-00-35</phoneKyivstar>
+				<phoneHome>+38(0342)73-30-23</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>ІФ Сервіс</rm>
+				<address>в. Ленкавського, 9</address>
+				<phoneVodaphone>+38(050)246-24-16</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)189-94-96</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>КВЕРТІ</rm>
+				<address>в. Дудаєва, 1</address>
+				<phoneVodaphone>+38(099)240-56-86</phoneVodaphone>
+				<phoneKyivstar>+38(097)942-53-58</phoneKyivstar>
+				<phoneHome>+38(0342)54-08-06</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>КомпАС</rm>
+				<address>в. Шевченка, 3а</address>
+				<phoneVodaphone>+38(099)427-27-37</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)73-09-45</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>КП Спас</rm>
+				<address>в. Павлика, 17а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)50-11-22</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>			
+			<item>
+				<rm>Ксенія</rm>
+				<address>в. Гетьмана Мазепи, 66а</address>
+				<phoneVodaphone>+38(095)596-51-50</phoneVodaphone>
+				<phoneKyivstar>+38(097)645-45-08</phoneKyivstar>
+				<phoneHome>+38(0342)75-27-75</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Мій комп'ютер</rm>
+				<address>в. Дністровська, 26а</address>
+				<phoneVodaphone>+38(095)919-76-72</phoneVodaphone>
+				<phoneKyivstar>+38(097)960-14-07</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>НВ-Копі</rm>
+				<address>в. Академіка Сахарова, 23</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)55-94-54</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>НТО Комплект</rm>
+				<address>в. Військових Ветеранів, 14</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)50-03-35</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Офіс-Люкс</rm>
+				<address>в. С. Бандери, 35, оф. 2</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)55-95-55</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Політехсервіс</rm>
+				<address>в. Республіканська, 17</address>
+				<phoneVodaphone>+38(050)433-89-26</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)52-70-50</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Пріоритет</rm>
+				<address>в. Чорновола, 7</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)675-05-66</phoneKyivstar>
+				<phoneHome>+38(0342)54-00-20</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт комп'ютерної техніки</rm>
+				<address>в. Гетьмана Мазепи, 168б</address>
+				<phoneVodaphone>+38(095)829-52-56</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)582-68-88</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>СІНТ-Майстер</rm>
+				<address>в. Північний бульвар, 5Б</address>
+				<phoneVodaphone>+38(095)801-67-72</phoneVodaphone>
+				<phoneKyivstar>+38(098)388-38-58</phoneKyivstar>
+				<phoneHome>+38(0342)50-80-00</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Технополіс</rm>
+				<address>в. Красівського, 3а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)50-24-44</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Тонерс</rm>
+				<address>в. Василіянок, 62а, оф. 15</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(096)451-01-74</phoneKyivstar>
+				<phoneHome>+38(0342)50-02-40</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+		</orgtechnick>
+		<computer>
+			<item>
+				<rm>AppleShop.if.ua</rm>
+				<address>в. Грушевського, 13</address>
+				<phoneVodaphone>+38(050)026-90-00</phoneVodaphone>
+				<phoneKyivstar>+38(096)025-90-00</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Digital centre-IF</rm>
+				<address>в. Страчених, 3, пов. 2</address>
+				<phoneVodaphone>+38(099)451-05-75</phoneVodaphone>
+				<phoneKyivstar>+38(096)782-47-70</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Enter</rm>
+				<address>в. В. Стуса, 25</address>
+				<phoneVodaphone>+38(050)888-47-73</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)581-38-88</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Inter-IF</rm>
+				<address>в. Тичини, 20</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(097)793-95-65</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Inter-IF</rm>
+				<address>в. Чорновола, 89</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(097)793-95-65</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>iPeople</rm>
+				<address>в. Новгородська, 4</address>
+				<phoneVodaphone>+38(066)441-59-99</phoneVodaphone>
+				<phoneKyivstar>+38(067)777-88-40</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>iPeople</rm>
+				<address>в. Грушевського, 9</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)341-29-20</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+		
+		<item>
+				<rm>Prestige</rm>
+				<address>в. Тичини, 43б, офіс 1</address>
+				<phoneVodaphone>+38(099)290-73-28</phoneVodaphone>
+				<phoneKyivstar>+38(098)532-44-34</phoneKyivstar>
+				<phoneHome>+38(0342)73-54-35</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>SOURCE</rm>
+				<address>в. Української дивізії, 5а</address>
+				<phoneVodaphone>+38(050)284-75-47</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)474-71-85</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Update</rm>
+				<address>в. Василіянок, 34</address>
+				<phoneVodaphone>+38(050)293-94-00</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(03422)4-60-60</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Бріз Лтд</rm>
+				<address>в. Нова, 19а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)75-07-77</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Бріз Лтд</rm>
+				<address>в. Галицька, 47</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)195-91-25</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Захід ІТ Сервіс</rm>
+				<address>в. Гетьмана Мазепи, 11Б, пов. 2</address>
+				<phoneVodaphone>+38(099)558-17-22</phoneVodaphone>
+				<phoneKyivstar>+38(097)303-47-48</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Квін-Сервіс </rm>
+				<address>Вулиця Тринітарська, 13</address>
+				<phoneVodaphone>+38(095)141-60-36</phoneVodaphone>
+				<phoneKyivstar>+38(096)141-60-36</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>М-Стайл</rm>
+				<address>в. Незалежності, 179б</address>
+				<phoneVodaphone>+38(050)433-33-44</phoneVodaphone>
+				<phoneKyivstar>+38(096)733-22-33</phoneKyivstar>
+				<phoneHome>+38(0342)77-33-22</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>МasteRS</rm>
+				<address>+38(066)032-08-28</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)661-52-92</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Майстер-клас</rm>
+				<address>в. Б. Лепкого, 37</address>
+				<phoneVodaphone>+38(050)084-33-59</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)455-03-10</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Майстер-клас</rm>
+				<address>Новгородська, 24а</address>
+				<phoneVodaphone>+38(050)084-33-59</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38 (068) 455-03-10 </phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Медіа софт</rm>
+				<address>в. Незалежності, 83</address>
+				<phoneVodaphone>+38(050)434-27-27</phoneVodaphone>
+				<phoneKyivstar>+38(097)217-62-01</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт</rm>
+				<address>в. Незалежності, 67а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(093)422-27-63</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт</rm>
+				<address>в. Тичини, 43б</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38 (093) 422-27-63 </phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт комп'ютерів</rm>
+				<address>в. Вовчинецька, 195</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(098)708-47-12</phoneKyivstar>
+				<phoneHome>+38(063)370-48-94</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Серцен</rm>
+				<address>в. Шевченка, 9</address>
+				<phoneVodaphone>+38(095)495-98-00</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Тіп-Топ</rm>
+				<address>Вулиця Довга, 70</address>
+				<phoneVodaphone>+38(097)735-38-30</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)72-37-07</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Центр відновлення інформації</rm>
+				<address>в. І. Миколайчука, 6</address>
+				<phoneVodaphone>+38(050)729-69-60</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(068)189-06-32</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Центр відновлення інформації</rm>
+				<address>в. Вовчинецька, 185</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+		</computer>
+		<technick>
+			<item>
+				<rm>100 Гц</rm>
+				<address>Вулиця Тичини, 19а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)77-61-79</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Coffee.Cafe.Service</rm>
+				<address>с. Чукалівка вул. Довбуша, 1</address>
+				<phoneVodaphone>+38(050)526-44-33</phoneVodaphone>
+				<phoneKyivstar>+38(098)526-44-33</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>My service</rm>
+				<address>Вулиця Військових Ветеранів, 14</address>
+				<phoneVodaphone>+38(099)332-95-55</phoneVodaphone>
+				<phoneKyivstar>+38(098)374-15-13</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Аriston/Alko</rm>
+				<address>Вулиця Бельведерська, 53</address>
+				<phoneVodaphone>+38(050)540-31-67</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)74-11-16</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Алеути</rm>
+				<address>Вулиця Дудаєва, 13</address>
+				<phoneVodaphone>+38(066)858-63-91</phoneVodaphone>
+				<phoneKyivstar>+38(097)086-38-63</phoneKyivstar>
+				<phoneHome>+38(0342)73-47-40</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Бест Центр</rm>
+				<address>Вулиця Грюнвальдська, 19а, офіс 4, пов. 3</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)54-41-14</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Бріз Лтд</rm>
+				<address>Вулиця Нова, 19а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)75-07-77</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Бріз Лтд</rm>
+				<address>Вулиця Галицька, 47</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)195-91-25</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Гарант Холод</rm>
+				<address>Вулиця Миру, 90</address>
+				<phoneVodaphone>+38(050)716-63-73</phoneVodaphone>
+				<phoneKyivstar>+38(097)602-11-90</phoneKyivstar>
+				<phoneHome>+38(03422)6-87-86</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Інформаційно-вимірювальні технології</rm>
+				<address>Вулиця Української дивізії, 5</address>
+				<phoneVodaphone>+38(095)458-16-89</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)72-29-65</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>ІФТехСервіс</rm>
+				<address>Вулиця Вовчинецька, 28</address>
+				<phoneVodaphone>+38(095)029-69-29</phoneVodaphone>
+				<phoneKyivstar>+38(097)133-22-11</phoneKyivstar>
+				<phoneHome>+38(063)133-22-11</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Клімат +</rm>
+				<address>Вулиця Сорохтея, 26</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)52-50-26</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Кофеїн</rm>
+				<address>Вулиця Ленкавського, 15а</address>
+				<phoneVodaphone>+38(050)169-99-11</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Майстерня по ремонту апаратури</rm>
+				<address>Вулиця Степана Бандери, 60, корп. 1</address>
+				<phoneVodaphone>+38(095)022-00-80</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)52-31-18</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Нейтрон</rm>
+				<address>Вулиця Юліана Целевича, 16г</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(097)575-10-23</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Радіотовари</rm>
+				<address>Вулиця Новгородська, 16</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)497-68-77</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт навушників</rm>
+				<address></address>
+				<phoneVodaphone>+38(066)599-68-76</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт обладнання</rm>
+				<address>Вулиця 24 Серпня, 22а</address>
+				<phoneVodaphone>+38(050)666-90-09</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Ремонт побутової техніки</rm>
+				<address></address>
+				<phoneVodaphone>+38(050)635-99-57</phoneVodaphone>
+				<phoneKyivstar>+38(067)646-80-19 </phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Сервісний центр по ремонту тонометрів</rm>
+				<address>Вулиця Гетьмана Мазепи, 42</address>
+				<phoneVodaphone>+38(099)032-07-71</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(093)815-31-29</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Сервісний центр по ремонту тонометрів</rm>
+				<address>Вулиця Федьковича, 18</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>СТАРТ</rm>
+				<address>Вулиця Української дивізії, 5</address>
+				<phoneVodaphone>+38(095)900-75-53</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Телемарк</rm>
+				<address>Вулиця Пулюя, 10</address>
+				<phoneVodaphone>+38(050)808-54-70</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)50-47-27</phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm>Телерадіомайстерня</rm>
+				<address>Вулиця Дністровська, 49</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(096)821-39-33</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+		</technick>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item><item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item><item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+			<item>
+				<rm></rm>
+				<address></address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/repair.png</icon>
+			</item>
+	</channel>
+</rss>

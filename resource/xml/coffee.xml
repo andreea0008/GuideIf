@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <coffee>Best Coffee</coffee>
+			<address>в. Незалежності, 41, корп. /3</address>
+            <phoneVodaphone>+38(050)968-54-56 </phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Kimbo</coffee>
+			<address>в. Незалежності, 10а</address>
+            <phoneVodaphone>+38(050)373-51-00</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-87-94</phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+	        <coffee>Lviv Croissants</coffee>
+			<address>в. Гетьмана Мазепи, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+	        <coffee>Kurtosh  Cacao</coffee>
+			<address>в. Незалежності, 6</address>
+            <phoneVodaphone>+38(066)821-50-06</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Mondays</coffee>
+			<address>в. І. Франка, 11</address>
+            <phoneVodaphone>+38(093)774-06-40</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Monmartre</coffee>
+			<address>в. Шевченка, 13</address>
+            <phoneVodaphone>+38(095)865-75-83</phoneVodaphone>
+			<phoneKyivstar>38(067)125-80-65</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>MY COFFEE</coffee>
+			<address>в. Вагилевича, 9</address>
+            <phoneVodaphone>+38(050) 373-50-75</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+	
+       <item>
+            <coffee>PanCake</coffee>
+			<address>в. Гетьмана Мазепи, 21</address>
+            <phoneVodaphone>+38(099)059-66-68</phoneVodaphone>
+			<phoneKyivstar>+38(067)272-55-36</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Pasage Gartenberg </coffee>
+			<address>в. Незалежності, 3</address>
+            <phoneVodaphone>+38(095)175-90-00</phoneVodaphone>
+			<phoneKyivstar>+38(067)175-90-00</phoneKyivstar>
+			<phoneHome>+38(0342)72-51-01</phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Profiterole</coffee>
+			<address>в. Гетьмана Мазепи, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)000-96-94</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>STREET COFFEE</coffee>
+			<address>вул. Гетьмана Мазепи, 4</address>
+            <phoneVodaphone>+38(050)370-88-92</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>STREET COFFEE</coffee>
+			<address>пл. Міцкевича, 8а</address>
+            <phoneVodaphone>+38(050)372-86-15</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>STREET COFFEE</coffee>
+			<address>вул. Незалежності, 19</address>
+            <phoneVodaphone>+38(050)372-86-15</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>STREET COFFEE</coffee>
+			<address>вул. Шевченка, 64</address>
+            <phoneVodaphone>+38(050)377-46-78</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>STREET COFFEE</coffee>
+			<address>вул. Чорновола, 62</address>
+            <phoneVodaphone>+38(050)377-46-78</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>STREET COFFEE</coffee>
+			<address>вул. Незалежності, 53</address>
+            <phoneVodaphone>+38(050)370-88-92</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Sunday Coffee</coffee>
+			<address>в. Грушевського, 1</address>
+            <phoneVodaphone>+38(099)323-10-38</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Take the cake</coffee>
+			<address>в. Страчених, 7а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)345-12-24</phoneKyivstar>
+			<phoneHome>+38(0342)59-53-33</phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Галка</coffee>
+			<address>в. Бельведерська, 14</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-72-55</phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Говорить Івано-Франківськ</coffee>
+			<address>пл. Ринок, 8</address>
+            <phoneVodaphone>+38(095)760-91-13</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Дім кави</coffee>
+			<address>в. Грушевського, 22</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-73-96 </phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Кава Станіслава</coffee>
+			<address>в. П. Орлика, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)960-36-57</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Кавоварка</coffee>
+			<address>в. Чорновола, 67</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)327-67-67</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Кремівка</coffee>
+			<address>в. Леся Курбаса, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-13-42</phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item><item>
+            <coffee>Львівська майстерня шоколаду</coffee>
+			<address>в. Бачинського, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)608-57-09</phoneKyivstar>
+			<phoneHome>+38(0342)72-44-40 </phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Пиріжкова</coffee>
+			<address>в. Д. Вітовського, 19</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-23-74</phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Фабрика кави </coffee>
+			<address>в. Південний Бульвар, 35</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)111-85-41 </phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Фран-Stop</coffee>
+			<address>в. Чорновола, 75а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)114-01-02</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Франс.уа</coffee>
+			<address>в. Гетьмана Мазепи, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)667-82-35</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Цукерня</coffee>
+			<address>в. Незалежності, 12</address>
+            <phoneVodaphone>+38(050)337-28-48</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-73-76</phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+		<item>
+            <coffee>Krona Сatering</coffee>
+			<address>в. Шевченка, 44</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)389-25-51</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/coffee.png</icon>
+        </item>
+	</channel>
+</rss>
+
+		
+		
+           
+		

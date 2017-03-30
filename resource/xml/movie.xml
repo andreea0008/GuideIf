@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+		<item>		
+            <movie>Космос</movie>
+			<address>в. Незалежності, 97</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-26-25</phoneHome>
+			<icon>qrc:/img/resource/img/movie.png</icon>
+        </item>
+		<item>		
+            <movie>Люм'єр</movie>
+			<address>в. Грушевського, 3</address>
+            <phoneVodaphone>+38(066)992-00-00</phoneVodaphone>
+			<phoneKyivstar>+38(096)050-50-51</phoneKyivstar>
+			<phoneHome>+38(0342)50-55-55</phoneHome>
+			<icon>qrc:/img/resource/img/movie.png</icon>
+        </item>
+		<item>		
+            <movie>Кінобум</movie>
+			<address>в. Вовчинецька, 225а</address>
+            <phoneVodaphone>+38(095)624-76-70</phoneVodaphone>
+			<phoneKyivstar>+38(097)099-38-49</phoneKyivstar>
+			<phoneHome>+38(0342)54-09-90</phoneHome>
+			<icon>qrc:/img/resource/img/movie.png</icon>
+        </item>
+	</channel>
+</rss>

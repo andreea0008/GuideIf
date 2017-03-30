@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+		<departure>
+			<item><train>6436        </train><station>Івано-Франківськ-Коломия</station><time>21:10</time></item>
+			<item><train>6417    </train><station>Івано-Франківськ-Ходорів</station><time>21:07</time></item>
+			<item><train>6425    </train><station>Івано-Франківськ-Стрий</station><time>20:40</time></item>
+			<item><train>6410/6409</train><station>Івано-Франківськ-Яремче</station><time>20:21</time></item>
+			<item><train>6434    </train><station>Івано-Франківськ-Коломия</station><time>17:27</time></item>
+			<item><train>6415    </train><station>Івано-Франківськ-Ходорів</station><time>17:11</time></item>
+			<item><train>6413    </train><station>Івано-Франківськ-Ходорів</station><time>14:45</time></item>
+			<item><train>6405    </train><station>Івано-Франківськ-Яремче</station><time>09:22</time></item>
+			<item><train>6423    </train><station>Івано-Франківськ-Стрий</station><time>09:20</time></item>
+			<item><train>411    </train><station>Івано-Франківськ-Ходорів</station><time>09:15</time></item>
+			<item><train>6432    </train><station>Івано-Франківськ-Коломия</station><time>09:10</time></item>
+			<item><train>6438    </train><station>Івано-Франківськ-Коломия</station><time>05:49</time></item>
+			<item><train>6421    </train><station>Івано-Франківськ-Стрий</station><time>05:10</time></item>
+			<item><train>6403    </train><station>Івано-Франківськ-Рахів</station><time>02:56</time></item>
+		</departure>
+		
+		<arrived>
+			<item><train>6437	</train><station>Коломия-Івано-Франківськ</station><time>22:50</time></item>
+			<item><train>6416	</train><station>Ходорів-Івано-Франківськ</station><time>22:46</time></item>	
+			<item><train>6414	</train><station>Ходорів-Івано-Франківськ</station><time>19:38</time></item>
+			<item><train>6435	</train><station>Коломия-Івано-Франківськ</station><time>19:29</time></item>
+			<item><train>6424	</train><station>Стрий-Івано-Франківськ</station><time>19:25</time></item>
+			<item><train>6404	</train><station>Рахів-Івано-Франківськ</station><time>18:57</time></item>	
+			<item><train>6422	</train><station>Стрий-Івано-Франківськ</station><time>15:20</time></item>
+			<item><train>6433	</train><station>Коломия-Івано-Франківськ</station><time>15:15</time></item>	
+			<item><train>6406	</train><station>Яремче-Івано-Франківськ</station><time>14:27</time></item>		
+			<item><train>6412	</train><station>Ходорів-Івано-Франківськ</station><time>14:21</time></item>
+			<item><train>6402/6401	</train><station>Яремче-Івано-Франківськ</station><time>07:45</time></item>
+			<item><train>6431	</train><station>Коломия-Івано-Франківськ</station><time>07:17</time></item>
+			<item><train>6418	</train><station>Ходорів-Івано-Франківськ</station><time>07:02</time></item>
+			<item><train>6426	</train><station>Стрий-Івано-Франківськ</station><time>06:52</time></item>
+		</arrived>
+	</channel>
+</rss>

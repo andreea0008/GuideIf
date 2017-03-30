@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+				<cdc>CDDLUXE</cdc>
+				<address>в. ІванаФранка,37</address>
+				<phoneVodaphone>+38(066)988-01-67</phoneVodaphone>
+				<phoneKyivstar>+38(096)356-60-07</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>CDDLUXE</cdc>
+				<address>в. Пасічна,2</address>
+				<phoneVodaphone>+38(066)202-16-71</phoneVodaphone>
+				<phoneKyivstar>+38(068)107-43-32</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Sanate</cdc>
+				<address>в. Купчинського,14</address>
+				<phoneVodaphone>+38(050)690-06-76</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)72-37-44</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Альтмед</cdc>
+				<address>в. Галицька, 167</address>
+				<phoneVodaphone>+38(066)304-74-70</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)58-17-52</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Альфа</cdc>
+				<address>в. Вовчинецька, 26</address>
+				<phoneVodaphone>+38(050)338-87-71</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)77-94-80</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Арніка</cdc>
+				<address>в. ІванаПавла ІІ, 4</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(096)255-85-43</phoneKyivstar>
+				<phoneHome>+38(0342)50-67-60</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Брасс. Здорова шкіра</cdc>
+				<address>в. Марійки Підгірянки,23</address>
+				<phoneVodaphone>+38(095)585-74-78</phoneVodaphone>
+				<phoneKyivstar>+38(098)783-06-00</phoneKyivstar>
+				<phoneHome>+38(0342)75-11-41</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>ВерамедПлюс</cdc>
+				<address>в. Зорія,7а</address>
+				<phoneVodaphone>+38(099)967-68-81</phoneVodaphone>
+				<phoneKyivstar>+38(068)552-86-63</phoneKyivstar>
+				<phoneHome>+38(0342)52-31-07</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Візус-Кідс</cdc>
+				<address>в. Чорновола, 101</address>
+				<phoneVodaphone>+38(066)079-92-04</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)73-54-96</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Віта</cdc>
+				<address>в. Вовчинецька, 124, корп. 1</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)71-13-36</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Гал-Діагност</cdc>
+				<address>в. Чорновола, 47</address>
+				<phoneVodaphone>+38(066)457-70-97</phoneVodaphone>
+				<phoneKyivstar>+38(096)957-21-19</phoneKyivstar>
+				<phoneHome>+38(0342)75-01-97</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>ДАМІЯ</cdc>
+				<address>в. Федьковича, 112б</address>
+				<phoneVodaphone>+38(099)443-35-35</phoneVodaphone>
+				<phoneKyivstar>+38(098)499-42-42</phoneKyivstar>
+				<phoneHome>+38(0342)52-40-04</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Дитячий зір</cdc>
+				<address>в. Дністровська, 16а, пов. 4</address>
+				<phoneVodaphone>+38(099)050-35-46</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)73-18-26</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Діа-Лік</cdc>
+				<address>в. Гетьмана Мазепи, 114б</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)52-59-02</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Доктора Бубновського</cdc>
+				<address>в. Галицька, 41б</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)54-10-00</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Екстрамед</cdc>
+				<address>в. Василіянок, 15, пов. 3</address>
+				<phoneVodaphone>+38(099)235-80-90</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)71-28-00</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>ЕЛМЕД</cdc>
+				<address>в. Січових Стрільців, 34, пов. 2</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(097)501-25-10</phoneKyivstar>
+				<phoneHome>+38(0342)77-37-70</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Євамед</cdc>
+				<address>в. Чорновола, 47, пов. 1</address>
+				<phoneVodaphone>+38(050)553-28-38</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)75-20-77</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Євромед</cdc>
+				<address>в. Бельведерська, 25а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)74-04-74</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Життя</cdc>
+				<address>в. Незалежності, 65</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)325-12-04</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Інститут вертебрології і реабілітації</cdc>
+				<address>в. Чорновола, 99</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)74-45-40</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Кабінет МРТ</cdc>
+				<address>в. Матейки, 34</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(096)075-21-41</phoneKyivstar>
+				<phoneHome>+38(0342)75-21-41</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Клініко-діагностичний центр</cdc>
+				<address>в. Гетьмана Мазепи, 114а</address>
+				<phoneVodaphone>+38(066)673-12-98</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)52-71-31</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Лікувально-діагностичний центр св. Луки</cdc>
+				<address>в. Гарбарська, 22</address>
+				<phoneVodaphone>+38(050)940-07-81</phoneVodaphone>
+				<phoneKyivstar>+38(098)417-88-31</phoneKyivstar>
+				<phoneHome>+38(0342)72-47-31</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Мед-Атлант</cdc>
+				<address>в. Чорновола, 48</address>
+				<phoneVodaphone>+38(095)003-84-53</phoneVodaphone>
+				<phoneKyivstar>+38(097)411-31-33</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Медекс Плюс</cdc>
+				<address>в. Військових Ветеранів, 10</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)71-15-60</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Медична практика</cdc>
+				<address>в. Довга, 42, офіс 63</address>
+				<phoneVodaphone>+38(050)434-50-54</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)71-34-83</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Медікум plus</cdc>
+				<address>в. Івана Франка, 25а</address>
+				<phoneVodaphone>+38(050)919-98-76</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>МЕДЛЮКС</cdc>
+				<address>в. Чорновола, 48</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)71-26-00</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>МЕДЛЮКС</cdc>
+				<address>в. Бельведерська, 25а</address>
+				<phoneVodaphone>+38(095)560-02-40</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>МЕДЛЮКС</cdc>
+				<address>в. Гетьмана Мазепи, 59</address>
+				<phoneVodaphone>+38(066)471-64-09</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)72-34-75</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>МЕДЛЮКС</cdc>
+				<address>в. Коновальця, 132</address>
+				<phoneVodaphone>+38(050)516-04-86</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>МЕДЛЮКС</cdc>
+				<address>в. Гетьмана Мазепи, 35</address>
+				<phoneVodaphone>+38(066)507-74-19</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Медсервіс</cdc>
+				<address>в. Галицька, 22</address>
+				<phoneVodaphone>+38(050)811-57-75</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)77-75-25</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Медхауз</cdc>
+				<address>в. Грушевського, 22а, пов. 4</address>
+				<phoneVodaphone>+38(050)442-21-03</phoneVodaphone>
+				<phoneKyivstar>+38(068)442-21-03</phoneKyivstar>
+				<phoneHome>+38(0342)76-61-03</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Науково-практичний офтальмологічний центр</cdc>
+				<address>в. Незалежності, 4, офіс 312</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)50-24-61</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Оксфорд Медікал Прикарпаття</cdc>
+				<address>в. Василіянок, 1</address>
+				<phoneVodaphone>+38(050)377-72-99</phoneVodaphone>
+				<phoneKyivstar>+38(097)477-72-99</phoneKyivstar>
+				<phoneHome>+38(0342)77-72-99</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Остеохондроз Хребет Дискович</cdc>
+				<address>в. Вовчинецька, 26</address>
+				<phoneVodaphone>+38(095)210-31-03</phoneVodaphone>
+				<phoneKyivstar>+38(096)210-31-03</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>ПРИВАТНА ДИТЯЧА ПОЛІКЛІНІКА №1</cdc>
+				<address>в. Дністровська, 16а</address>
+				<phoneVodaphone>+38(099)065-16-82</phoneVodaphone>
+				<phoneKyivstar>+38(068)731-87-64</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Примафлора</cdc>
+				<address>в. Тичини, 8а, офіс 238</address>
+				<phoneVodaphone>+38(050)224-89-45</phoneVodaphone>
+				<phoneKyivstar>+38(067)429-07-59</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Репобона</cdc>
+				<address>в. Марійки Підгірянки, 23</address>
+				<phoneVodaphone>+38(050)490-80-60</phoneVodaphone>
+				<phoneKyivstar>+38(098)720-30-40</phoneKyivstar>
+				<phoneHome>+38(0342)53-76-61</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>РУХ БЕЗ БОЛЮ</cdc>
+				<address>в. Галицька, 67</address>
+				<phoneVodaphone>+38(099)230-35-99</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>СІМЕДГРУП</cdc>
+				<address>в. Федьковича, 91а</address>
+				<phoneVodaphone>+38(099)156-59-58</phoneVodaphone>
+				<phoneKyivstar>+38(068)377-44-17</phoneKyivstar>
+				<phoneHome>+38(0342)52-40-40</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Центр відновлення зору Анатолія Совви</cdc>
+				<address>в. Незалежності, 65</address>
+				<phoneVodaphone>+38(066)748-61-85</phoneVodaphone>
+				<phoneKyivstar>+38(097)645-50-55</phoneKyivstar>
+				<phoneHome>+38(0342)54-35-40</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Центр дистанційної літотрипсії</cdc>
+				<address>в. Гетьмана Мазепи, 114</address>
+				<phoneVodaphone>+38(050)373-70-90</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Центр здорового хребта</cdc>
+				<address>в. Сорохтея, 11а</address>
+				<phoneVodaphone>+38(095)325-88-77</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+		<item>
+				<cdc>Центр терапії ока</cdc>
+				<address>в. Коновальця, 123</address>
+				<phoneVodaphone>+38(099)271-21-62</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)71-24-66</phoneHome>
+				<icon>qrc:/img/resource/img/clinique.center.png</icon>
+		</item>
+	</channel>
+</rss>

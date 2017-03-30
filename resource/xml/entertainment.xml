@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+		<item>		
+            <entertainment>MARIO Gaming House</entertainment>
+			<address>пл. Міцкевича, 8</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)645-65-96</phoneKyivstar>
+			<phoneHome>+38(0342)77-75-71</phoneHome>
+			<icon>qrc:/img/resource/img/game.png</icon>
+        </item>
+		<item>		
+            <entertainment>Цунамі Аквапарк</entertainment>
+			<address>в. О. Довженка, 29</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)-71-40-70</phoneHome>
+			<icon>qrc:/img/resource/img/game.png</icon>
+        </item>
+		<item>		
+            <entertainment>Цунамі Льодова Арена</entertainment>
+			<address>в. О. Довженка, 29</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-40-60</phoneHome>
+			<icon>qrc:/img/resource/img/game.png</icon>
+        </item>
+		<item>		
+            <entertainment>Panorama Club</entertainment>
+			<address>в. Південний Бульвар, 2а</address>
+            <phoneVodaphone>+38(066)682-43-30</phoneVodaphone>
+			<phoneKyivstar>+38(068)144-28-55</phoneKyivstar>
+			<phoneHome>+38(0342)71-12-04</phoneHome>
+			<icon>qrc:/img/resource/img/game.png</icon>
+        </item>
+	</channel>
+</rss>

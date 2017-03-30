@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>	
+		<item><time>6:00</time> 	<route>Івано-Франківськ-Дубівці</route></item>
+		<item><time>6:05</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>6:15</time> 	<route>Івано-Франківськ-Кінашів</route></item>
+		<item><time>6:20</time> 	<route>Івано-Франківськ-Рибне</route></item>
+		<item><time>6:20</time> 	<route>Івано-Франківськ-Межигірці</route></item>
+		<item><time>6:25</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>6:30</time> 	<route>Івано-Франківськ-Мариямпіль</route></item>
+		<item><time>6:40</time> 	<route>Івано-Франківськ-Дубівці</route></item>
+		<item><time>6:45</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>6:46</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>6:50</time> 	<route>Івано-Франківськ-Тязів</route></item>
+		<item><time>6:55</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>7:05</time> 	<route>Івано-Франківськ-Яблунів</route></item>
+		<item><time>7:05</time> 	<route>Івано-Франківськ-Сілець</route></item>
+		<item><time>7:05</time> 	<route>Івано-Франківськ-Бригь</route></item>
+		<item><time>7:05</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>7:15</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>7:25</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>7:30</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>7:30</time> 	<route>Івано-Франківськ-Сапогів</route></item>
+		<item><time>7:40</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>7:40</time> 	<route>Івано-Франківськ-Більшівці</route></item>
+		<item><time>7:41</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>7:45</time> 	<route>Івано-Франківськ-Тязів</route></item>
+		<item><time>7:45</time> 	<route>Івано-Франківськ-Козино</route></item>
+		<item><time>7:45</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>7:50</time> 	<route>Івано-Франківськ-Рибне</route></item>
+		<item><time>7:55</time> 	<route>Івано-Франківськ-Вікторів</route></item>
+		<item><time>8:00</time> 	<route>Івано-Франківськ-Грабівка</route></item>
+		<item><time>8:00</time> 	<route>Івано-Франківськ-Сілець</route></item>
+		<item><time>8:05</time> 	<route>Івано-Франківськ-Бурштин</route></item>
+		<item><time>8:05</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>8:10</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>8:20</time> 	<route>Івано-Франківськ-Комарів</route></item>
+		<item><time>8:20</time> 	<route>Івано-Франківськ-Межигірці</route></item>
+		<item><time>8:20</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>8:30</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>8:30</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>8:40</time> 	<route>Івано-Франківськ-Тязів</route></item>
+		<item><time>8:50</time> 	<route>Івано-Франківськ-Темерівці</route></item>
+		<item><time>8:50</time> 	<route>Івано-Франківськ-Бринь</route></item>
+		<item><time>8:50</time> 	<route>Івано-Франківськ-Вікторів</route></item>
+		<item><time>8:55</time> 	<route>Івано-Франківськ-Галич</route></item>
+		<item><time>9:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>9:00</time> 	<route>Івано-Франківськ-Дубівці</route></item>
+		<item><time>9:00</time> 	<route>Івано-Франківськ-Сілець</route></item>
+		<item><time>9:16</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>9:20</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>9:25</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>9:30</time> 	<route>Івано-Франківськ-Сарники</route></item>
+		<item><time>9:40</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>9:40</time> 	<route>Івано-Франківськ-Тязів</route></item>
+		<item><time>9:55</time> 	<route>Івано-Франківськ-Рибне</route></item>
+		<item><time>10:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>10:05</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>10:05</time> 	<route>Івано-Франківськ-Комарів</route></item>
+		<item><time>10:20</time> 	<route>Івано-Франківськ-Майдан</route></item>
+		<item><time>10:30</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>10:30</time> 	<route>Івано-Франківськ-Більшівці</route></item>
+		<item><time>10:46</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>10:55</time> 	<route>Івано-Франківськ-Сарники</route></item>
+		<item><time>11:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>11:10</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>11:15</time> 	<route>Івано-Франківськ-Підшумлянці</route></item>
+		<item><time>11:20</time> 	<route>Івано-Франківськ-Бурштин</route></item>
+		<item><time>11:30</time> 	<route>Івано-Франківськ-Дубівці</route></item>
+		<item><time>11:35</time> 	<route>Івано-Франківськ-Галич</route></item>
+		<item><time>11:40</time> 	<route>Івано-Франківськ-Кінашів</route></item>
+		<item><time>11:45</time> 	<route>Івано-Франківськ-Козино</route></item>
+		<item><time>11:50</time> 	<route>Івано-Франківськ-Вікторів</route></item>
+		<item><time>11:50</time> 	<route>Івано-Франківськ-Межигірці</route></item>
+		<item><time>12:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>12:00</time> 	<route>Івано-Франківськ-Сілець</route></item>
+		<item><time>12:00</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>12:00</time> 	<route>Івано-Франківськ-Мединя</route></item>
+		<item><time>12:10</time> 	<route>Івано-Франківськ-Кінчаки</route></item>
+		<item><time>12:16</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>12:20</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>12:25</time> 	<route>Івано-Франківськ-Бурштин</route></item>
+		<item><time>12:30</time> 	<route>Івано-Франківськ-Тимерівці</route></item>
+		<item><time>12:30</time> 	<route>Івано-Франківськ-Дубівці</route></item>
+		<item><time>12:40</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>12:45</time> 	<route>Івано-Франківськ-Тумир</route></item>
+		<item><time>12:45</time> 	<route>Івано-Франківськ-Сапогів</route></item>
+		<item><time>12:50</time> 	<route>Івано-Франківськ-Яблунів</route></item>
+		<item><time>13:00</time> 	<route>Івано-Франківськ-Мариямпіль</route></item>
+		<item><time>13:00</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>13:00</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>13:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>13:10</time> 	<route>Івано-Франківськ-Дорогів</route></item>
+		<item><time>13:10</time> 	<route>Івано-Франківськ-Курів</route></item>
+		<item><time>13:25</time> 	<route>Івано-Франківськ-Вікторів</route></item>
+		<item><time>13:30</time> 	<route>Івано-Франківськ-Мединя</route></item>
+		<item><time>13:30</time> 	<route>Івано-Франківськ-Тязів</route></item>
+		<item><time>13:30</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>13:31</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>13:40</time> 	<route>Івано-Франківськ-Демешківці</route></item>
+		<item><time>13:40</time> 	<route>Івано-Франківськ-Сарники</route></item>
+		<item><time>13:45</time> 	<route>Івано-Франківськ-Бишів</route></item>
+		<item><time>13:55</time> 	<route>Івано-Франківськ-Грібівка</route></item>
+		<item><time>14:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>14:00</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>14:20</time> 	<route>Івано-Франківськ-Рибне</route></item>
+		<item><time>14:20</time> 	<route>Івано-Франківськ-Галич</route></item>
+		<item><time>14:30</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>14:40</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>14:46</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Комарів</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Темерівці</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Дубівці</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Сілець</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Кінашів</route></item>
+		<item><time>15:05</time> 	<route>Івано-Франківськ-Бринь</route></item>
+		<item><time>15:15</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>15:25</time> 	<route>Івано-Франківськ-Сапогів</route></item>
+		<item><time>15:30</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>15:30</time> 	<route>Івано-Франківськ-Більшівці</route></item>
+		<item><time>15:35</time> 	<route>Івано-Франківськ-Галич</route></item>
+		<item><time>15:40</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>15:55</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>16:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>16:01</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>16:10</time> 	<route>Івано-Франківськ-Яблунів</route></item>
+		<item><time>16:15</time> 	<route>Івано-Франківськ-Вікторів</route></item>
+		<item><time>16:20</time> 	<route>Івано-Франківськ-Сарники</route></item>
+		<item><time>16:20</time> 	<route>Івано-Франківськ-Майдан</route></item>
+		<item><time>16:20</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>16:30</time> 	<route>Івано-Франківськ-Тязів</route></item>
+		<item><time>16:30</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>16:30</time> 	<route>Івано-Франківськ-Сілець</route></item>
+		<item><time>16:40</time> 	<route>Івано-Франківськ-Рибне</route></item>
+		<item><time>16:40</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>16:40</time> 	<route>Івано-Франківськ-Юнашів</route></item>
+		<item><time>16:45</time> 	<route>Івано-Франківськ-Курів</route></item>
+		<item><time>16:50</time> 	<route>Івано-Франківськ-Межигірці</route></item>
+		<item><time>16:50</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>16:55</time> 	<route>Івано-Франківськ-Тумир</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Темерівці</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Дубівці</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Підшумлянці</route></item>
+		<item><time>17:05</time> 	<route>Івано-Франківськ-Сарники</route></item>
+		<item><time>17:05</time> 	<route>Івано-Франківськ-Демешківці</route></item>
+		<item><time>17:15</time> 	<route>Івано-Франківськ-Комарів</route></item>
+		<item><time>17:15</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>17:16</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>17:20</time> 	<route>Івано-Франківськ-Мариямпіль</route></item>
+		<item><time>17:20</time> 	<route>Івано-Франківськ-Кінчаки</route></item>
+		<item><time>17:20</time> 	<route>Івано-Франківськ-Грабівка</route></item>
+		<item><time>17:20</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>17:25</time> 	<route>Івано-Франківськ-Мединя</route></item>
+		<item><time>17:30</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>17:30</time> 	<route>Івано-Франківськ-Вікторів</route></item>
+		<item><time>17:30</time> 	<route>Івано-Франківськ-Тязів</route></item>
+		<item><time>17:30</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>17:35</time> 	<route>Івано-Франківськ-Бринь</route></item>
+		<item><time>17:40</time> 	<route>Івано-Франківськ-Мединя</route></item>
+		<item><time>17:45</time> 	<route>Івано-Франківськ-Більшівці</route></item>
+		<item><time>17:50</time> 	<route>Івано-Франківськ-Сілець</route></item>
+		<item><time>18:00</time> 	<route>Івано-Франківськ-Мединя</route></item>
+		<item><time>18:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>18:05</time> 	<route>Івано-Франківськ-Дорогів</route></item>
+		<item><time>18:10</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>18:15</time> 	<route>Івано-Франківськ-Темерівці</route></item>
+		<item><time>18:16</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>18:20</time> 	<route>Івано-Франківськ-Кінашів</route></item>
+		<item><time>18:25</time> 	<route>Івано-Франківськ-Козино</route></item>
+		<item><time>18:30</time> 	<route>Івано-Франківськ-Сапогів</route></item>
+		<item><time>18:30</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>18:30</time> 	<route>Івано-Франківськ-Тязів</route></item>
+		<item><time>18:35</time> 	<route>Івано-Франківськ-Рибне</route></item>
+		<item><time>18:45</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>18:50</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>19:00</time> 	<route>Івано-Франківськ-Бишів</route></item>
+		<item><time>19:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>19:15</time> 	<route>Івано-Франківськ-Вікторів</route></item>
+		<item><time>19:16</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>19:20</time> 	<route>Івано-Франківськ-Сілець</route></item>
+		<item><time>19:20</time> 	<route>Івано-Франківськ-Дубівці</route></item>
+		<item><time>19:30</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>19:40</time> 	<route>Івано-Франківськ-Мединя</route></item>
+		<item><time>20:00</time> 	<route>Івано-Франківськ-Павлівка</route></item>
+		<item><time>20:10</time> 	<route>Івано-Франківськ-Козино</route></item>
+		<item><time>20:15</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+		<item><time>20:15</time> 	<route>Івано-Франківськ-Вікторів</route></item>
+		<item><time>20:16</time> 	<route>Івано-Франківськ-Клузів</route></item>
+		<item><time>20:20</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>20:30</time> 	<route>Івано-Франківськ-Єзупіль</route></item>
+		<item><time>20:30</time> 	<route>Івано-Франківськ-Підшумлянці</route></item>
+		<item><time>21:00</time> 	<route>Івано-Франківськ-Побережжя</route></item>
+	</channel>
+	<between>
+		<galych>
+			<item>
+				<time>5:10</time>
+				<route>Івано-Франківськ-Рівне</route>
+			</item>
+			<item>
+				<time>6:00</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>6:30</time>
+				<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+				<time>6:30</time>
+				<route>Івано-Франківськ-Маркова</route>
+			</item>
+			<item>
+				<time>6:40</time>
+				<route>Буковель-Луцьк</route>
+			</item>
+			<item>
+				<time>7:00</time>
+				<route>Івано-Франківськ-Устя Зелене</route>
+			</item>
+			<item>
+				<time>7:10</time>
+				<route>Івано-Франківськ-Підгайці</route>
+			</item>
+			<item>
+				<time>7:35</time>
+				<route>Городенка-Львів</route>
+			</item>
+			<item>
+				<time>7:50</time>
+				<route>Калуш-Тернопіль</route>
+			</item>
+			<item>
+				<time>8:40</time>
+				<route>Яремче-Львів</route>
+			</item>
+			<item>
+				<time>9:00</time>
+				<route>Кути-Львів</route>
+			</item>
+			<item>
+				<time>9:50</time>
+				<route>Коломия-Львів</route>
+			</item>
+			<item>
+				<time>10:00</time>
+				<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+				<time>10:10</time>
+				<route>Ворохта-Львів</route>
+			</item>
+			<item>
+				<time>10:45</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>10:50</time>
+				<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+				<time>11:15</time>
+				<route>Чернівці-Львів</route>
+			</item>
+			<item>
+				<time>11:35</time>
+				<route>Яремче-Львів</route>
+			</item>
+			<item>
+				<time>12:00</time>
+				<route>Івано-Франківськ-Підгайці</route>
+			</item>
+			<item>
+				<time>12:15</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>12:40</time>
+				<route>Чернівці-Львів</route>
+			</item>
+			<item>
+				<time>13:15</time>
+				<route>Івано-Франківськ-Маркова</route>
+			</item>
+			<item>
+				<time>13:30</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>14:00</time>
+				<route>Івано-Франківськ-Броди</route>
+			</item>
+			<item>
+				<time>14:05</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>14:30</time>
+				<route>Івано-Франківськ-Сокаль</route>
+			</item>
+			<item>
+				<time>14:50</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>14:50</time>
+				<route>Чуст-Хмельницький</route>
+			</item>
+			<item>
+				<time>15:25</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>15:40</time>
+				<route>Івано-Франківськ-Устя Зелене</route>
+			</item>
+			<item>
+				<time>15:45</time>
+				<route>Калуш-Тернопіль</route>
+			</item>
+			<item>
+				<time>16:30</time>
+				<route>Косів-Львів</route>
+			</item>
+			<item>
+				<time>17:15</time>
+				<route>Калуш-Київ</route>
+			</item>
+			<item>
+				<time>17:50</time>
+				<route>Івано-Франківськ-Маркова</route>
+			</item>
+			<item>
+				<time>18:15</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>18:55</time>
+				<route>Чернівці-Рогатин</route>
+			</item>
+			<item>
+				<time>19:35</time>
+				<route>Снятин-Львів</route>
+			</item>
+		</galych>
+		
+		<kolomyya>
+			<item>
+				<time>7:05</time>
+				<route>Калуш-Чернівці</route>
+			</item>
+			<item>
+				<time>9:55</time>
+				<route>Івано-Франківськ-Могилів-Подільський</route>
+			</item>
+			<item>
+				<time>10:45</time>
+				<route>Трускавець-Коломия</route>
+			</item>
+			<item>
+				<time>11:20</time>
+				<route>Львів-Кути</route>
+			</item>
+			<item>
+				<time>11:55</time>
+				<route>Львів-Снятин</route>
+			</item>
+			<item>
+				<time>12:50</time>
+				<route>Івано-Франківськ-Чернівці</route>
+			</item>
+			<item>
+				<time>13:35</time>
+				<route>Львів-Чернівці</route>
+			</item>
+			<item>
+				<time>13:45</time>
+				<route>Підволочиськ-Кути</route>
+			</item>
+			<item>
+				<time>14:25</time>
+				<route>Львів-Косів</route>
+			</item>
+			<item>
+				<time>15:20</time>
+				<route>Трускавець-Чернівці</route>
+			</item>
+			<item>
+				<time>16:15</time>
+				<route>Івано-Франківськ-Вижниця</route>
+			</item>
+			<item>
+				<time>17:25</time>
+				<route>Львів-Вижниця</route>
+			</item>
+			<item>
+				<time>18:05</time>
+				<route>Львів-Коломия</route>
+			</item>
+			<item>
+				<time>21:15</time>
+				<route>Львів-Чернівці</route>
+			</item>
+			<item>
+				<time>21:25</time>
+				<route>Трускавець-Косів</route>
+			</item>
+		</kolomyya>
+		
+		<kalush>
+			<item>
+				<time>6:15</time>
+				<route>Івано-Франківськ-Трускавець</route>
+			</item>
+			<item>
+				<time>6:50</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>7:05</time>
+				<route>Івано-Франківськ-Ужгород</route>
+			</item>
+			<item>
+				<time>7:20</time>
+				<route>Київ-Калуш</route>
+			</item>
+			<item>
+				<time>8:30</time>
+				<route>Івано-Франківськ-Трускавець</route>
+			</item>
+			<item>
+				<time>9:05</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>9:20</time>
+				<route>Косів-Трускавець</route>
+			</item>
+			<item>
+				<time>9:40</time>
+				<route>Івано-Франківськ-Ужгород</route>
+			</item>
+			<item>
+				<time>10:35</time>
+				<route>Тернопіль-Калуш</route>
+			</item>
+			<item>
+				<time>10:45</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>11:20</time>
+				<route>Івано-Франківськ-Ужгород</route>
+			</item>
+			<item>
+				<time>11:45</time>
+				<route>Чортків-Трускавець</route>
+			</item>
+			<item>
+				<time>13:05</time>
+				<route>Коломия-Трускавець</route>
+			</item>
+			<item>
+				<time>14:20</time>
+				<route>Кам'янець-Подільський-Трускавець</route>
+			</item>
+			<item>
+				<time>15:25</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>15:35</time>
+				<route>Чернівці-Трускавець</route>
+			</item>
+			<item>
+				<time>15:55</time>
+				<route>Вижниця-Львів</route>
+			</item>
+			<item>
+				<time>17:05</time>
+				<route>Івано-Франківськ-Самбір</route>
+			</item>
+			<item>
+				<time>17:10</time>
+				<route>Тернопіль-Калуш</route>
+			</item>
+			<item>
+				<time></time>
+				<route>Хмельницький-Хуст</route>
+			</item>
+			<item>
+				<time>17:45</time>
+				<route>Тернопіль-Долина</route>
+			</item>
+			<item>
+				<time>18:25</time>
+				<route>Чернівці-Калуш</route>
+			</item>
+			<item>
+				<time>18:45</time>
+				<route>Івано-Франківськ-Львів</route>
+			</item>
+			<item>
+				<time>19:40</time>
+				<route>Кам'янець-Подільський-Калуш</route>
+			</item>
+		</kalush>
+	
+		<ternopil>
+			<item>
+					<time>5:45</time>
+					<route>Івано-Франківськ-Хмельницький</route>
+			</item>
+			<item>
+					<time>6:30</time>
+					<route>Івано-Франківськ-Сатанів</route>
+			</item>
+			<item>
+					<time>7:05</time>
+					<route>Івано-Франківськ-Луцьк</route>
+			</item>
+			<item>
+					<time>7:40</time>
+					<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+					<time>8:10</time>
+					<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+					<time>8:45</time>
+					<route>Івано-Франківськ-Рівне</route>
+			</item>
+			<item>
+					<time>9:00</time>
+					<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+					<time>9:20</time>
+					<route>Яремче-Тернопіль</route>
+			</item>
+			<item>
+					<time>10:00</time>
+					<route>Івано-Франківськ-Коропець</route>
+			</item>
+			<item>
+					<time>10:05</time>
+					<route>Долина-Тернопіль</route>
+			</item>
+			<item>
+					<time>10:10</time>
+					<route>Івано-Франківськ-Чортків</route>
+			</item>
+			<item>
+					<time>10:35</time>
+					<route>Яремче-Хмельницький</route>
+			</item>
+			<item>
+					<time>11:03</time>
+					<route>Яремче-Вінниця</route>
+			</item>
+			<item>
+					<time>11:40</time>
+					<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+					<time>11:50</time>
+					<route>Івано-Франківськ-Хмельницький</route>
+			</item>
+			<item>
+					<time>12:10</time>
+					<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+					<time>12:40</time>
+					<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+					<time>13:25</time>
+					<route>Кути-Підволочиськ</route>
+			</item>
+			<item>
+					<time>13:35</time>
+					<route>Івано-Франківськ-Борщів</route>
+			</item>
+			<item>
+					<time>13:50</time>
+					<route>Івано-Франківськ-Гусятин</route>
+			</item>
+			<item>
+					<time>14:05</time>
+					<route>Івано-Франківськ-Збараж</route>
+			</item>
+			<item>
+					<time>14:20</time>
+					<route>Трускавець-Кам'янець-Подільський</route>
+			</item>
+			<item>
+					<time>14:35</time>
+					<route>Рахів-Підволочиськ</route>
+			</item>
+			<item>
+					<time>15:00</time>
+					<route>Івано-Франківськ-Хмельницький</route>
+			</item>
+			<item>
+					<time>15:10</time>
+					<route>Івано-Франківськ-Дубно</route>
+			</item>
+			<item>
+					<time>15:45</time>
+					<route>Івано-Франківськ-Коропець</route>
+			</item>
+			<item>
+					<time>15:55</time>
+					<route>Івано-Франківськ-Підволочиськ</route>
+			</item>
+			<item>
+					<time>16:15</time>
+					<route>Івано-Франківськ-Рівне</route>
+			</item>
+			<item>
+					<time>16:35</time>
+					<route>Івано-Франківськ-Борщів</route>
+			</item>
+			<item>
+					<time>16:45</time>
+					<route>Калуш-Одеса</route>
+			</item>
+			<item>
+					<time>16:55</time>
+					<route>Івано-Франківськ-Тернопіль</route>
+			</item>
+			<item>
+					<time>17:05</time>
+					<route>Івано-Франківськ-Монастириськ</route>
+			</item>
+			<item>
+					<time>17:20</time>
+					<route>Івано-Франківськ-Монастириськ</route>
+			</item>
+			<item>
+					<time>17:40</time>
+					<route>Буковель-Збараж</route>
+			</item>
+			<item>
+					<time>18:05</time>
+					<route>Хуст-Одеса</route>
+			</item>
+			<item>
+					<time>18:05</time>
+					<route>Івано-Франківськ-Чортків</route>
+			</item>
+			<item>
+					<time>18:25</time>
+					<route>Івано-Франківськ-Київ</route>
+			</item>
+			<item>
+					<time>19:50</time>
+					<route>Калуш-Київ</route>
+			</item>
+			<item>
+					<time>20:42</time>
+					<route>Трускавець-Чортків</route>
+			</item>
+		</ternopil>
+	</between>
+	
+	</rss>

@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <pharmacy>103</pharmacy>
+			<address>в. Василя Стуса, 15а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)6-88-40</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>3І</pharmacy>
+			<address>в. Василя Симоненка, 15г</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-60-55</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>555 Велес</pharmacy>
+			<address>в. Вовчинецька, 225а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)78-65-79</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>7х7</pharmacy>
+			<address>в. Медична, 15</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-22-40</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>DS</pharmacy>
+			<address>в. Дністровська, 16а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-73-08</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>DS</pharmacy>
+			<address>в. Коновальця, 132а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-34-68</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>DS</pharmacy>
+			<address>в. Північний бульвар, 2б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-63-77</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>DS</pharmacy>
+			<address>в. Тичини, 44</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)78-54-54</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Watsons</pharmacy>
+			<address>в. Чорновола, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-00-33</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>А-Марк</pharmacy>
+			<address>в. Тичини, 65</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)101-09-00</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>А-Марк</pharmacy>
+			<address>в. Коновальця, 132</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)101-03-10</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Авіцена-фарм</pharmacy>
+			<address>в. Гетьмана Мазепи, 27в</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-11-91</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Адоніс</pharmacy>
+			<address>в. Вовчинецька, 28</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-30-32</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Адоніс</pharmacy>
+			<address>Площа Привокзальна, 9</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-30-88</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Адоніс</pharmacy>
+			<address>в. Гетьмана Мазепи, 100</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-28-46</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Адоніс</pharmacy>
+			<address>в. Олександра Довженка, 21б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-44-84</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Адоніс</pharmacy>
+			<address>в. Галицька, 112д</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-88-20</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аксіс</pharmacy>
+			<address>в. Степана Бандери, 62, корп. 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-74-62</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аксіс</pharmacy>
+			<address>в. Гетьмана Мазепи, 114</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-73-90</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аксіс</pharmacy>
+			<address>в. Медична, 17</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-22-65</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аксіс</pharmacy>
+			<address>в. Івана Франка, 30</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-35-96</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аксіс Плюс</pharmacy>
+			<address>в. Горбачевського, 50</address>
+            <phoneVodaphone>+38(050)220-51-84</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-88-50</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Актив ІФ</pharmacy>
+			<address>в. Незалежності, 154</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-40-37</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Актив ІФ</pharmacy>
+			<address>в. Вовчинецька, 140</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-03-48</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Алекс-фарм</pharmacy>
+			<address>в. Бельведерська, 28/1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-83-11</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Алтеа</pharmacy>
+			<address>в. Сорохтея, 26в</address>
+            <phoneVodaphone>+38(066)813-86-00</phoneVodaphone>
+			<phoneKyivstar>+38(068)791-34-38</phoneKyivstar>
+			<phoneHome>+38(0342)72-26-82</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. Богдана Хмельницького, 57</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)6-97-06</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. Вовчинецька, 172а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)6-65-88</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. Набережна ім. Василя Стефаника, 20</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-02-98</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. Сорохтея, 16</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-53-88</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. 24 Серпня, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-35-88</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. Гетьмана Мазепи, 89</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-11-22</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. Миру, 90</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-60-12</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. Миру, 90</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-60-12</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека</pharmacy>
+			<address>в. Чорновола, 49</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-72-11</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека 03</pharmacy>
+			<address>в. Чорновола, 60</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)59-14-03</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека №1</pharmacy>
+			<address>в. Івана Миколайчука, 16а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-74-22</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека №1</pharmacy>
+			<address>в. Галицька, 142в</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-30-92</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека №1</pharmacy>
+			<address>в. Василіянок, 8а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-64-14</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аптека для матері і дитини</pharmacy>
+			<address>в. Василя Стуса, 15</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-30-31</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аріафарм</pharmacy>
+			<address>в. Коновальця, 104а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-49-55</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Аронія</pharmacy>
+			<address>в. Коновальця, 132</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-71-06</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Багофарм</pharmacy>
+			<address>в. Бельведерська, 53</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)78-54-19</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Багофарм</pharmacy>
+			<address>в. Степана Бандери, 14</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-34-36</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Ваша сімейна аптека</pharmacy>
+			<address>в. Івасюка, 28а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-42-75</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Вінка</pharmacy>
+			<address>в. Олександра Довженка, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-55-65</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Віта-Фарм</pharmacy>
+			<address>в. Хіміків, 15б</address>
+            <phoneVodaphone>+38(050)685-87-70</phoneVodaphone>
+			<phoneKyivstar>+38(096)609-43-88</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Вітамінка</pharmacy>
+			<address>в. Коновальця, 107/2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-34-33</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>ВМ</pharmacy>
+			<address>в. Довга, 42</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-40-63</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>ВМ</pharmacy>
+			<address>в. Гетьмана Мазепи, 114</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-71-57</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Вокзальна</pharmacy>
+			<address>в. Залізнична, 49</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)74-01-94</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Глорія-Фарм</pharmacy>
+			<address>в. Чорновола, 48</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-31-74</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Діва-Фарм</pharmacy>
+			<address>в. Володимира Великого, 12а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)681-17-26</phoneKyivstar>
+			<phoneHome>+38(0342)71-28-11</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Доброго Дня</pharmacy>
+			<address>в. Довга, 76</address>
+            <phoneVodaphone>+38(093)394-76-34</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Еко Аптека</pharmacy>
+			<address>в. Василіянок, 68</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(050)378-68-98</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Здорова родина</pharmacy>
+			<address>в. Дністровська, 20</address>
+            <phoneVodaphone>+38(03422)2-31-76</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Здорова родина</pharmacy>
+			<address>в. Січових Стрільців, 24</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-10-85</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Здорова родина</pharmacy>
+			<address>в. Гетьмана Мазепи, 89</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-99-93</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Здорова родина</pharmacy>
+			<address>в. Короля Данила, 11</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-06-73</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Здорова родина</pharmacy>
+			<address>в. Галицька, 53</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-28-51</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Здоровенькі були</pharmacy>
+			<address>в. Дністровська, 45а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-10-03</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Здравиця</pharmacy>
+			<address>в. Галицька, 145а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-80-65</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Зіма</pharmacy>
+			<address>в. Галицька, 167</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-06-30</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Зіма</pharmacy>
+			<address>в. Грушевського, 22а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-79-94</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Іва-Фарм</pharmacy>
+			<address>Площа Ринок, 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-23-18</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Іва-Фарм</pharmacy>
+			<address>в. Незалежності, 36а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-12-43</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Іва-Фарм</pharmacy>
+			<address>в. Новгородська, 49</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-15-54</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Іва-Фарм</pharmacy>
+			<address>в. Короля Данила, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-91-61</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Іводент</pharmacy>
+			<address>в. Генерала Мирона Тарнавського, 6</address>
+            <phoneVodaphone>+38(066)633-78-17</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Максимус</pharmacy>
+			<address>в. Галицька, 120а</address>
+            <phoneVodaphone>+38(050)817-53-21</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Мед-Сервіс</pharmacy>
+			<address>в. Дністровська, 45а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-83-65</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Мед-Сервіс</pharmacy>
+			<address>в. Галицька, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-22-15</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Мед-Сервіс</pharmacy>
+			<address>в. Січових Стрільців, 15</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)2-54-48</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Медекс Плюс</pharmacy>
+			<address>в. Грюнвальдська, 4а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-50-05</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Медекс Плюс</pharmacy>
+			<address>в. Чорновола, 47</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-23-11</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Медекс Плюс</pharmacy>
+			<address>в. Південний Бульвар, 31</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-45-05</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Медекс Плюс</pharmacy>
+			<address>в. Гетьмана Мазепи, 177</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-33-43</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Медіка</pharmacy>
+			<address>в. Галицька, 126</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-42-51</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Мирофарм</pharmacy>
+			<address>в. Незалежності, 189б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-28-48</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Міс Фарма</pharmacy>
+			<address>в. Івана Франка, 12а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-21-07</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Міф</pharmacy>
+			<address>в. Тролейбусна, 12</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-06-70</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Народна аптека</pharmacy>
+			<address>в. Вовчинецька, 167, корп. 6</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-69-06</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Народна аптека</pharmacy>
+			<address>в. Шеремети, 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-86-12</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Наша аптека</pharmacy>
+			<address>в. Незалежності, 95</address>
+            <phoneVodaphone>+38(095)270-32-49</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-03-71</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Оптторг</pharmacy>
+			<address>в. Галицька, 27/17</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)693-06-27</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Подорожник</pharmacy>
+			<address>в. Коновальця, 7Б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)371-17-04</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Подорожник</pharmacy>
+			<address>в. Тролейбусна, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)372-47-61</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Подорожник</pharmacy>
+			<address>в. Галицька, 47/13</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)678-14-04</phoneKyivstar>
+			<phoneHome>+38(0342)75-46-50</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Примула</pharmacy>
+			<address>в. Василя Симоненка, 33б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-24-53</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Прокопчук</pharmacy>
+			<address>в. Горбачевського, 50</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-89-03</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Пульс</pharmacy>
+			<address>Площа Привокзальна, 9</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-15-71</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Рецепти здоров'я</pharmacy>
+			<address>в. Івана Павла ІІ, 17</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-45-94</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Ромашка</pharmacy>
+			<address>в. Горбачевського, 50</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-03-06</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Ромашка</pharmacy>
+			<address>в. Академіка Сахарова</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-33-53</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Ромашка</pharmacy>
+			<address>в. Бельведерська, 16</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-33-03</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Сальве</pharmacy>
+			<address>в. Пасічна, 14а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)370-75-46</phoneKyivstar>
+			<phoneHome>+38(0342)78-82-72</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Світ ліків</pharmacy>
+			<address>в. Гната Хоткевича, 44, офіс 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-42-72</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Система-фарм</pharmacy>
+			<address>Площа Привокзальна, 9</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-65-08</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Станіславівфарм</pharmacy>
+			<address>в. Івана Миколайчука, 6</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-60-10</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Терра ІФ</pharmacy>
+			<address>в. Коновальця, 149</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-30-49</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Фарма</pharmacy>
+			<address>в. Вовчинецька, 188</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)6-17-84</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Центорія</pharmacy>
+			<address>в. Довга, 26</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-25-86</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+		<item>
+            <pharmacy>Центральна</pharmacy>
+			<address>в. Галицька, 16</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-52-50</phoneHome>
+			<icon>qrc:/img/resource/img/pharmacy.png</icon>
+        </item>
+	</channel>
+</rss> 
+   

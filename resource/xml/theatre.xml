@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+		<item>		
+            <theatre>Музично-драматичний театр ім. І.Франка</theatre>
+			<address>в. Незалежності, 42</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-07-24</phoneHome>
+			<icon>qrc:/img/resource/img/theatre.png</icon>
+        </item>
+		<item>		
+            <theatre>Театр ляльок ім. М. Підгірянки</theatre>
+			<address>в. Незалежності, 10а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-15-53</phoneHome>
+			<icon>qrc:/img/resource/img/theatre.png</icon>
+        </item>
+		<item>		
+            <theatre>Івано-Франківська обласна філармонія</theatre>
+			<address>в. Леся Курбаса, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)70-57-69</phoneHome>
+			<icon>qrc:/img/resource/img/theatre.png</icon>
+        </item>
+		<item>		
+            <theatre>Кіноконцертний зал «Арена-центр»</theatre>
+			<address>в. Незалежності, 46</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)333-76-17</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/theatre.png</icon>
+        </item>
+	</channel>
+</rss>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+		<item>		
+            <pizza>Basilico</pizza>
+			<address>в. Північний бульвар, 2а, пов. 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)772-24-00</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>CosmoPizza</pizza>
+			<address>в. Незалежності, 99</address>
+            <phoneVodaphone>+38(066)403-00-99</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(096)882-00-99</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>FLORENS</pizza>
+			<address>в. Галицька, 7</address>
+            <phoneVodaphone>+38(050)404-78-78</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-77-39</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Focaccia</pizza>
+			<address>в. Південний Бульвар, 22</address>
+            <phoneVodaphone>+38(066)017-11-01</phoneVodaphone>
+			<phoneKyivstar>+38(067)737-26-03</phoneKyivstar>
+			<phoneHome>+38(0342)74-00-40</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Fragolini</pizza>
+			<address>в. Південний Бульвар, 21</address>
+            <phoneVodaphone>+38(050)888-48-46</phoneVodaphone>
+			<phoneKyivstar>+38(096)077-74-22</phoneKyivstar>
+			<phoneHome>+38(0342)77-74-22</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Grande Pizzeria</pizza>
+			<address>в. Гаркуші, 21</address>
+            <phoneVodaphone>+38(099)634-42-22</phoneVodaphone>
+			<phoneKyivstar>+38(067)788-33-82</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Maki Taвi</pizza>
+			<address>в. Гетьмана Мазепи, 168а</address>
+            <phoneVodaphone>+38(050)995-98-18</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-00-16</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>mamamia.if.ua</pizza>
+			<address>в. Української дивізії, 9</address>
+            <phoneVodaphone>+38(066)800-13-43</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(093)805-60-33</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Mondo Pizza</pizza>
+			<address>в. Тичини, 52</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)933-78-93</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>New York Street Pizza</pizza>
+			<address>в. Січових Стрільців, 4</address>
+            <phoneVodaphone>+38(095)537-55-05</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Parmigiano</pizza>
+			<address>в. В. Стуса, 28</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)362-82-93</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Pasage Gartenberg</pizza>
+			<address>в. Незалежності, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)201 3000</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Peperoncino</pizza>
+			<address>в. Незалежності, 43</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-73-47</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Pizza And Pasta</pizza>
+			<address>в. Чорновола, 35</address>
+            <phoneVodaphone>+38(050)690-83-33</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Pizza+</pizza>
+			<address>пл. Ринок, 6</address>
+            <phoneVodaphone>+38(050)391-51-20</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-89-15</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Віва Італія</pizza>
+			<address>в. Вовчинецька, 26</address>
+            <phoneVodaphone>+38(050)230-06-24</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-11-11</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Гудіні</pizza>
+			<address>в. Незалежності, 34</address>
+            <phoneVodaphone>+38(066)277-49-28</phoneVodaphone>
+			<phoneKyivstar>+38(098)100-99-71</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Мафія</pizza>
+			<address>в. Чорновола, 3</address>
+            <phoneVodaphone>+38(095)028-72-86</phoneVodaphone>
+			<phoneKyivstar>+38(067)831-40-27</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		
+		<item>		
+            <pizza>Паляnizza</pizza>
+			<address>в. Вовчинецька, 225а, пов. 3</address>
+            <phoneVodaphone>+38(095)583-53-74</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-51-42</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Піратос</pizza>
+			<address>в. Шопена, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)344-24-42</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Пронто-піца</pizza>
+			<address>в. Чорновола, 107а</address>
+            <phoneVodaphone>+38(099)721-99-27</phoneVodaphone>
+			<phoneKyivstar>+38(096)864-37-60</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Пронто-піца</pizza>
+			<address>в. Івасюка, 11</address>
+            <phoneVodaphone>+38 (095) 277-57-57</phoneVodaphone>
+			<phoneKyivstar>+38 (097) 277-07-57</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Сан-Ремо</pizza>
+			<address>в. Чорновола, 77</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)600-46-00</phoneKyivstar>
+			<phoneHome>+38(0342)75-02-31</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Тіп Топ</pizza>
+			<address>в. Січових Стрільців, 24</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)200-5200</phoneKyivstar>
+			<phoneHome>+38(0342)72-51-56</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Тіп Топ</pizza>
+			<address>в. Б. Лепкого, 14</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)200-5200</phoneKyivstar>
+			<phoneHome>+38(0342)72-56-49</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+		<item>		
+            <pizza>Цимес</pizza>
+			<address>пл. Привокзальна, 9</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-45-42</phoneHome>
+			<icon>qrc:/img/resource/img/pizza.png</icon>
+        </item>
+	</channel>
+</rss>

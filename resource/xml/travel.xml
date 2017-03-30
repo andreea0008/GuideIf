@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+     <channel>
+		<item>
+            <travel>Andria TUR</travel>
+			<address>в. Василя Симоненка, 30а</address>
+            <phoneVodaphone>+38(095)207-48-68</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+        <item>
+            <travel>Baidiuk Tour</travel>
+			<address>в. Новгородська, 34а, пов. 4</address>
+            <phoneVodaphone>+38(063)230-70-07</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Coral travel</travel>
+			<address>в. Івасюка, 11/16</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-45-20</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Cosmo Travel</travel>
+			<address>в. Незалежності, 29, офіс 6</address>
+            <phoneVodaphone>+38(066)089-55-31</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Fun Travel</travel>
+			<address>в. Січових Стрільців, 15а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)74-07-45</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Go tour</travel>
+			<address>в. Дністровська, 22</address>
+            <phoneVodaphone>+38(066)808-21-31</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Greta Oto Tour</travel>
+			<address>в. Січових Стрільців, 10</address>
+            <phoneVodaphone>+38(099)634-66-18</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Join up</travel>
+			<address>в. Богдана Лепкого, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-25-23</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Lafa travel</travel>
+			<address>в. Галицька, 10, оф. 1</address>
+            <phoneVodaphone>+38(050)011-89-99</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)74-01-10</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+		</item>
+		<item>
+            <travel>LEGTravel</travel>
+			<address>в. Гетьмана Мазепи, 6, офіс 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)540-09-00</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Marcelle Travel</travel>
+			<address>в. Чорновола, 79</address>
+            <phoneVodaphone>+38(066)536-30-64</phoneVodaphone>
+			<phoneKyivstar>+38(097)680-86-86</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+		</item>
+		<item>
+            <travel>PirinTours</travel>
+			<address>в. Незалежності, 67, офіс 2</address>
+            <phoneVodaphone>+38(066)781-33-94</phoneVodaphone>
+			<phoneKyivstar>+38(067)743-08-89</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+		</item>
+		<item>
+            <travel>Royal Tour</travel>
+			<address>в. Незалежності, 4, офіс 413</address>
+            <phoneVodaphone>+38(050)372-75-51</phoneVodaphone>
+			<phoneKyivstar>+38(096)739-91-05</phoneKyivstar>
+			<phoneHome>+38(0342)74-04-08</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+		</item>
+		<item>
+            <travel>Sunny-Tour</travel>
+			<address>в. Грюнвальдська, 14а, пов. 2</address>
+            <phoneVodaphone>+38(050)288-05-45</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-45-72</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+		</item>
+		<item>
+            <travel>TPG Agency</travel>
+			<address>в. Академіка Сахарова, 32</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)680-00-30</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Travel Shop</travel>
+			<address>в. Бельведерська, 17</address>
+            <phoneVodaphone>+38(095)879-72-31</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Travel Start</travel>
+			<address>в. Володимира Великого, 14</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)76-60-88</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Tui</travel>
+			<address>в. І. Франка, 5А, оф. 1 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-79-27</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Victoria`s World</travel>
+			<address>в. Незалежності, 34а</address>
+            <phoneVodaphone>+38(066)478-29-27</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>VISA TRAVEL</travel>
+			<address>в. Залізнична, 39</address>
+            <phoneVodaphone>+38(099)507-92-79</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+		</item>
+		<item>
+            <travel>Абрикос</travel>
+			<address>в. Січових Стрільців, 16</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-10-64</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Авант Тур</travel>
+			<address>в. Незалежності, 25, офіс 7</address>
+            <phoneVodaphone>+38(066)602-31-51</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Авен-тур</travel>
+			<address>в. Богдана Лепкого, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-56-64</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Азбука мандрів</travel>
+			<address>в. Січових Стрільців, 6, офіс 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)143-48-61</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Акура</travel>
+			<address>в. Академіка Гнатюка, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-81-86</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Алекс-Тур</travel>
+			<address>в. Січових Стрільців, 56, офіс 201</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-38-32</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Альбатрос Тур</travel>
+			<address>в. Незалежності, 49, офіс 11</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-90-75</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Апельсин</travel>
+			<address>в. Лесі Українки, 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-57-26</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>АТЛАС</travel>
+			<address>Площа Міцкевича, 8, офіс 20</address>
+            <phoneVodaphone>+38(095)499-39-31</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Банзай тревел</travel>
+			<address>в. Незалежності, 67, офіс 20</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-65-33</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Бештау</travel>
+			<address>в. Незалежності, 33</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-30-33</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Блюмме</travel>
+			<address>в. Чорновола, 7, пов. 3, офіс 304</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-58-18</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>БоГаМи Карпатія Тур</travel>
+			<address>в. Богдана Лепкого, 16а, офіс 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-80-90</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Бюро подорожей</travel>
+			<address>Площа Ринок, 12, офіс 2</address>
+            <phoneVodaphone>+38(099)174-55-51</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Віза плюс</travel>
+			<address>в. Незалежності, 4, офіс 202</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)649-56-95</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>ВІЗИТ</travel>
+			<address>в. Героїв Крут, 12</address>
+            <phoneVodaphone>+38(099)507-93-94</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>ВізитАрт</travel>
+			<address>в. Крайківського, 2</address>
+            <phoneVodaphone>+38(066)797-69-15</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Вояжель</travel>
+			<address>в. Галицька, 57, офіс 11</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-18-58</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Гал-Круїз</travel>
+			<address>в. Пилипа Орлика, 10а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)057-72-67</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Гала-тур</travel>
+			<address>в. Бельведерська, 2а, офіс 14</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-20-44</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Галичанка ІФ</travel>
+			<address>в. Заклинських, 8</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-72-92</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Геліос-тур</travel>
+			<address>в. Василіянок, 15, офіс 2</address>
+            <phoneVodaphone>+38(095)887-76-36</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Гео-тур</travel>
+			<address>в. Галицька, 67, офіс 801</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-44-84</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Глобус</travel>
+			<address>в. Незалежності, 67, офіс 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-55-85</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Гранд Тур</travel>
+			<address>в. Військових Ветеранів, 10б</address>
+            <phoneVodaphone>+38(099)381-97-73</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Дансі</travel>
+			<address>в. Донцова, 4а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-31-86</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Дивосвіт-ІФ</travel>
+			<address>в. Тичини, 8а, офіс 94</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-72-35</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Довіра ІФ</travel>
+			<address>в. Бельведерська, 16, офіс 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-75-62</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>ЕДЕМ тур</travel>
+			<address>в. Гаркуші, 36, офіс 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-24-84</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Екотур</travel>
+			<address>в. Незалежності, 36</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-11-71</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Ельдорадо</travel>
+			<address>в. Бельведерська, 10/2</address>
+            <phoneVodaphone>+38(099)450-60-30</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Еней</travel>
+			<address>в. Івана Франка, 13</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-57-70</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Європа ІФ ТУР</travel>
+			<address>в. Шептицького, майд., 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-07-57</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Євротур ІФ</travel>
+			<address>в. Галицька, 4а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)2-26-96</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Західінтур</travel>
+			<address>в. Богдана Лепкого, 39</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-25-18</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Івано-Франківськтурист</travel>
+			<address>в. Гетьмана Мазепи, 140а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)2-31-19</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Івент Про Карпати</travel>
+			<address>в. Дністровська, 45, офіс 14</address>
+            <phoneVodaphone>+38(063)044-35-29</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Інфо-міст</travel>
+			<address>в. Січових Стрільців, 11, офіс 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-29-79</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>ІФ-тур</travel>
+			<address>в. Крайківського, 1б, офіс 102</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-49-50</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>КарпатТур</travel>
+			<address>в. Шеремети, 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-05-12</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Карта Світу</travel>
+			<address>в. Незалежності, 44, пов. 3, офіс 1</address>
+            <phoneVodaphone>+38(050)722-24-41</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Кей</travel>
+			<address>в. Страчених, 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-73-88</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Кентавр</travel>
+			<address>в. Військових Ветеранів, 10, офіс 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-42-22</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Кий Авіа</travel>
+			<address>в. Січових Стрільців, 10/2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-23-31</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Кипарис-тур</travel>
+			<address>в. Дністровська, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-40-71</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Класік-тур</travel>
+			<address>в. Мельничука, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-09-11</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Колумб Тур</travel>
+			<address>в. Шопена, 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-84-33</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Комор</travel>
+			<address>в. Шевченка, 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-13-52</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Кондор</travel>
+			<address>в. Генерала Мирона Тарнавського, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-46-04</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Корал-Захід</travel>
+			<address>в. Гаркуші, 36, офіс 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-12-42</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Корасон-ІФ</travel>
+			<address>в. Гетьмана Мазепи, 61</address>
+            <phoneVodaphone>+38(093)158-02-16</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>КрАЛен тур</travel>
+			<address>в. Бельведерська, 18, офіс 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)342-03-87</phoneKyivstar>
+			<phoneHome>+38(0342)55-31-34</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Крамниця подорожей</travel>
+			<address>в. Чорновола, 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)959-81-24</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Красна</travel>
+			<address>в. Незалежності, 35, офіс 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-35-20</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Круїз-2000</travel>
+			<address>в. Гетьмана Мазепи, 1, офіс 1а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-29-94</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Ласпер ЛТД</travel>
+			<address>в. Бельведерська, 51</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-06-50</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Лігаро-Тур</travel>
+			<address>в. Новгородська, 39, офіс 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-12-37</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Любий тур</travel>
+			<address>Площа Привокзальна, 24, офіс 22</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-65-22</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Магеллан-Тур</travel>
+			<address>в. Незалежності, 4, офіс 319</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-51-72</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Максимум тур</travel>
+			<address>в. Галицька, 100Б</address>
+            <phoneVodaphone>+38(095)560-42-31</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Максимус Тревел</travel>
+			<address>в. Озаркевича, 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-14-91</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Мандарин-Тур</travel>
+			<address>в. Незалежності, 18, офіс 16</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-31-85</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Мандрівочка</travel>
+			<address>в. Шевченка, 3, корп. Б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-50-65</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Мапа</travel>
+			<address>в. Івана Франка, 5а, офіс 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-54-54</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Мега-тур</travel>
+			<address>в. Січових Стрільців, 28</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-83-71</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Меридіан Travel</travel>
+			<address>в. Незалежності, 83</address>
+            <phoneVodaphone>+38(050)280-90-32</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Міжнародний Трансфер Центр</travel>
+			<address>в. Військових Ветеранів, 10д, офіс 201</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-05-04</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Модерн Тур</travel>
+			<address>в. Вовчинецька, 196</address>
+            <phoneVodaphone>+38(050)172-96-52</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Море турів</travel>
+			<address>Площа Ринок, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)403-45-68</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Мрія</travel>
+			<address>в. Нечуя-Левицького, 19</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-45-96</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Навколо світу</travel>
+			<address>в. Бельведерська, 27, офіс 4</address>
+            <phoneVodaphone>+38(050)502-84-76</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Надія</travel>
+			<address>в. Незалежності, 40</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-70-40</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Надія є</travel>
+			<address>в. Залізнична, 33а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)74-07-44</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Ніко-тур</travel>
+			<address>в. Слави Стецько, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-93-83</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Ніколас Тур</travel>
+			<address>в. Січових Стрільців, 28, офіс 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-34-07</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Нота Тревел</travel>
+			<address>в. Січових Стрільців, 5</address>
+            <phoneVodaphone>+38(050)373-37-13</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Омріяні мандри</travel>
+			<address>в. Незалежності, 67, пов. 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)273-07-91</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Парк-тур</travel>
+			<address>в. Військових Ветеранів, 6</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-91-84</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Паспарту</travel>
+			<address>в. Бельведерська, 8, офіс 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-22-32</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Поїхали з нами</travel>
+			<address>в. Богдана Лепкого, 33/1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)062-62-35</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Приватінтур</travel>
+			<address>в. Івана Франка, 46</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-90-09</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Призма</travel>
+			<address>в. Марійки Підгірянки, 17, офіс 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-95-24</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Рома тур</travel>
+			<address>Площа Міцкевича, 8, офіс 5</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-40-50</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Романтика</travel>
+			<address>в. Вовчинецька, 25</address>
+            <phoneVodaphone>+38(050)334-25-18</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Світ курортів</travel>
+			<address>в. Чорновола, 30</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-20-64</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Сім континентів</travel>
+			<address>в. Галицька, 34</address>
+            <phoneVodaphone>+38(099)386-87-05</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Сіон</travel>
+			<address>в. Бельведерська, 25а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)740-65-04</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Соломія Тур</travel>
+			<address>в. Івана Франка, 39, офіс 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-76-57</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Соната</travel>
+			<address>в. Незалежності, 25</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)250-25-07</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Соната-ІФ</travel>
+			<address>в. Чорновола, 7, офіс 211</address>
+            <phoneVodaphone>+38(099)448-78-90</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>СОФІЯ ТУРС</travel>
+			<address>в. Чорновола, 20, офіс 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-55-35</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Супутник-Івано-Франківськ</travel>
+			<address>в. Незалежності, 49, офіс 6</address>
+            <phoneVodaphone>+38(050)152-16-25</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Твоя історія</travel>
+			<address>в. Гарбарська, 24, пов. 1</address>
+            <phoneVodaphone>+38(099)192-61-71</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+		<item>
+            <travel>Яра тур</travel>
+			<address>в. Північний бульвар, 5б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)51-11-51</phoneHome>
+			<icon>qrc:/img/resource/img/travel.png</icon>
+        </item>
+	</channel>
+</rss>

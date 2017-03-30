@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+				<pub>BIBLIOTEKA</pub>
+				<address>в. Січових Стрільців, 10</address>
+				<phoneVodaphone>+38(050)344-30-00</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(03422)2-54-09</phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>Bierkeller</pub>
+				<address>в. Незалежності, 16</address>
+				<phoneVodaphone>+38(099)288-49-99</phoneVodaphone>
+				<phoneKyivstar>+38(098)288-49-99</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+		
+				<pub>Beer Workshop "Copper Head"</pub>
+				<address>в. Гетьмана Мазепи, 6</address>
+				<phoneVodaphone>+38(099)266-55-56</phoneVodaphone>
+				<phoneKyivstar>+38(068)189-96-96</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>		
+		<item>
+				<pub>GROT</pub>
+				<address>в. Бачинського, 2</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)72-52-72</phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>Panorama Pub</pub>
+				<address>в. Північний бульвар, 2а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)342-55-50</phoneKyivstar>
+				<phoneHome>+38(0342)77-30-10</phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>Potocki</pub>
+				<address>в. Дністровська, 22а</address>
+				<phoneVodaphone>+38(099)703-21-80</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)72-45-23</phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>	
+		<item>
+				<pub>Бочка</pub>
+				<address>в. Страчених, 3</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)75-20-54</phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>Буха-Rest</pub>
+				<address>в. Вовчинецька, 219а</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)776-61-19</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>Ватра</pub>
+				<address>в. Низова, 3</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(096)848-14-70</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>	
+		<item>
+            <bar>Десятка</bar>
+			<address>в.Шашкевича, 2</address>
+            <phoneVodaphone>+38(050)373-82-02</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-21-21</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Десятка (бістро)</bar>
+			<address>в.Шашкевича, 2 </address>
+            <phoneVodaphone>+38(050)372-87-07</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(050)71-21-21</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+				<pub>Кінь і Яблука</pub>
+				<address>в. Леся Курбаса, 2</address>
+				<phoneVodaphone>+38(095)022-79-94</phoneVodaphone>
+				<phoneKyivstar>+38(068)479-59-04</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>Легенда</pub>
+				<address>в. Незалежності, 34а</address>
+				<phoneVodaphone>+38(050)378-83-00</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)71-95-96</phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>П’ятниця</pub>
+				<address>в. Гетьмана Мазепи, 24</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome>+38(0342)75-22-22</phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>	
+		<item>
+				<pub>Пан Кабан</pub>
+				<address>в. Січових Стрільців, 24</address>
+				<phoneVodaphone>+38(050)604-57-82</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>Партизан</pub>
+				<address>в. Вовчинецька, 196</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(098)105-00-10</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+		<item>
+				<pub>Whiskey Pub "Старий пес"</pub>
+				<address>пл. Міцкевича, 4</address>
+				<phoneVodaphone></phoneVodaphone>
+				<phoneKyivstar>+38(067)555-77-75</phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>		
+		<item>
+				<pub>Шкварок</pub>
+				<address>в. Грушевського, 39</address>
+				<phoneVodaphone>+38(099)027-10-44</phoneVodaphone>
+				<phoneKyivstar></phoneKyivstar>
+				<phoneHome></phoneHome>
+				<icon>qrc:/img/resource/img/pub-icon.png</icon>
+		</item>
+	</channel>
+</rss>

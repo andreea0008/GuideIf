@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+		<item>		
+            <hotel>Chateau Royal</hotel>
+			<address>с. Березівка в. Шевченка, 1в</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)999-19-19</phoneKyivstar>
+			<phoneHome>+38(0342)54-39-60</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Fontush Boutique Hotel</hotel>
+			<address>в. Чорновола, 82</address>
+            <phoneVodaphone>+38(095)207-47-94</phoneVodaphone>
+			<phoneKyivstar>+38(098)390-53-23</phoneKyivstar>
+			<phoneHome>+38(0342)72-44-78</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Galicia</hotel>
+			<address>в. Юності, 19, оф. 1</address>
+            <phoneVodaphone>+38(066)311-87-22</phoneVodaphone>
+			<phoneKyivstar>+38(068)224-73-92</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Oland</hotel>
+			<address>в. Набережна, 83</address>
+            <phoneVodaphone>+38(099)702-49-24</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Reikartz Парк Готель</hotel>
+			<address>в. Гетьмана Мазепи, 146</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)343-15-82</phoneKyivstar>
+			<phoneHome>+38(0342)59-55-95</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>San Marco</hotel>
+			<address>в. Набережна, 21</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)343-01-61</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Vintage</hotel>
+			<address>с. Черніїв в. Надвірнянська, 69</address>
+            <phoneVodaphone>+38(095)859-51-46</phoneVodaphone>
+			<phoneKyivstar>+38(067)798-70-09</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Авто Драйв</hotel>
+			<address>шосе Калуське, 32</address>
+            <phoneVodaphone>+38(050)253-45-04</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Атріум</hotel>
+			<address>в. Галицька, 31</address>
+            <phoneVodaphone>+38(066)225-63-37</phoneVodaphone>
+			<phoneKyivstar>+38(097)257-63-64</phoneKyivstar>
+			<phoneHome>+38(0342)55-78-79</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Бистриця</hotel>
+			<address>в. Коновальця, 346</address>
+            <phoneVodaphone>+38(066)914-59-74</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-51-05</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Венеція</hotel>
+			<address>в. Набережна, 25</address>
+            <phoneVodaphone>+38(050)433-40-96</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)57-18-04</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Галицька садиба</hotel>
+			<address>с. Угринів в. Галицька, 1б</address>
+            <phoneVodaphone>+38(050)166-28-89</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Гостинна садиба</hotel>
+			<address>в. Юності, 19</address>
+            <phoneVodaphone>+38(099)937-24-30</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(068)708-95-92</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Дністер</hotel>
+			<address>в. Січових Стрільців, 12</address>
+            <phoneVodaphone>+38(050)988-39-70</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-35-33</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Еверест</hotel>
+			<address>в. Юності, 50</address>
+            <phoneVodaphone>+38(099)541-77-44</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(067)344-33-91</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Едем</hotel>
+			<address>с. Загвіздя в. Липова, 121ж</address>
+            <phoneVodaphone>+38(050)731-45-35</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Жокей</hotel>
+			<address>в. Сєченова, 56</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-49-34</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Забава</hotel>
+			<address>в. Автоливмашівська, 138</address>
+            <phoneVodaphone>+38(095)699-99-88</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-78-16</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Зелений клин</hotel>
+			<address>с. Крихівці в. Зарічна, 1</address>
+            <phoneVodaphone>+38(050)433-78-54</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-41-06</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Канада</hotel>
+			<address>с. Березівка в. Шевченка, 7а</address>
+            <phoneVodaphone>+38(099)088-86-28</phoneVodaphone>
+			<phoneKyivstar>+38(067)666-95-95</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Квінс</hotel>
+			<address>с. Крихівці в. Зарічна, 38</address>
+            <phoneVodaphone>+38(050)610-21-35</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-02-15</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Легенда</hotel>
+			<address>в. Івасюка, 25</address>
+            <phoneVodaphone>+38(050)435-90-18</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-33-33</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Лелеч</hotel>
+			<address>с. Угринів в. Галицька, 22а</address>
+            <phoneVodaphone>+38(066)833-86-89</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-36-96</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Мотель</hotel>
+			<address>шосе Калуське, 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-35-53</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>МотельЧИК</hotel>
+			<address>шосе Калуське, 15</address>
+            <phoneVodaphone>+38(095)923-79-97</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-54-16</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Надія</hotel>
+			<address>в. Незалежності, 40</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-70-77</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Нива</hotel>
+			<address>в. Урожайна, 5</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)78-65-64</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Під Темплем</hotel>
+			<address>в. Страчених, 7а</address>
+            <phoneVodaphone>+38 (0342) 59-53-33</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Під Явором</hotel>
+			<address>с. Драгомирчани в. Шкільна, 13</address>
+            <phoneVodaphone>+38(095)849-43-49</phoneVodaphone>
+			<phoneKyivstar>+38(067)344-21-77</phoneKyivstar>
+			<phoneHome>+38(0342)71-05-71</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Прикарпаття</hotel>
+			<address>в. Гетьмана Мазепи, 140а</address>
+            <phoneVodaphone>+38(050)251-69-68</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-02-98</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Рів'єра</hotel>
+			<address>в. Пасічна, 39</address>
+            <phoneVodaphone>+38(050)338-55-08</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-19-22</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Станіславів</hotel>
+			<address>в. Чорновола, 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)355-02-77</phoneKyivstar>
+			<phoneHome>+38(0342)75-24-70</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Тріо</hotel>
+			<address>шосе Калуське, 9а</address>
+            <phoneVodaphone>+38(050)744-02-61</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Формула-1</hotel>
+			<address>в. Коновальця, 433</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-17-11</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Франц</hotel>
+			<address>в. Галицька, 11а</address>
+            <phoneVodaphone>+38(066)817-11-73</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Хмельницький</hotel>
+			<address>в. Б. Хмельницького, 69б</address>
+            <phoneVodaphone>+38(050)732-06-70</phoneVodaphone>
+			<phoneKyivstar>+38(096)554-41-77</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>		
+            <hotel>Юність</hotel>
+			<address>в. Юності, 52</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-49-10</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+	</channel>
+</rss>

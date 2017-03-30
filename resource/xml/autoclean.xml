@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>		
+            <autoclean>Auto clean</autoclean>
+			<address>в. Коновальця, 221</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)617-47-40</phoneKyivstar>
+			<phoneHome>+38(093)214-97-90</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Autoclean</autoclean>
+			<address>в. Семена Височана, 16в</address>
+            <phoneVodaphone>+38(050)339-66-77</phoneVodaphone>
+			<phoneKyivstar>+38(096)340-66-77</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>H2O</autoclean>
+			<address>в. Гетьмана Мазепи, 144</address>
+            <phoneVodaphone>+38(050)371-65-66</phoneVodaphone>
+			<phoneKyivstar>+38(096)153-47-02</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Renault</autoclean>
+			<address>в. Хриплинська, 5а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-38-00</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>SunLit</autoclean>
+			<address>в. Надрічна, 46в</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)044-69-91</phoneKyivstar>
+			<phoneHome>+38(0342)50-05-40</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Wash Time</autoclean>
+			<address></address>
+            <phoneVodaphone>+38(095)343-49-94</phoneVodaphone>
+			<phoneKyivstar>+38(096)343-49-94</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Авто Драйв</autoclean>
+			<address>шосе Калуське, 32</address>
+            <phoneVodaphone>+38(050)253-45-04</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(066)106-53-49</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Авто-ЛЕГ</autoclean>
+			<address>с. Угринів в. Галицька, 24а</address>
+            <phoneVodaphone>+38(066)052-50-00</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)78-85-08</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автодуш</autoclean>
+			<address>в. О. Довженка, 25</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-54-20</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. Галицька, 201а</address>
+            <phoneVodaphone>+38(095)362-67-77</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. Деповська, 15</address>
+            <phoneVodaphone>+38(099)227-80-06</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. Незалежності, 126</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)728-61-94</phoneKyivstar>
+			<phoneHome>+38(03422)2-30-38</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. Набережна, 1а</address>
+            <phoneVodaphone>+38(099)635-60-80</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. Юності, 35а</address>
+            <phoneVodaphone>+38(066)095-53-40</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. Ребета, 8б</address>
+            <phoneVodaphone>+38(095)171-23-00</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. Івасюка, 26</address>
+            <phoneVodaphone>+38(050)087-70-85</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. Набережна, 11а</address>
+            <phoneVodaphone>+38(099)044-14-22</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Автомийка</autoclean>
+			<address>в. С. Петлюри, 16</address>
+            <phoneVodaphone>+38(050)205-39-46</phoneVodaphone>
+			<phoneKyivstar>+38(097)906-73-01</phoneKyivstar>
+			<phoneHome>+38(0342)52-74-56</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Алігатор</autoclean>
+			<address>в. Миру, 56</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)095-10-27</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Аляска</autoclean>
+			<address>в. О. Довженка, 4</address>
+            <phoneVodaphone>+38(050)433-27-37 </phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Вишенька</autoclean>
+			<address>в. Пасічна, 1а</address>
+            <phoneVodaphone>+38(099)193-75-33</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Віктан</autoclean>
+			<address>в. Ш. Руставелі, 10</address>
+            <phoneVodaphone>+38(050)339-23-78</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-10-77</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Експерт авто</autoclean>
+			<address>в. Хриплинська, 39</address>
+            <phoneVodaphone>+38(050)337-80-13</phoneVodaphone>
+			<phoneKyivstar>+38(067)340-69-16</phoneKyivstar>
+			<phoneHome>+38(0342)50-77-87</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Італавто-ІФ</autoclean>
+			<address>шосе Калуське, 7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)32-98-98</phoneKyivstar>
+			<phoneHome>+38(0342)58-35-05</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Матієга М.М.</autoclean>
+			<address>в. В. Симоненка, 23</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-28-56</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Мийка</autoclean>
+			<address>в. С. Петлюри, 9а</address>
+            <phoneVodaphone>+38(050)433-57-65</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Мийка</autoclean>
+			<address>в. Короля Данила, 37</address>
+            <phoneVodaphone>+38(050)433-27-35</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Мийка самообслуговування</autoclean>
+			<address>в. Вовчинецька, 225ю</address>
+            <phoneVodaphone>+38(050)920-40-32</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Пан Хімарь</autoclean>
+			<address>в. Ботанічна, 6</address>
+            <phoneVodaphone>+38(050)338-72-78</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Парова автохімчистка</autoclean>
+			<address>в. Кропивницького, 1а</address>
+            <phoneVodaphone>+38(095)767-97-13</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Просто Чисто</autoclean>
+			<address>в. Ленкавського</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Стіл ЛТД</autoclean>
+			<address>в. Набережна, 11а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-59-57</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Технологія чистоти</autoclean>
+			<address>в. Побутова, 6</address>
+            <phoneVodaphone>+38(066)656-74-34</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Універсал-Авто</autoclean>
+			<address>в. Коновальця, 148б</address>
+            <phoneVodaphone>+38(050)373-90-30</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-95-35</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+		<item>		
+            <autoclean>Флагман</autoclean>
+			<address>в. Надрічна, 9</address>
+            <phoneVodaphone>+38(095)633-31-30</phoneVodaphone>
+			<phoneKyivstar>+38(096)100-41-44</phoneKyivstar>
+			<phoneHome>+38(03422)4-52-35</phoneHome>
+			<icon>qrc:/img/resource/img/autoclean.png</icon>
+        </item>
+	</channel>
+</rss>

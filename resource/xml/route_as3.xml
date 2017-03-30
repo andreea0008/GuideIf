@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>	
+		<item><time>12:30</time> 	<route>Івано-Франківськ-Бабче</route></item>
+		<item><time>18:05</time> 	<route>Івано-Франківськ-Бабче</route></item>		
+		<item><time>10:50</time> 	<route>Івано-Франківськ-Космач</route></item>
+		<item><time>10:30</time> 	<route>Івано-Франківськ-Саджава</route></item>
+		<item><time>11:50</time> 	<route>Івано-Франківськ-Ясень</route></item>
+		<item><time>17:05</time> 	<route>Івано-Франківськ-Ясень (роб. дні)</route></item>
+		<item><time>7:15</time> 	<route>Івано-Франківськ-Ріпне</route></item>
+		<item><time>11:10</time> 	<route>Івано-Франківськ-Ріпне</route></item>
+		<item><time>15:55</time> 	<route>Івано-Франківськ-Ріпне</route></item>
+		<item><time>16:45</time> 	<route>Івано-Франківськ-Ріпне</route></item>
+		<item><time>10:05</time> 	<route>Івано-Франківськ-Перегінськ</route></item>
+		<item><time>18:45</time> 	<route>Івано-Франківськ-Перегінськ (роб. дні)</route></item>
+		<item><time>12:40</time> 	<route>Івано-Франківськ-Закриничне</route></item>
+		<item><time>15:05</time> 	<route>Івано-Франківськ-Закриничне</route></item>
+		<item><time>6:00</time> 	<route>Івано-Франківськ-Ріжняте</route></item>
+		<item><time>13:30</time> 	<route>Івано-Франківськ-Ріжнятів</route></item>
+		<item><time>13:05</time> 	<route>Івано-Франківськ-Рожнятів</route></item>
+		<item><time>14:25</time> 	<route>Івано-Франківськ-Рожнятів</route></item>
+		<item><time>19:00</time> 	<route>Івано-Франківськ-Рожнятів</route></item>
+		<item><time>12:20</time> 	<route>Івано-Франківськ-Луквиця</route></item>
+		<item><time>16:35</time> 	<route>Івано-Франківськ-Луквиця</route></item>
+		<item><time>13:30</time> 	<route>Івано-Франківськ-Пороги</route></item>
+		<item><time>19:10</time> 	<route>Івано-Франківськ-Пороги(крім суботи)</route></item>
+		<item><time>7:10</time> 	<route>Івано-Франківськ-Кривець</route></item>
+		<item><time>11:50</time> 	<route>Івано-Франківськ-Кривець(крім неділі)</route></item>
+		<item><time>14:20</time> 	<route>Івано-Франківськ-Кривець</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Кривець(крім неділі)</route></item>
+		<item><time>19:00</time> 	<route>Івано-Франківськ-Кривець</route></item>
+		<item><time>10:00</time> 	<route>Івано-Франківськ-Глибівка</route></item>
+		<item><time>12:40</time> 	<route>Івано-Франківськ-Глибівка</route></item>
+		<item><time>17:10</time> 	<route>Івано-Франківськ-Глибівка</route></item>
+		<item><time>9:30</time> 	<route>Івано-Франківськ-Старуня</route></item>
+		<item><time>13:30</time> 	<route>Івано-Франківськ-Старуня</route></item>
+		<item><time>17:30</time> 	<route>Івано-Франківськ-Старуня</route></item>
+		<item><time>9:00</time> 	<route>Івано-Франківськ-Кричка</route></item>
+		<item><time>9:40</time> 	<route>Івано-Франківськ-Кричка</route></item>
+		<item><time>11:25</time> 	<route>Івано-Франківськ-Кричка</route></item>
+		<item><time>13:10</time> 	<route>Івано-Франківськ-Кричка (крім суботи)</route></item>
+		<item><time>14:00</time> 	<route>Івано-Франківськ-Кричка</route></item>
+		<item><time>15:20</time> 	<route>Івано-Франківськ-Кричка</route></item>
+		<item><time>16:05</time> 	<route>Івано-Франківськ-Кричка</route></item>
+		<item><time>18:00</time> 	<route>Івано-Франківськ-Кричка(крім суботи)</route></item>
+		<item><time>18:50</time> 	<route>Івано-Франківськ-Кричка</route></item>
+		<item><time>8:30</time> 	<route>Івано-Франківськ-Старі Богородчани</route></item>
+		<item><time>12:00</time> 	<route>Івано-Франківськ-Старі Богородчани</route></item>
+		<item><time>18:20</time> 	<route>Івано-Франківськ-Старі Богородчани</route></item>
+		<item><time>6:00</time> 	<route>Івано-Франківськ-Стебник</route></item>
+		<item><time>6:55</time> 	<route>Івано-Франківськ-Стебник</route></item>
+		<item><time>7:50</time> 	<route>Івано-Франківськ-Стебник</route></item>
+		<item><time>14:30</time> 	<route>Івано-Франківськ-Стебник</route></item>
+		<item><time>19:05</time> 	<route>Івано-Франківськ-Стебник</route></item>
+		<item><time>8:20</time> 	<route>Івано-Франківськ-Стара Гута</route></item>
+		<item><time>10:20</time> 	<route>Івано-Франківськ-Стара Гута</route></item>
+		<item><time>11:00</time> 	<route>Івано-Франківськ-Стара Гута</route></item>
+		<item><time>12:50</time> 	<route>Івано-Франківськ-Стара Гута</route></item>
+		<item><time>14:50</time> 	<route>Івано-Франківськ-Стара Гута (крім неділі)</route></item>
+		<item><time>15:50</time> 	<route>Івано-Франківськ-Стара Гута (крім суботи)</route></item>
+		<item><time>17:20</time> 	<route>Івано-Франківськ-Стара Гута</route></item>
+		<item><time>18:30</time> 	<route>Івано-Франківськ-Стара Гута</route></item>
+		<item><time>20:00</time> 	<route>Івано-Франківськ-Стара Гута</route></item>
+		<item><time>8:30</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>10:10</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>11:30</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>12:30</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>13:40</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>15:10</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>17:05</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>18:25</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>19:40</time> 	<route>Івано-Франківськ-Горохолино</route></item>
+		<item><time>7:05</time> 	<route>Івано-Франківськ-Лесівка</route></item>
+		<item><time>9:50</time> 	<route>Івано-Франківськ-Лесівка</route></item>
+		<item><time>12:45</time> 	<route>Івано-Франківськ-Лесівка</route></item>
+		<item><time>16:55</time> 	<route>Івано-Франківськ-Лесівка</route></item>
+		<item><time>19:50</time> 	<route>Івано-Франківськ-Лесівка</route></item>
+		<item><time>12:30</time> 	<route>Івано-Франківськ-Міжгір'я</route></item>
+		<item><time>17:50</time> 	<route>Івано-Франківськ-Міжгір'я</route></item>
+		<item><time>8:55</time> 	<route>Івано-Франківськ-Манява</route></item>
+		<item><time>13:00</time> 	<route>Івано-Франківськ-Манява(роб. дня)</route></item>
+		<item><time>14:40</time> 	<route>Івано-Франківськ-Манява</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Манява(роб. дня)</route></item>
+		<item><time>7:30</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>7:40</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>7:55</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>8:10</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>8:25</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>8:40</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>8:55</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>11:00</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>11:20</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>11:55</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>12:35</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>13:00</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>13:20</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>13:40</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>14:05</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>14:30</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>15:15</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>15:30</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>16:10</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>16:40</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>16:55</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>17:10</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>17:30</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>17:45</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>18:15</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>18:30</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>18:35</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>18:55</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>19:25</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>20:10</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>20:30</time> 	<route>Івано-Франківськ-Іваниківка</route></item>
+		<item><time>6:40</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>7:25</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>8:10</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>8:50</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>10:50</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>11:25</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>12:20</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>14:40</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>15:40</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>17:50</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>18:25</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>19:05</time> 	<route>Івано-Франківськ-Забережжя</route></item>
+		<item><time>7:30</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>7:40</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>7:55</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>8:10</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>8:25</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>8:40</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>8:55</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>9:10</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>9:25</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>9:40</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>9:55</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>10:10</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>10:25</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>10:40</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>10:55</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>11:10</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>11:45</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>11:55</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>12:15</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>13:10</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>13:45</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>14:20</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>14:50</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>15:20</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>16:05</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>16:50</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>17:15</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>17:50</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>18:20</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>18:50</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>19:10</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>19:50</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>20:30</time> 	<route>Івано-Франківськ-Лисець</route></item>
+		<item><time>6:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>		<item><time></time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>6:15</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>6:25</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>6:50</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>7:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>7:10</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>7:25</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>7:50</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>8:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>8:15</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>8:25</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>9:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>10:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>11:30</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>12:30</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>12:50</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>13:50</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>14:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>15:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>15:50</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>16:30</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>17:20</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>17:30</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>18:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>18:40</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>19:00</time> 	<route>Івано-Франківськ-Підлісся</route></item>
+		<item><time>6:50</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>7:15</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>7:45</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>8:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>8:30</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>9:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>9:30</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>10:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>10:30</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>11:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>11:30</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>12:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>12:30</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>13:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>13:30</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>16:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>16:20</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>16:40</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>17:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>17:20</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>17:40</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>18:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>18:20</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>18:40</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>19:00</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>19:20</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>19:45</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+		<item><time>20:15</time> 	<route>Івано-Франківськ-Старий Лисець</route></item>
+	</channel>
+</rss>

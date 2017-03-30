@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+		<item>
+            <bar>Bechamel</bar>
+			<address>в. Шевченка,7</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)297-91-96</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Gorod</bar>
+			<address>в. Чорновола, 34а</address>
+            <phoneVodaphone>+38(095)180-70-97</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Grand Cafee</bar>
+			<address>в. Грушевського, 3 </address>
+            <phoneVodaphone>+38(050)373-24-83</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar> Grill Town</bar>
+			<address>в. Гетьмана Мазепи, 168 </address>
+            <phoneVodaphone>+38(099)298-21-56</phoneVodaphone>
+			<phoneKyivstar>+38(068)186-11-56</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Hunter green club</bar>
+			<address>в. Чорновола, 126</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)342-55-56</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Kimbo</bar>
+			<address>в. Незалежності, 10а</address>
+            <phoneVodaphone>+38(050)373-51-00</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-87-94</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>KWINTO</bar>
+			<address>в. Січових Стрільців, 52</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-54-82</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Lucky</bar>
+			<address>в. О. Довженка, 27г</address>
+            <phoneVodaphone>+38(050)245-09-95</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)51-00-50</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Mamenori</bar>
+			<address>в. П. Орлика, 4а</address>
+            <phoneVodaphone>+38(066)959-12-12</phoneVodaphone>
+			<phoneKyivstar>+38(068)180-08-00</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>MARIO Gaming House</bar>
+			<address>пл. Міцкевича, 8 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)645-65-96</phoneKyivstar>
+			<phoneHome>+38(0342)77-75-71</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Monmartre</bar>
+			<address>в. Шевченка, 13</address>
+            <phoneVodaphone>+38(095)865-75-83</phoneVodaphone>
+			<phoneKyivstar>+38(067)125-80-65</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Pasage Gartenberg</bar>
+			<address>в. Незалежності, 3</address>
+            <phoneVodaphone>+38(095)175-90-00</phoneVodaphone>
+			<phoneKyivstar>+38(067)175-90-00</phoneKyivstar>
+			<phoneHome>+38(0342)72-51-01</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Piwnica</bar>
+			<address>в. Січових Стрільців, 42а</address>
+            <phoneVodaphone>+38(050)153-07-16</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Shake Bar</bar>
+			<address>пл. Ринок, 8</address>
+            <phoneVodaphone>+38(050)530-64-86</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>SMOKE KING</bar>
+			<address>в.Незалежності, 3 </address>
+            <phoneVodaphone>+38(095)228-66-33</phoneVodaphone>
+			<phoneKyivstar>+38(068)228-66-33</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Soho</bar>
+			<address>в. Шашкевича, 2 </address>
+            <phoneVodaphone>+38(099)163-62-37</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-26-48</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Sunday Food</bar>
+			<address>в. Січових Стрільців, 26</address>
+            <phoneVodaphone>+38(099)323-10-38</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Vegano Hooligano</bar>
+			<address>в. В. Великого, 14</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)877-86-69</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Villa</bar>
+			<address>в. Івасюка, 11</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)943-09-73</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Grand America</bar>
+			<address>в.Чорновола, 23 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)852-52-52</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>АВТОМАН</bar>
+			<address>в.Петрушевича, 1 </address>
+            <phoneVodaphone>+38(066)300-80-94</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-22-37</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Акрополь</bar>
+			<address>в.Академіка Сахарова, 21а </address>
+            <phoneVodaphone>+38(066)377-88-99</phoneVodaphone>
+			<phoneKyivstar>+38(068)995-67-89</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Алан</bar>
+			<address>в. Гетьмана Мазепи, 23</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-72-17</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Аріадна</bar>
+			<address>в. Галицька, 22</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-32-88</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Барвінок</bar>
+			<address>в. Івасюка, 26а</address>
+            <phoneVodaphone>+38(066)345-50-28</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-05-44</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Бізе</bar>
+			<address>в. Галицька, 31</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-94-00</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Бістро</bar>
+			<address>в.Флотська, 10 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)418-32-51</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Бочка</bar>
+			<address>в.Страчених, 3 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-20-54</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Вагон</bar>
+			<address>в. Залізнична, 31</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-25-00</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Ватра</bar>
+			<address>в. Низова, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)848-14-70</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Вероніка</bar>
+			<address>в. Юності, 25а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-47-18</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Версаль</bar>
+			<address>в. Вовчинецька, 124</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)410-70-47</phoneKyivstar>
+			<phoneHome>+38(0342)71-59-64</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+		</item>	
+		<item>
+            <bar>Кнайпа Войцех</bar>
+			<address>в. Чорновола, 5</address>
+            <phoneVodaphone>+38(099)450-27-67</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-15-19</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Галицька кухня</bar>
+			<address>в. Вовчинецька, 225</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)712-30-92</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Гніздечко</bar>
+			<address>в. Вагилевича, 6</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)905-03-67</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Горець</bar>
+			<address>в. Гетьмана Мазепи, 23 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-72-17</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>ГОСТ</bar>
+			<address>в. Л. Курбаса, 5</address>
+            <phoneVodaphone>+38(066)109-21-92</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Дебют</bar>
+			<address>в. Привокзальна, 9</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)631-48-01</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Десятка </bar>
+			<address>в.Шашкевича, 2 </address>
+            <phoneVodaphone>+38(050)373-82-02</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-21-21</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Десятка</bar>
+			<address>в.Шашкевича, 2 </address>
+            <phoneVodaphone>+38(050)372-87-07</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Діоніс</bar>
+			<address>в.  Гната Хоткевича, 46, корп. 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-83-77</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Едельвейс</bar>
+			<address>в.  Горбачевського, 2</address>
+            <phoneVodaphone>+38(099)042-37-27</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-44-25</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Забава</bar>
+			<address>в.Польова, 5 </address>
+            <phoneVodaphone>+38(099)511-46-05</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Золота підкова</bar>
+			<address>в. Ленкавського, 15а</address>
+            <phoneVodaphone>+38(099)448-14-82</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-83-21</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Золотий колос</bar>
+			<address>в. Чорновола, 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)783-28-87</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Імпреза</bar>
+			<address>в. В. Симоненка, 15</address>
+            <phoneVodaphone>+38(050)950-12-78</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Шинок Калина</bar>
+			<address>в. Промислова, 29</address>
+            <phoneVodaphone>+38(095)160-97-86</phoneVodaphone>
+			<phoneKyivstar>+38(098)475-83-12</phoneKyivstar>
+			<phoneHome>+38(0342)75-45-77</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Козацьке</bar>
+			<address>в. Юності, 35а</address>
+            <phoneVodaphone>+38(066)199-39-29</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>КАМІН / COME IN</bar>
+			<address>в. Новгородська, 39</address>
+            <phoneVodaphone>+38(066)927-44-88</phoneVodaphone>
+			<phoneKyivstar>+38(098)367-45-75</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Комора</bar>
+			<address>в.Тичини, 9 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-00-20</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Корал</bar>
+			<address>в.Тринітарська, 13 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-35-93</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Коровай</bar>
+			<address>в.Незалежності, 30 </address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-03-19</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Крила food light</bar>
+			<address>в. Січових Стрільців, 56</address>
+            <phoneVodaphone>+38(050)267-20-13</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Кураж</bar>
+			<address>в. Вовчинецька, 140</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)643-12-70</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Лілея</bar>
+			<address>в. Коновальця, 229</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-57-31</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Лонда</bar>
+			<address>в. Чорновола, 47</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-06-30</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Львівська майстерня шоколаду</bar>
+			<address>в. Бачинського, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)608-57-09</phoneKyivstar>
+			<phoneHome>+38(0342)72-44-40</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Люм'єр</bar>
+			<address>в. Грушевського, 3</address>
+            <phoneVodaphone>+38(066)992-00-00</phoneVodaphone>
+			<phoneKyivstar>+38(096)050-50-51</phoneKyivstar>
+			<phoneHome>+38(0342)50-55-00</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Мануфактура</bar>
+			<address>пл. Міцкевича, 6</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(093)346-92-06</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Маскара</bar>
+			<address>в. Василя Симоненка, 33б</address>
+            <phoneVodaphone>+38(094)922-34-65</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-04-65</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Міф</bar>
+			<address>в. Івана Павла ІІ, 28</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)797-93-09</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Мольберт</bar>
+			<address>в. С. Петлюри, 8а</address>
+            <phoneVodaphone>+38(050)433-96-12</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Мрія</bar>
+			<address>в. Вірменська, 3</address>
+            <phoneVodaphone>+38(095)529-58-02</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Обрій</bar>
+			<address>в. Гетьмана Мазепи, 177</address>
+            <phoneVodaphone>+38(050)167-70-80</phoneVodaphone>
+			<phoneKyivstar>+38(097)906-73-02</phoneKyivstar>
+			<phoneHome>+38(0342)75-32-55</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Околиця</bar>
+			<address>в. Юності, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-44-20</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Олів'є</bar>
+			<address>в. Галицька, 203</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-41-17</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Очерет</bar>
+			<address>в. Гаркуші, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-30-23</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>П'ятачок</bar>
+			<address>в. Незалежності, 36</address>
+            <phoneVodaphone>+38(066)791-86-47</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Перлина</bar>
+			<address>в. С. Петлюри, 1</address>
+            <phoneVodaphone>+38(095)443-64-10</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-52-95</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Перше-друге</bar>
+			<address>в. Чорновола, 67</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)327-67-67</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Під горіхом</bar>
+			<address>в. Коновальця, 225</address>
+            <phoneVodaphone>+38(095)033-30-92</phoneVodaphone>
+			<phoneKyivstar>+38(068)145-59-57</phoneKyivstar>
+			<phoneHome>+38(0342)77-56-71</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Під фікусом</bar>
+			<address>в. Незалежності, 130</address>
+            <phoneVodaphone>+38(066)136-68-96</phoneVodaphone>
+			<phoneKyivstar>+38(096)315-54-66</phoneKyivstar>
+			<phoneHome>+38(0342)53-14-35</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Підкова</bar>
+			<address>в. Г. Хоткевича, 48, корп. 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)6-56-52</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Піратос</bar>
+			<address>в. Шопена, 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)344-24-42</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Ратуша</bar>
+			<address>пл. Ринок, 5</address>
+            <phoneVodaphone>+38(099)445-13-95</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Рішельє</bar>
+			<address>в. Василя Симоненка, 23а</address>
+            <phoneVodaphone>+38(050)198-79-97</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-24-00</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Роджер</bar>
+			<address>в. Вовчинецька, 194</address>
+            <phoneVodaphone>+38(066)665-45-64</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-81-17</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Рутка</bar>
+			<address>в. В. Стуса, 13б</address>
+            <phoneVodaphone>+38(050)521-03-73</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-61-01</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Селенга</bar>
+			<address>в. Коновальця, 146а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-93-01</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Сита ложка</bar>
+			<address>пл. Привокзальна, 1</address>
+            <phoneVodaphone>+38(066)654-59-05</phoneVodaphone>
+			<phoneKyivstar>+38(097)777-10-04</phoneKyivstar>
+			<phoneHome>+38(0342)54-41-43</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Станіславів</bar>
+			<address>в. Незалежності, 8</address>
+            <phoneVodaphone>+38(050)551-29-91</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Старий Бєлград</bar>
+			<address>в. Коновальця, 322</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)104-84-14</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Старий двір</bar>
+			<address>в. Незалежності, 9а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-01-30</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Студентське кафе</bar>
+			<address>в. Північний бульвар, 11</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-91-30</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		
+      
+	  <item>
+            <bar>Сюрприз</bar>
+			<address>в. Незалежності, 164</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)925-77-37</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Таверна Швейк</bar>
+			<address>пл. Привокзальна, 9</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)172-53-97</phoneKyivstar>
+			<phoneHome>+38(0342)72-56-72</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Талер</bar>
+			<address>в. Галицька, 122</address>
+            <phoneVodaphone>+38(066)467-71-23</phoneVodaphone>
+			<phoneKyivstar>+38(096)113-20-46</phoneKyivstar>
+			<phoneHome>+38(0342)72-15-22</phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Три Мушкетери</bar>
+			<address>в. Чорновола, 14</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)650-50-10</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Фараон</bar>
+			<address>в. Гетьмана Мазепи, 173а</address>
+            <phoneVodaphone>+38(066)572-10-37</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Фільварок</bar>
+			<address>в. Галицька, 126</address>
+            <phoneVodaphone>+38(099)087-88-90</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Хата Сови</bar>
+			<address>в. 24 Серпня, 22</address>
+            <phoneVodaphone>+38(066)969-59-16</phoneVodaphone>
+			<phoneKyivstar>+38(096)038-69-00</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Чугайстер</bar>
+			<address>в. Карпатська, 2</address>
+            <phoneVodaphone>+38(050)246-98-70</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>
+		<item>
+            <bar>Штрудель</bar>
+			<address>пл. Ринок, 12</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/bar.png</icon>
+        </item>         
+	</channel>	
+</rss>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>		
+            <evacuator>Автогама</evacuator>
+			<address>в. Коновальця, 148б</address>
+            <phoneVodaphone>+38(099)342-59-34</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(050)373-90-30</phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>Автоевакуатор</evacuator>
+			<address></address>
+            <phoneVodaphone>+38(050)560-29-99</phoneVodaphone>
+			<phoneKyivstar>+38(098)530-50-60</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>Дизель Сервіс Автоевакуатор</evacuator>
+			<address>с. Чукалівка в. Довбуша, 38</address>
+            <phoneVodaphone>+38(050)528-53-53</phoneVodaphone>
+			<phoneKyivstar>+38(067)906-50-65</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>Евакуатор</evacuator>
+			<address></address>
+            <phoneVodaphone>+38(050)664-14-51</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>Евакуатор</evacuator>
+			<address></address>
+            <phoneVodaphone>+38(095)112-23-09</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>Евакуатор AutoSos</evacuator>
+			<address></address>
+            <phoneVodaphone>+38(050)921-08-10</phoneVodaphone>
+			<phoneKyivstar>+38(067)187-69-35</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>ПП "Новак Роман"</evacuator>
+			<address>в. Тичини, 48, офіс 3</address>
+            <phoneVodaphone>+38(050)587-51-09</phoneVodaphone>
+			<phoneKyivstar>+38(067)305-63-11</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>Послуги евакуатора</evacuator>
+			<address>с. Черніїв в. Верховинська, 3а</address>
+            <phoneVodaphone>+38(050)188-95-79</phoneVodaphone>
+			<phoneKyivstar>+38(067)286-14-05</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>Сергенюк-сервіс</evacuator>
+			<address>с. Крихівці в. Криховецька, 2в</address>
+            <phoneVodaphone>+38(050)433-70-40</phoneVodaphone>
+			<phoneKyivstar>+38(098)433-70-40</phoneKyivstar>
+			<phoneHome>+38(0342)77-44-84</phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>СТО</evacuator>
+			<address>в. Олександра Довженка, 27Б</address>
+            <phoneVodaphone>+38(050)932-18-77</phoneVodaphone>
+			<phoneKyivstar>+38(097)960-87-77</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+		<item>		
+            <evacuator>Явір</evacuator>
+			<address>с. Драгомирчани в. Шкільна, 13</address>
+            <phoneVodaphone>+38(050)434-38-38</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/evacuator.png</icon>
+        </item>
+	</channel>
+</rss>

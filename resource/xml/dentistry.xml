@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <dental>32 перлини</dental>
+			<address>в. Незалежності, 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-85-69</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Albus Dens</dental>
+			<address>в. Пулюя, 2, оф. 3</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-76-90</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>CDD LUXE</dental>
+			<address>в. І. Франка, 37</address>
+            <phoneVodaphone>+38(066)988-01-67</phoneVodaphone>
+			<phoneKyivstar>+38(096)356-60-07</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Dent Life</dental>
+			<address>в. Івасюка, 24</address>
+            <phoneVodaphone>+38(050)052-62-13</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Dent-art</dental>
+			<address>в. Пасічна, 12б</address>
+            <phoneVodaphone>+38(095)125-68-97</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Dental VIT</dental>
+			<address>в. Б. Хмельницького, 53</address>
+            <phoneVodaphone>+38(095)072-20-01</phoneVodaphone>
+			<phoneKyivstar>+38(098)037-34-88</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Dentalio</dental>
+			<address>в. Чорновола, 4а</address>
+            <phoneVodaphone>+38(095)544-99-58</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Dentx</dental>
+			<address>в. Галицька, 122</address>
+            <phoneVodaphone>+38(095)307-52-52</phoneVodaphone>
+			<phoneKyivstar>+38(097)290-58-58</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Diodi</dental>
+			<address>в. Гетьмана Дорошенка, 18а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-47-95</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Estet Studio Галини Макогон</dental>
+			<address>в. Гаркуші, 13</address>
+            <phoneVodaphone>+38(050)673-40-41</phoneVodaphone>
+			<phoneKyivstar>+38(067)340-29-22</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Kulyk Medicine</dental>
+			<address>в. Василіянок, 66</address>
+            <phoneVodaphone>+38(066)525-63-88</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item><item>
+            <dental>Medium</dental>
+			<address>в. О. Кисілевської, 37</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)704-43-14</phoneKyivstar>
+			<phoneHome>+38(0342)73-17-78</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>New Dent</dental>
+			<address>в. Шевченка, 13</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)344-34-42</phoneKyivstar>
+			<phoneHome>+38(0342)50-38-51</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Radix</dental>
+			<address>пл. Привокзальна, 3, оф. 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-03-59</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Respect Dental</dental>
+			<address>в. Бельведерська, 48</address>
+            <phoneVodaphone>+38(050)602-07-51</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-49-95</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Victor-Дім</dental>
+			<address>в. Чорновола, 101</address>
+            <phoneVodaphone>+38(050)373-55-69</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-70-60</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>VIP стоматологія</dental>
+			<address>в. Коновальця, 147/3</address>
+            <phoneVodaphone>+38(099)237-34-62</phoneVodaphone>
+			<phoneKyivstar>+38(096)316-62-48</phoneKyivstar>
+			<phoneHome>+38(0342)50-20-46</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Авіцена</dental>
+			<address>в. Шевченка, 46</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)341-03-67</phoneKyivstar>
+			<phoneHome>+38(0342)55-26-97</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Альтмед</dental>
+			<address>в. Галицька, 167</address>
+            <phoneVodaphone>+38(066)304-74-70</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-17-52</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Анастасія</dental>
+			<address>в. Набережна, 14</address>
+            <phoneVodaphone>+38(050)978-75-40</phoneVodaphone>
+			<phoneKyivstar>+38(097)579-27-02</phoneKyivstar>
+			<phoneHome>+38(0342)54-60-14</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Андрусишин Тарас Романович</dental>
+			<address>в. Набережна, 16а</address>
+            <phoneVodaphone>+38(050)150-40-40</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-24-34</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Аполонія-ІФ</dental>
+			<address>в. Павлика, 6, оф. 1а</address>
+            <phoneVodaphone>+38(095)008-21-81</phoneVodaphone>
+			<phoneKyivstar>+38(068)104-17-17</phoneKyivstar>
+			<phoneHome>+38(0342)55-25-25</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Армадент</dental>
+			<address>в. Вовчинецька, 28</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-99-44</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Асклепій</dental>
+			<address>в. Дністровська, 55</address>
+            <phoneVodaphone>+38(066)670-29-66</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-81-42</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Біодент</dental>
+			<address>в. Короля Данила, 18</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-06-16</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Віадент</dental>
+			<address>в. Української дивізії, 5</address>
+            <phoneVodaphone>+38(066)857-11-19</phoneVodaphone>
+			<phoneKyivstar>+38(097)872-94-49</phoneKyivstar>
+			<phoneHome>+38(0342)77-29-89</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Віта</dental>
+			<address>в. Вовчинецька, 124, корп. 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-13-36</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Вітадент-ІФ</dental>
+			<address>в. С. Стецько, 2</address>
+            <phoneVodaphone>+38(050)673-40-04</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-43-03</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Возняк Ольга Василівна</dental>
+			<address>в. В. Симоненка, 3б</address>
+            <phoneVodaphone>+38(095)832-67-33</phoneVodaphone>
+			<phoneKyivstar>+38(097)135-51-18</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Галицька лічниця</dental>
+			<address>в. Василіянок, 30, оф. 1</address>
+            <phoneVodaphone>+38(066)426-29-75</phoneVodaphone>
+			<phoneKyivstar>+38(098)458-35-28</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Герасимчук Г. Я.</dental>
+			<address>в. Сорохтея, 32, оф. 51</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-91-65</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Глорія Денталь</dental>
+			<address>в. Грюнвальдська, 12б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-28-30</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Дантист</dental>
+			<address>в. Бельведерська, 12</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-53-31</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Дент +</dental>
+			<address>в. Івана Павла ІІ, 8а</address>
+            <phoneVodaphone>+38(066)305-85-39</phoneVodaphone>
+			<phoneKyivstar>+38(068)161-47-85</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Дентаклас</dental>
+			<address>в. Грюнвальдська, 2, оф. 3</address>
+            <phoneVodaphone>+38(050)338-83-43</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-54-05</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Дентал_ІФ</dental>
+			<address>в. Коновальця, 35, оф. 215</address>
+            <phoneVodaphone>+38(050)373-21-53</phoneVodaphone>
+			<phoneKyivstar>+38(098)495-28-53</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Денталайф</dental>
+			<address>в. Мельничука, 3/4</address>
+            <phoneVodaphone>+38(099)915-23-06</phoneVodaphone>
+			<phoneKyivstar>+38(097)266-22-11</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Денталія</dental>
+			<address>в. Молодіжна, 52</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-18-39</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Денталюкс</dental>
+			<address>в. Г. Хоткевича, 54</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-37-95</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Еста</dental>
+			<address>в. Шкільна, 16</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-20-94</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Ефект</dental>
+			<address>в. Бельведерська, 46</address>
+            <phoneVodaphone>+38(066)754-46-54</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>v+38(0342)54-75-76</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Життя без болю</dental>
+			<address>в. Грушевського, 41</address>
+            <phoneVodaphone>+38(099)935-06-90</phoneVodaphone>
+			<phoneKyivstar>+38(068)217-60-59</phoneKyivstar>
+			<phoneHome>+38(0342)72-15-41</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Івано-Франківська міська дитяча стоматологічна поліклініка</dental>
+			<address>в. Дмитра Вітовського, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-23-52</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Карат</dental>
+			<address>в. Заклинських, 8</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-98-01</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Каріо</dental>
+			<address>в. Галицька, 111</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-03-49</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Каріо</dental>
+			<address>в. Січових Стрільців, 35</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-27-84</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Каріо Ден</dental>
+			<address>в. П. Орлика, 10</address>
+            <phoneVodaphone>+38(095)126-29-31</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-01-44</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Лічниця Ткачука</dental>
+			<address>в. Пасічна, 38а</address>
+            <phoneVodaphone>+38(050)705-47-17</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Максдент</dental>
+			<address>в. Товарна, 5, оф. 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)752-61-01</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Марта</dental>
+			<address>в. Матейки, 48</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-91-24</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Медгарант</dental>
+			<address>в. Горбачевського, 50</address>
+            <phoneVodaphone>+38(095)040-43-40</phoneVodaphone>
+			<phoneKyivstar>+38(068)030-57-52</phoneKyivstar>
+			<phoneHome>+38(0342)52-42-42</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Медекс Плюс</dental>
+			<address>в. Військових Ветеранів, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-15-60</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Мельникович Ірина</dental>
+			<address>в. Незалежності, 17</address>
+            <phoneVodaphone>+38(050)280-00-58</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Мікростоматологія Тараса Стечишина</dental>
+			<address>в. І. Миколайчука, 10</address>
+            <phoneVodaphone>+38(050)521-04-81</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-72-30</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Містер Брекет</dental>
+			<address>в. Товарна, 5</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)879-73-79</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Надія</dental>
+			<address>в. Галицька, 26</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-01-25</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Обласна стоматологічна поліклініка</dental>
+			<address>в. Генерала М. Тарнавського, 6</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-52-96</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>ОлDent</dental>
+			<address>в. Нова, 19а</address>
+            <phoneVodaphone>+38(050)176-23-06</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Оріс</dental>
+			<address>в. Б. Лепкого, 47б</address>
+            <phoneVodaphone>+38(066)807-02-30</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-23-29</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Ортодент</dental>
+			<address>в. Толстого, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-11-07</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Ортодонтична Практика Андрія Кирилюка</dental>
+			<address>в. Шевченка, 34б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)486-85-80</phoneKyivstar>
+			<phoneHome>+38(0342)74-10-01</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Ортолюкс</dental>
+			<address>в. Г. Хоткевича, 44а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-23-24</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Порцеляна КВМ</dental>
+			<address>в. Залізнична, 21б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-24-05</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Приватна зуботехнічна лабораторія</dental>
+			<address>в. Гетьмана Мазепи, 56</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)786-50-04</phoneKyivstar>
+			<phoneHome>+38(0342)52-50-05</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Приватний стоматологічний кабінет</dental>
+			<address>в. Шевченка, 85</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)944-09-14</phoneKyivstar>
+			<phoneHome>+38(0342)53-48-42</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Призма</dental>
+			<address>в. В. Великого, 10Б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)252-85-06</phoneKyivstar>
+			<phoneHome>+38(0342)75-44-32</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Репобона</dental>
+			<address>в. М. Підгірянки, 23</address>
+            <phoneVodaphone>+38(050)490-80-60</phoneVodaphone>
+			<phoneKyivstar>+38(098)720-30-40</phoneKyivstar>
+			<phoneHome>+38(0342)53-76-61</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Селеніт</dental>
+			<address>в. Тичини, 8а</address>
+            <phoneVodaphone>+38(099)190-76-09</phoneVodaphone>
+			<phoneKyivstar>+38(096)468-01-49</phoneKyivstar>
+			<phoneHome>+38(03422)4-33-57</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>СІМЕДГРУП</dental>
+			<address>в. Федьковича, 91а</address>
+            <phoneVodaphone>+38(099)156-59-58</phoneVodaphone>
+			<phoneKyivstar>+38(068)377-44-17</phoneKyivstar>
+			<phoneHome>+38(0342)52-40-40</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Сімейна стоматологія</dental>
+			<address>в. Тролейбусна, 12</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-99-39</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Смайл</dental>
+			<address>в. Галицька, 19</address>
+            <phoneVodaphone>+38(095)942-28-48</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-13-75</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Софі Дент</dental>
+			<address>в. Чорновола, 34б, оф. 2</address>
+            <phoneVodaphone>+38(050)987-17-75</phoneVodaphone>
+			<phoneKyivstar>+38(096)584-18-19</phoneKyivstar>
+			<phoneHome>+38(0342)75-22-44</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Станіславівська лічниця</dental>
+			<address>в. Гетьмана Мазепи, 6, оф. 7</address>
+            <phoneVodaphone>+38(095)135-55-50</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)55-91-09</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стомасервіс</dental>
+			<address>в. Незалежності, 113</address>
+            <phoneVodaphone>+38(050)678-72-41</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-01-34</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматкабінет</dental>
+			<address>в. Леся Курбаса, 4/4</address>
+            <phoneVodaphone>+38(050)433-76-22</phoneVodaphone>
+			<phoneKyivstar>+38(067)342-77-28</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматолог</dental>
+			<address>в. Вовчинецька, 184, оф. 74</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)6-24-24</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматолог</dental>
+			<address>в. Гетьмана Мазепи, 87</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-26-38</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматолог</dental>
+			<address>в. Гетьмана Мазепи, 20</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)957-47-65</phoneKyivstar>
+			<phoneHome>+38(0342)50-12-53</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматолог</dental>
+			<address>в. Івасюка, 42</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-15-14</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматолог</dental>
+			<address>в. Княгинин, 27а</address>
+            <phoneVodaphone>+38(093)565-39-89</phoneVodaphone>
+			<phoneKyivstar>+38(098)056-66-68</phoneKyivstar>
+			<phoneHome>+38(0342)77-91-58</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологічна практика Вінтоняка та Материнських</dental>
+			<address>в. Б. Лепкого, 22, оф. 2</address>
+            <phoneVodaphone>+38(050)209-51-26</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-90-84</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологічна практика Михайлюка</dental>
+			<address>в. І. Франка, 25а</address>
+            <phoneVodaphone>+38(066)058-87-95</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-11-24</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологічна практика Семеген</dental>
+			<address>в. С. Бандери, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-90-71</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологічний кабінет</dental>
+			<address>в. Галицька, 142</address>
+            <phoneVodaphone>+38(050)872-14-28</phoneVodaphone>
+			<phoneKyivstar>+38(067)718-14-47</phoneKyivstar>
+			<phoneHome>+38(0342)50-89-79</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологічний кабінет</dental>
+			<address>в. Південний Бульвар, 29, оф. 63</address>
+            <phoneVodaphone>+38(095)948-64-21</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)4-86-38</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологічний кабінет</dental>
+			<address>в. О. Довженка, 20</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-23-61</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологічний кабінет</dental>
+			<address>в. Галицька, 105</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-00-39</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологічний кабінет</dental>
+			<address>в. В. Симоненка, 3в</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)386-19-38</phoneKyivstar>
+			<phoneHome>+38(0342)72-33-28</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія</dental>
+			<address>в. І. Миколайчука, 20а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-42-88</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія</dental>
+			<address>в. Південний Бульвар, 24б</address>
+            <phoneVodaphone>+38(050)433-13-66</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія</dental>
+			<address>в. Довга, 39</address>
+            <phoneVodaphone>+38(095)678-82-08</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія Ірини Масляк</dental>
+			<address>в. В. Великого, 13</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-79-71</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія М</dental>
+			<address>в. Вовчинецька, 170</address>
+            <phoneVodaphone>+38(050)668-36-56</phoneVodaphone>
+			<phoneKyivstar>+38(096)635-24-78</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія Овсянецького</dental>
+			<address>в. Гетьмана Мазепи, 11а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)114-57-22</phoneKyivstar>
+			<phoneHome>+38(0342)72-58-41</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія Павла Костіва</dental>
+			<address>в. П. Орлика, 4а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)689-91-92</phoneKyivstar>
+			<phoneHome>+38(0342)52-80-47</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія Тараса Косовича</dental>
+			<address>в. Тичини, 8а, оф. 246, 247</address>
+            <phoneVodaphone>+38(050)373-35-07</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-61-68</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Стоматологія/ Зуботехнічна лабораторія</dental>
+			<address>в. С. Бандери, 1</address>
+            <phoneVodaphone>+38(050)338-89-69</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-15-07</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Студія усмішки</dental>
+			<address>в. Гетьмана Мазепи, 66</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-26-06</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Фіяло О.М.</dental>
+			<address>в. Чорновола, 130в</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)702-96-48</phoneKyivstar>
+			<phoneHome>+38(0342)75-73-79</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+        </item>
+		<item>
+            <dental>Центр практичної стоматології</dental>
+			<address>в. Академіка Сахарова, 25а</address>
+            <phoneVodaphone>+38(099)252-00-04</phoneVodaphone>
+			<phoneKyivstar>+38(068)352-00-04</phoneKyivstar>
+			<phoneHome>+38(0342)52-00-04</phoneHome>
+			<icon>qrc:/img/resource/img/dental.png</icon>
+         </item>
+    </channel>
+</rss>

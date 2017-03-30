@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+		    <beauty>ALIAN</beauty>
+			<address>в. Гарбарська, 39, пов. 2</address>
+            <phoneVodaphone>+38(099)193-67-94</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>BalBao</beauty>
+			<address>в. Південний Бульвар, 24б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)543-43-43</phoneKyivstar>
+			<phoneHome>+38(0342)52-53-56</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Beauty</beauty>
+			<address>в. Новгородська, 55а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-70-55</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Beauty Room</beauty>
+			<address>в. Північний бульвар, 2а, пов. 3</address>
+            <phoneVodaphone>+38(050)709-70-56</phoneVodaphone>
+			<phoneKyivstar>+38(098)552-54-70</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Butterfly</beauty>
+			<address>в. Грюнвальдська, 14б</address>
+            <phoneVodaphone>+38(099)277-35-26</phoneVodaphone>
+			<phoneKyivstar>+38(067)863-25-35</phoneKyivstar>
+			<phoneHome>+38(0342)72-58-98</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Caprice</beauty>
+			<address>в. Незалежності, 146</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)341-06-10</phoneKyivstar>
+			<phoneHome>+38(0342)70-55-55</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Cleopatra</beauty>
+			<address>в. Василя Симоненка, 31</address>
+            <phoneVodaphone>+38(050)160-05-51</phoneVodaphone>
+			<phoneKyivstar>+38(097)777-78-55</phoneKyivstar>
+			<phoneHome>+38(0342)77-78-55</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>ESTET EXPERT</beauty>
+			<address>в. Галицька, 43б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)144-11-71</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Exclusive</beauty>
+			<address>в. Шевченка, 63</address>
+            <phoneVodaphone>+38(099)063-74-45</phoneVodaphone>
+			<phoneKyivstar>+38(096)747-93-64</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Fashion day</beauty>
+			<address>в. Гарбарська, 39</address>
+            <phoneVodaphone>+38(099)291-39-52</phoneVodaphone>
+			<phoneKyivstar>+38(097)029-32-03</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Houdini</beauty>
+			<address>в. Пилипа Орлика, 7а</address>
+            <phoneVodaphone>+38(095)088-93-68</phoneVodaphone>
+			<phoneKyivstar>+38(098)511-36-32</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>IRIS</beauty>
+			<address>в. Коновальця, 147</address>
+            <phoneVodaphone>+38(050)643-15-13</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Krasa.if.ua</beauty>
+			<address>в. Олександра Довженка, 21б</address>
+            <phoneVodaphone>+38(099)532-98-24</phoneVodaphone>
+			<phoneKyivstar>+38(097)341-77-96</phoneKyivstar>
+			<phoneHome>+38(0342)72-44-73</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>LAZERSHINE</beauty>
+			<address>в. Галицька, 43б</address>
+            <phoneVodaphone>+38(099)076-60-15</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Makeup House</beauty>
+			<address>Площа Ринок, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)416-10-44</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Makeup room Kanna Haliman</beauty>
+			<address>в. Богдана Лепкого, 12а</address>
+            <phoneVodaphone>+38(066)958-05-94</phoneVodaphone>
+			<phoneKyivstar>+38(098)458-35-21</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>MARY KAY</beauty>
+			<address>в. Грюнвальдська, 19а</address>
+            <phoneVodaphone>+38(099)215-70-04</phoneVodaphone>
+			<phoneKyivstar>+38(097)119-34-46</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>MedArt</beauty>
+			<address>в. Вагилевича, 3</address>
+            <phoneVodaphone>+38(099)111-55-50</phoneVodaphone>
+			<phoneKyivstar>+38(067)111-55-50</phoneKyivstar>
+			<phoneHome>+38(0342)54-15-44</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Milady</beauty>
+			<address>в. Незалежності, 4, офіс 610</address>
+            <phoneVodaphone>+38(050)722-91-44</phoneVodaphone>
+			<phoneKyivstar>+38(098)953-74-79</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Paint You</beauty>
+			<address>в. Вовчинецька, 225г, пов. 3</address>
+            <phoneVodaphone>+38(099)094-06-18</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Peggy Sage</beauty>
+			<address>в. Незалежності, 18</address>
+            <phoneVodaphone>+38(050)373-86-80</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(03422)2-24-18</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>PMU Estetic art</beauty>
+			<address>в. Богдана Лепкого, 33</address>
+            <phoneVodaphone>+38(099)232-88-35</phoneVodaphone>
+			<phoneKyivstar>+38(067)336-03-26</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>PrimaVera</beauty>
+			<address>в. Вовчинецька, 26</address>
+            <phoneVodaphone>+38(095)827-08-77</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-80-58</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Queen</beauty>
+			<address>в. Тичини, 43Б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(098)807-00-01</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>SAVANNA Spa club</beauty>
+			<address>в. Степана Бандери, 10в</address>
+            <phoneVodaphone>+38(066)677-44-47</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)74-44-77</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Sensei</beauty>
+			<address>в. Івана Франка, 42</address>
+            <phoneVodaphone>+38(050)677-78-76</phoneVodaphone>
+			<phoneKyivstar>+38(067)477-67-63</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Sesson</beauty>
+			<address>в. Грушевського, 37</address>
+            <phoneVodaphone>+38(066)299-00-72</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>SK Свєтловської</beauty>
+			<address>в. Галицька, 66а</address>
+            <phoneVodaphone>+38(050)585-11-64</phoneVodaphone>
+			<phoneKyivstar>+38(068)543-74-17</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Tattoo studio</beauty>
+			<address>в. Тичини, 1, офіс 1</address>
+            <phoneVodaphone>+38(050)170-49-92</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>The Beauty Boutique</beauty>
+			<address>в. Богдана Лепкого, 6а</address>
+            <phoneVodaphone>+38(050)012-96-29</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-36-35</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>TREND Studio</beauty>
+			<address>в. Василіянок, 15</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)801-54-24</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Vi Va</beauty>
+			<address>в. Хіміків, 4в</address>
+            <phoneVodaphone>+38(050)602-98-89</phoneVodaphone>
+			<phoneKyivstar>+38(097)468-73-68</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>VIP Персона</beauty>
+			<address>в. Пилипа Орлика, 10</address>
+            <phoneVodaphone>+38(095)934-78-08</phoneVodaphone>
+			<phoneKyivstar>+38(068)664-65-50</phoneKyivstar>
+			<phoneHome>+38(0342)71-83-87</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>WEYERGANS</beauty>
+			<address>в. Бельведерська, 2а, офіс 13, пов. 5</address>
+            <phoneVodaphone>+38(099)344-18-00</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Women Secret</beauty>
+			<address>в. Коновальця, 138а</address>
+            <phoneVodaphone>+38(099)024-44-71</phoneVodaphone>
+			<phoneKyivstar>+38(068)202-28-01</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Адель</beauty>
+			<address>в. Пасічна, 2</address>
+            <phoneVodaphone>+38(050)762-55-01</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Азалія</beauty>
+			<address>в. Української дивізії, 9/1</address>
+            <phoneVodaphone>+38(050)054-27-35</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Аіда</beauty>
+			<address>в. Василя Симоненка, 24б</address>
+            <phoneVodaphone>+38(095)211-79-20</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-44-71</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Аквамарін</beauty>
+			<address>в. Південний Бульвар, 38б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-02-71</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Алфея</beauty>
+			<address>в. Військових Ветеранів, 10д</address>
+            <phoneVodaphone>+38(050)235-07-75</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Андре</beauty>
+			<address>в. Володимира Великого, 11</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-64-02</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Анна</beauty>
+			<address>в. Коновальця, 35</address>
+            <phoneVodaphone>+38(095)710-32-44</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-10-44</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Антік</beauty>
+			<address>в. Тичини, 8а</address>
+            <phoneVodaphone>+38(099)701-07-77</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)73-00-71</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>АРС</beauty>
+			<address>Площа Ринок, 14</address>
+            <phoneVodaphone>+38(050)373-61-33</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)52-79-10</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Аюрведа</beauty>
+			<address>в. Богдана Хмельницького, 51</address>
+            <phoneVodaphone>+38(066)397-14-20</phoneVodaphone>
+			<phoneKyivstar>+38(097)046-45-39</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Бригантина</beauty>
+			<address>в. Чорновола, 97</address>
+            <phoneVodaphone>+38(066)645-59-38</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Венера</beauty>
+			<address>в. Богдана Лепкого, 29</address>
+            <phoneVodaphone>+38(050)522-73-06</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)53-25-82</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Візажист Вікторія Лаврів</beauty>
+			<address>в. Вовчинецька, 68</address>
+            <phoneVodaphone>+38(066)857-66-51</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Вікторія</beauty>
+			<address>в. Олександра Довженка, 18, корп. 2</address>
+            <phoneVodaphone>+38(066)051-56-19</phoneVodaphone>
+			<phoneKyivstar>+38(097)099-46-18</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>ВС</beauty>
+			<address>в. Короля Данила, 18</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-40-23</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Вулик</beauty>
+			<address>в. Івана Миколайчука, 16а</address>
+            <phoneVodaphone>+38(095)120-20-70</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Гламур</beauty>
+			<address>в. Гетьмана Мазепи, 56</address>
+            <phoneVodaphone>+38(066)352-72-53</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Гранд</beauty>
+			<address>в. Василя Стуса, 17а</address>
+            <phoneVodaphone>+38(050)183-78-68</phoneVodaphone>
+			<phoneKyivstar>+38(097)415-95-99</phoneKyivstar>
+			<phoneHome>+38(0342)78-68-27</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Евеліна</beauty>
+			<address>в. Лесі Українки, 7/1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)771-97-96</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Ейва</beauty>
+			<address>в. Вовчинецька, 189</address>
+            <phoneVodaphone>+38(095)802-40-05</phoneVodaphone>
+			<phoneKyivstar>+38(067)344-53-63</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Ера</beauty>
+			<address>в. Галицька, 142б</address>
+            <phoneVodaphone>+38(066)079-90-36</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)74-02-34</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Еталон</beauty>
+			<address>в. Шеремети, 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-75-18</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Єва</beauty>
+			<address>в. Василя Стуса, 25</address>
+            <phoneVodaphone>+38(095)123-00-87</phoneVodaphone>
+			<phoneKyivstar>+38(067)204-06-00</phoneKyivstar>
+			<phoneHome>+38(0342)77-64-82</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Живиця</beauty>
+			<address>в. Військова, 2</address>
+            <phoneVodaphone>+38(099)406-74-18</phoneVodaphone>
+			<phoneKyivstar>+38(067)344-25-45</phoneKyivstar>
+			<phoneHome>+38(0342)50-60-50</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Імідж</beauty>
+			<address>в. Незалежності, 37/4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)340-45-32</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Імперія волосся</beauty>
+			<address>в. Бельведерська, 17</address>
+            <phoneVodaphone>+38(099)144-07-00</phoneVodaphone>
+			<phoneKyivstar>+38(068)144-07-00</phoneKyivstar>
+			<phoneHome>+38(0342)50-98-00</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Індустрія краси</beauty>
+			<address>в. Марійки Підгірянки, 14а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)461-61-30</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>ІНЬ-ЯНЬ</beauty>
+			<address>в. Коновальця, 13</address>
+            <phoneVodaphone>+38(099)261-75-96</phoneVodaphone>
+			<phoneKyivstar>+38(098)241-42-53</phoneKyivstar>
+			<phoneHome>+38(0342)72-97-02</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Іріда</beauty>
+			<address>в. Галицька, 169</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)58-12-11</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Калина</beauty>
+			<address>в. Незалежності, 103</address>
+            <phoneVodaphone>+38(050)573-96-19</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-21-98</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Каліста</beauty>
+			<address>в. Новгородська, 12, корп. 3</address>
+            <phoneVodaphone>+38(095)451-14-22</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Каліста</beauty>
+			<address>в. Вовчинецька, 124</address>
+            <phoneVodaphone>+38(095)072-79-61</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Київ</beauty>
+			<address>в. Незалежності, 36а</address>
+            <phoneVodaphone>+38(050)674-79-00</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-24-05</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Класика</beauty>
+			<address>в. Грушевського, 9</address>
+            <phoneVodaphone>+38(050)687-21-60</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-84-04</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Класік-студія</beauty>
+			<address>в. Незалежності, 36а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-84-84</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Консул</beauty>
+			<address>в. Василіянок, 35</address>
+            <phoneVodaphone>+38(095)920-33-94</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)51-14-44</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Королівство краси</beauty>
+			<address>в. Академіка Сахарова, 33</address>
+            <phoneVodaphone>+38(050)809-60-90</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-25-42</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Космолюкс</beauty>
+			<address>в. Незалежності, 43</address>
+            <phoneVodaphone>+38(050)970-48-84</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-77-49</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Лічниця Ткачука</beauty>
+			<address>в. Пасічна, 38а</address>
+            <phoneVodaphone>+38(050)705-47-17</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Майстер Надія</beauty>
+			<address>в. Молодіжна, 41</address>
+            <phoneVodaphone>+38(099)043-98-86</phoneVodaphone>
+			<phoneKyivstar>+38(067)734-36-01</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Мар'яна Костюк</beauty>
+			<address>в. Витвицького, 9</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)695-77-15</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Масаж-депіляція</beauty>
+			<address>в. Тичини</address>
+            <phoneVodaphone>+38(099)389-63-41</phoneVodaphone>
+			<phoneKyivstar>+38(096)642-09-43</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Мегаполіс</beauty>
+			<address>Площа Ринок, 8, пов. 2</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-10-61</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Мері</beauty>
+			<address>в. Василя Стуса, 35, офіс 1</address>
+            <phoneVodaphone>+38(099)222-68-10</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-10-61</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Модерн</beauty>
+			<address>в. Вовчинецька, 196</address>
+            <phoneVodaphone>+38(099)916-13-18</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-21-00</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Новаковська М.</beauty>
+			<address>в. Шашкевича, 3</address>
+            <phoneVodaphone>+38(050)736-60-24</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Ольвія</beauty>
+			<address>в. Гетьмана Мазепи, 11б</address>
+            <phoneVodaphone>+38(050)315-01-37</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-62-43</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Особлива</beauty>
+			<address>в. Галицька, 36б</address>
+            <phoneVodaphone>+38(050)711-63-63</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)54-15-51</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>П'ять стихій</beauty>
+			<address>в. Шевченка, 13а/8</address>
+            <phoneVodaphone>+38(095)737-49-23</phoneVodaphone>
+			<phoneKyivstar>+38(097)326-22-63</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Перлина</beauty>
+			<address>в. Богдана Хмельницького, 53</address>
+            <phoneVodaphone>+38(099)047-00-08</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Прованс</beauty>
+			<address>в. Хотинська, 12</address>
+            <phoneVodaphone>+38(095)725-22-66</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>СOLOR FANTASY</beauty>
+			<address>Провулок Фортечний, 1</address>
+            <phoneVodaphone>+38(099)909-48-92</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		
+	
+
+        <item>
+		    <beauty>Сакура</beauty>
+			<address>в. Зв'язкова, 20</address>
+            <phoneVodaphone>+38(095)864-53-31</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Солодка розкіш</beauty>
+			<address>в. Василя Симоненка, 23, офіс 311</address>
+            <phoneVodaphone>+38(050)654-65-12</phoneVodaphone>
+			<phoneKyivstar>+38(068)484-24-13</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Спокуса</beauty>
+			<address>в. Гната Хоткевича, 67</address>
+            <phoneVodaphone>+38(095)333-24-49</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)50-42-94</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Студія візажу Лілії Шершун</beauty>
+			<address>в. Пилипа Орлика, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)043-07-70</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Студія краси Ірини Рязанової</beauty>
+			<address>в. Гетьмана Мазепи, 72</address>
+            <phoneVodaphone>+38(099)190-22-18</phoneVodaphone>
+			<phoneKyivstar>+38(097)491-08-63</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Студія Манікюру</beauty>
+			<address>в. Галицька, 43б, пов. 2</address>
+            <phoneVodaphone>+38(099)087-00-36</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Студія нарощення волосся</beauty>
+			<address>в. Галицька, 25</address>
+            <phoneVodaphone>+38(099)923-15-95</phoneVodaphone>
+			<phoneKyivstar>+38(067)135-34-95</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Студія перманентного макіяжу</beauty>
+			<address>в. Галицька, 34, офіс 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(068)197-54-02</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Сьоме небо</beauty>
+			<address>в. Січових Стрільців, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)354-02-12</phoneKyivstar>
+			<phoneHome>+38(0342)75-11-58</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Фея</beauty>
+			<address>в. Бельведерська, 44</address>
+            <phoneVodaphone>+38(066)519-20-19</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-41-41</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Фламінго</beauty>
+			<address>Провулок Фортечний, 1</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)59-55-96</phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Христина Мальована</beauty>
+			<address>в. Тичини, 43Б</address>
+            <phoneVodaphone>+38(095)514-68-30</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>Шик і Шарм</beauty>
+			<address>в. Матейки, 19</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)270-20-50</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+		<item>
+		    <beauty>ЮКО</beauty>
+			<address>в. Надвірнянська, 30</address>
+            <phoneVodaphone>+38(097)907-90-91</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/beauty.png</icon>
+		</item>
+	</channel>
+</rss>
+		
+		
+
+		
+		

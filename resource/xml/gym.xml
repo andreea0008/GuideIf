@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <gym>Aidasport</gym>
+			<address>в. В. Симоненка, 24б</address>
+            <phoneVodaphone>+38(099)045-46-49</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/gym.png</icon>
+        </item>
+		<item>
+            <gym>BODYGUARD</gym>
+			<address>в. Коновальця, 146д</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(067)342-20-20</phoneKyivstar>
+			<phoneHome>+38(0342)71-20-80</phoneHome>
+			<icon>qrc:/img/resource/img/gym.png</icon>
+        </item>
+		<item>
+            <gym>CROSS TIME</gym>
+			<address>в. Січових Стрільців, 68а</address>
+            <phoneVodaphone>+38(050)280-22-61</phoneVodaphone>
+			<phoneKyivstar>+38(068)369-50-04</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/gym.png</icon>
+        </item>
+		<item>
+            <gym>Energy</gym>
+			<address>в. П. Орлика, 10</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-64-25</phoneHome>
+			<icon>qrc:/img/resource/img/gym.png</icon>
+        </item>
+		<item>
+            <gym>InterFit</gym>
+			<address>в. Станіславська, 4</address>
+            <phoneVodaphone>+38(066)040-06-00</phoneVodaphone>
+			<phoneKyivstar>+38(096)340-06-00</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/gym.png</icon>
+        </item>
+		<item>
+            <gym>S Line</gym>
+			<address>в. Довга, 39</address>
+            <phoneVodaphone>+38(095)308-53-53</phoneVodaphone>
+			<phoneKyivstar>+38(098)908-53-53</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/gym.png</icon>
+        </item>
+		<item>
+            <gym>Sector Gym</gym>
+			<address>в. Академіка Сахарова, 27а</address>
+            <phoneVodaphone>+38 (099) 290-14-45 </phoneVodaphone>
+			<phoneKyivstar>+38 (097) 642-18-05</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/gym.png</icon>
+        </item>
+		<item>
+            <gym>Sport House</gym>
+			<address>в. Б. Хмельницького, 51в</address>
+            <phoneVodaphone>+38(066)735-41-56</phoneVodaphone>
+			<phoneKyivstar>+38(096)415-12-81</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Sport Line</gym>
+			<address>в. Галицька, 203</address>
+            <phoneVodaphone>+38(050)299-47-06</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Sport Town</gym>
+			<address>в. Галицька, 43б, пов. 3</address>
+            <phoneVodaphone>+38(095)308-45-45</phoneVodaphone>
+			<phoneKyivstar>+38(067)102-06-00</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Street Gym</gym>
+			<address>в. Чорновола, 98</address>
+            <phoneVodaphone>+38(095)800-09-02</phoneVodaphone>
+			<phoneKyivstar>+38(097)783-79-35</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Street Gym</gym>
+			<address>в. Карпатська, 12</address>
+            <phoneVodaphone>+</phoneVodaphone>
+			<phoneKyivstar>+38(096)775-37-22 </phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Vasil Gym</gym>
+			<address>в. С. Петлюри, 8</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38 (0342) 50-74-07</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Адам і Єва</gym>
+			<address>в. Курінного Чорноти, 2, корп. 4</address>
+            <phoneVodaphone>+38(066)958-47-47</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)57-05-95</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Альянс</gym>
+			<address>в. В. Великого, 12в</address>
+            <phoneVodaphone>+38(095)820-44-60</phoneVodaphone>
+			<phoneKyivstar>+38(097)103-83-53</phoneKyivstar>
+			<phoneHome>+38(0342)71-88-50</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Альянс</gym>
+			<address>в. Надрічна, 223</address>
+            <phoneVodaphone>+38(066)990-22-89</phoneVodaphone>
+			<phoneKyivstar>+38(068)721-40-80</phoneKyivstar>
+			<phoneHome>+38(0342)71-88-15</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Альянс</gym>
+			<address>в. Галицька, 145б</address>
+            <phoneVodaphone>+38(095)580-61-78</phoneVodaphone>
+			<phoneKyivstar>+38(097)543-32-91</phoneKyivstar>
+			<phoneHome>+38(0342)71-88-25</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Антіс</gym>
+			<address>в. 24 Серпня, 7а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-88-92</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Антіс</gym>
+			<address>в. Б. Хмельницького, 57Б</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-07-38</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Апельсин</gym>
+			<address>в. Галицька, 109</address>
+            <phoneVodaphone>+38(095)530-06-08</phoneVodaphone>
+			<phoneKyivstar>+38(0342)72-28-63</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Апельсин</gym>
+			<address>в. Академіка Сахарова, 23а</address>
+            <phoneVodaphone>+38(050)185-01-14</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Атлет</gym>
+			<address>в. Матейки, 60</address>
+            <phoneVodaphone>+38(050)675-05-70</phoneVodaphone>
+			<phoneKyivstar>+38(096)278-51-28</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Атлет</gym>
+			<address>в. Чорновола, 130</address>
+            <phoneVodaphone>+38(050)675-05-70</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Ідеал спорт</gym>
+			<address>в. Гетьмана Мазепи, 173</address>
+            <phoneVodaphone>+38(095)431-39-21</phoneVodaphone>
+			<phoneKyivstar>+38(098)889-03-01</phoneKyivstar>
+			<phoneHome>+38 (0342) 50-60-05</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Інтер Атлетика</gym>
+			<address>в. Коновальця, 102а</address>
+            <phoneVodaphone>+38(050)278-41-11</phoneVodaphone>
+			<phoneKyivstar>+38(0342)52-35-56</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Легіон</gym>
+			<address>в. Івасюка, 60</address>
+            <phoneVodaphone>+38(099)279-22-64</phoneVodaphone>
+			<phoneKyivstar>+38(097)964-19-45</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Молодіжний</gym>
+			<address>в. Молодіжна, 55</address>
+            <phoneVodaphone>+38(066)736-35-55</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)72-97-20</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Наука</gym>
+			<address>в. Гетьмана Дорошенка, 22а</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(096)575-81-61</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Спарта</gym>
+			<address>в. Вовчинецька, 192</address>
+            <phoneVodaphone>+38(095)518-77-87</phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-64-88</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Стимул</gym>
+			<address>в. Незалежності, 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar>+38(097)896-20-18</phoneKyivstar>
+			<phoneHome></phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Торнадо</gym>
+			<address>в. Південний Бульвар, 42</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)75-04-98</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Форум</gym>
+			<address>в. Івана Павла ІІ, 4</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)77-06-94</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+		<item>
+            <gym>Штанга</gym>
+			<address>в. Г. Хоткевича, 44г</address>
+            <phoneVodaphone></phoneVodaphone>
+			<phoneKyivstar></phoneKyivstar>
+			<phoneHome>+38(0342)71-61-09</phoneHome>
+			<icon>qrc:/img/resource/img/hotel.png</icon>
+        </item>
+	</channel>
+</rss>

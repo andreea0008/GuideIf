@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+   <channel>
+		<item>
+              <number>133</number>
+              <route>Івано-Франківськ Миколаїв</route>
+              <description>14/01-29/05/2017 та з 2/09/2017 по 2,5,8,11,14,17,20,23,26,29 числах кожного місяця</description>
+              <arrived></arrived>
+			  <departure>23:14</departure>
+			  <endArrived>23:57</endArrived>
+		</item>
+		<item>
+              <number>143</number>
+              <route>Івано-Франківськ Київ</route>
+              <description>з 11/12/2016 щоденно, крім 18/01-25/03/2017</description>
+              <arrived></arrived>
+			  <departure>17:02</departure>
+			  <endArrived>06:06</endArrived>
+		</item>
+		<item>
+              <number>43</number>
+              <route>Івано-Франківськ Київ</route>
+              <description>з 11/12/2016 щоденно</description>
+              <arrived></arrived>
+			  <departure>22:00</departure>
+			  <endArrived>08:51</endArrived>
+		</item>
+		<item>
+              <number>749</number>
+              <route>Івано-Франківськ Київ</route>
+              <description>щоденно</description>
+              <arrived></arrived>
+			  <departure>09:00</departure>
+			  <endArrived>17:34</endArrived>
+		</item>
+		<item>
+              <number>607</number>
+              <route>Івано-Франківськ Москва</route>
+              <description>щоденно</description>
+              <arrived></arrived>
+			  <departure>03:21</departure>
+			  <endArrived>10:43</endArrived>
+		</item>
+		<item>
+              <number>143</number>
+              <route>Ворохта Київ</route>
+              <description>18/01-25/03/2017 щоденно</description>
+              <arrived>16:18</arrived>
+			  <departure>17:01</departure>
+			  <endArrived>05:52</endArrived>
+		</item>
+		<item>
+              <number>143</number>
+              <route>Ворохта Київ</route>
+              <description>18/01-25/03/2017 щоденно</description>
+              <arrived>16:18</arrived>
+			  <departure>17:01</departure>
+			  <endArrived>05:52</endArrived>
+		</item>
+		<item>
+              <number>143</number>
+              <route>Київ Івано-Франківськ</route>
+              <description>з 11/12/2016 щоденно, крім 17/01-25/03/2017</description>
+              <arrived>08:57</arrived>
+			  <departure></departure>
+			  <endArrived>08:57</endArrived>
+		</item>
+		<item>
+              <number>43</number>
+              <route>Київ Івано-Франківськ</route>
+              <description>щоденно</description>
+              <arrived>05:44</arrived>
+			  <departure></departure>
+			  <endArrived>05:44</endArrived>
+		</item>
+		<item>
+              <number>149</number>
+              <route>Київ Івано-Франківськ</route>
+              <description>щоденно</description>
+              <arrived>07:30</arrived>
+			  <departure></departure>
+			  <endArrived>07:30</endArrived>
+		</item>
+		<item>
+              <number>143</number>
+              <route>Київ Ворохта</route>
+              <description>17/01-24/03/2017 щоденно</description>
+              <arrived>08:57</arrived>
+			  <departure>09:22</departure>
+			  <endArrived>12:05</endArrived>
+		</item>
+		<item>
+              <number>668</number>
+              <route>Ковель Чернівці</route>
+              <description>з 12/12/2016 по парних , при двох непарних 28,30,2</description>
+              <arrived>04:20</arrived>
+			  <departure>04:47</departure>
+			  <endArrived>07:42</endArrived>
+		</item>
+		<item>
+              <number>702</number>
+              <route>Львів Чернівці</route>
+              <description>щоденно, крім середи</description>
+              <arrived>20:55</arrived>
+			  <departure>20:59</departure>
+			  <endArrived>22:44</endArrived>
+		</item>
+		<item>
+              <number>608</number>
+              <route>Львів Чернівці</route>
+              <description>щоденно</description>
+              <arrived>04:20</arrived>
+			  <departure>04:47</departure>
+			  <endArrived>07:42</endArrived>
+		</item>
+		<item>
+              <number>606</number>
+              <route>Львів Рахів</route>
+              <description>щоденно</description>
+              <arrived>18:45</arrived>
+			  <departure>19:05</departure>
+			  <endArrived>23:42</endArrived>
+		</item>
+		<item>
+              <number>134</number>
+              <route>Миколаїв Івано-Франківськ</route>
+              <description>13/01-28/05/2017 та з 1/09/2017 по 1,4,7,10,13,16,19,22,25,28 числах кожного місяця</description>
+              <arrived>13:28</arrived>
+			  <departure></departure>
+			  <endArrived>13:28</endArrived>
+		</item>
+		<item>
+              <number>73</number>
+              <route>Москва Чернівці</route>
+              <description>щоденно</description>
+              <arrived>20:03</arrived>
+			  <departure>20:35</departure>
+			  <endArrived>23:06</endArrived>
+		</item>
+		<item>
+              <number>73</number>
+              <route>Москва Івано-Франківськ</route>
+              <description>щоденно</description>
+              <arrived>18:45</arrived>
+			  <departure></departure>
+			  <endArrived>18:45</endArrived>
+		</item>
+		<item>
+              <number>136</number>
+              <route>Одеса Чернівці</route>
+              <description>1/06-30/09/2017 щоденно; 1/02-29/05/2017 та з 1/10/2017 по непарних, при двох непарних 27,29,1</description>
+              <arrived>07:13</arrived>
+			  <departure>07:21</departure>
+			  <endArrived>10:02</endArrived>
+		</item>
+		<item>
+              <number>606</number>
+              <route>Рахів Львів</route>
+              <description>щоденно</description>
+              <arrived>04:33</arrived>
+			  <departure>05:03</departure>
+			  <endArrived>08:30</endArrived>
+		</item>
+		<item>
+              <number>115</number>
+              <route>Харків Чернівці</route>
+              <description>з 11/12/2016 по непарних, при двох непарних 27,29,1</description>
+              <arrived>10:16</arrived>
+			  <departure>10:22</departure>
+			  <endArrived>12:17</endArrived>
+		</item>
+		<item>
+              <number>702</number>
+              <route>Чернівці Львів</route>
+              <description>з 27/01/2017 щоденно, крім четверга</description>
+              <arrived>07:57</arrived>
+			  <departure>08:02</departure>
+			  <endArrived>09:51</endArrived>
+		</item>
+		<item>
+              <number>136</number>
+              <route>Чернівці Одеса</route>
+              <description>2/06-1/10/2017 щоденно; 2/02-30/05/2017 та з 2/10/2017 по парних, при двох непарних 28,30,2</description>
+              <arrived>18:14</arrived>
+			  <departure>18:24</departure>
+			  <endArrived>09:44</endArrived>
+		</item>
+		<item>
+              <number>608</number>
+              <route>Чернівці Львів</route>
+              <description>щоденно</description>
+              <arrived>02:50</arrived>
+			  <departure>03:21</departure>
+			  <endArrived>06:30</endArrived>
+		</item>
+		<item>
+              <number>116</number>
+              <route>Чернівці Харків</route>
+              <description>з 12/12/2016 по парних, при двох непарних 28,30,2</description>
+              <arrived>19:08</arrived>
+			  <departure>19:14</departure>
+			  <endArrived>11:32</endArrived>
+		</item>
+		<item>
+              <number>608</number>
+              <route>Чернівці Москва</route>
+              <description>щоденно</description>
+              <arrived>02:50</arrived>
+			  <departure>03:21</departure>
+			  <endArrived>10:43</endArrived>
+		</item>
+		<item>
+              <number>668</number>
+              <route>Чернівці Ковель</route>
+              <description>з 11/12/2016 по непарних, при двох непарних 27,29,1</description>
+              <arrived>23:19</arrived>
+			  <departure>23:37</departure>
+			  <endArrived>09:44</endArrived>
+		</item>
+	</channel>
+</rss>
