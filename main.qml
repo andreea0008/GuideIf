@@ -94,114 +94,136 @@ ApplicationWindow {
 
    ListModel {
         id: modelPage
+
         ListElement{
-            title: "Ресторани"
-            page: "qrc:/Restorants.qml"
+            title: "Автомийки"
+            page: "qrc:/Autoclean.qml"
+        }
+        ListElement{
+            title: "Аптеки"
+            page: "qrc:/Pharmacy.qml"
+        }
+
+        ListElement{
+            title: "Більярд"
+            page: "qrc:/Billiard.qml"
+        }
+
+        ListElement{
+            title: "Бюро перекладів"
+            page: "qrc:/Translator.qml"
+        }
+
+        ListElement{
+            title: "Готелі"
+            page: "qrc:/Hotel.qml"
+        }
+
+        ListElement{
+            title: "Дитячі розваги"
+            page: "qrc:/KidsRoom.qml"
+        }
+
+        ListElement{
+            title: "Кав'ярні"
+            page: "qrc:/Coffee.qml"
+        }
+
+        ListElement{
+            title: "Евакуатор"
+            page: "qrc:/Evacuator.qml"
         }
         ListElement{
             title: "Кафе/Бари"
             page: "qrc:/Bar.qml"
         }
+
+        ListElement{
+            title: "Кіно"
+            page: "qrc:/Movie.qml"
+        }
+
+        ListElement{
+            title: "Клініко-діагностичні центри"
+            page: "qrc:/CliniqueCenter.qml"
+        }
+
+        ListElement{
+            title: "Нічні клуби"
+            page: "qrc:/NightClub.qml"
+        }
+
         ListElement{
             title: "Паби"
             page: "qrc:/Pub.qml"
         }
-        ListElement{
-            title: "Кав'ярні"
-            page: "qrc:/Coffee.qml"
-        }
+
         ListElement{
             title: "Піцерії"
             page: "qrc:/Pizza.qml"
         }
         ListElement{
-            title: "Нічні клуби"
-            page: "qrc:/NightClub.qml"
-        }
-        ListElement{
-            title: "Кіно"
-            page: "qrc:/Movie.qml"
-        }
-        ListElement{
-            title: "Розваги"
-            page: "qrc:/Entertaintment.qml"
-        }
-        ListElement{
-            title: "Дитячі розваги"
-            page: "qrc:/KidsRoom.qml"
+            title: "Ресторани"
+            page: "qrc:/Restorants.qml"
         }
         ListElement{
             title: "Ремонт техніки"
             page: "qrc:/repair/Repair.qml"
         }
         ListElement{
-            title: "Театри"
-            page: "qrc:/Theatre.qml"
+            title: "Розваги"
+            page: "qrc:/Entertaintment.qml"
         }
-        ListElement{
-            title: "Сауни"
-            page: "qrc:/Sauna.qml"
-        }
-        ListElement{
-            title: "Готелі"
-            page: "qrc:/Hotel.qml"
-        }
-        ListElement{
-            title: "Туристичні агенції"
-            page: "qrc:/Travel.qml"
-        }
-        ListElement{
-            title: "Аптеки"
-            page: "qrc:/Pharmacy.qml"
-        }
-        ListElement{
-            title: "Тринажерні зали"
-            page: "qrc:/Gym.qml"
-        }
-        ListElement{
-            title: "Більярд"
-            page: "qrc:/Billiard.qml"
-        }
-        ListElement{
-            title: "Салони краси"
-            page: "qrc:/Beauty.qml"
-        }
-        ListElement{
-            title: "Клініко-діагностичні центри"
-            page: "qrc:/CliniqueCenter.qml"
-        }
-        ListElement{
-            title: "Стоматології"
-            page: "qrc:/Dental.qml"
-        }
-        ListElement{
-            title: "Евакуатор"
-            page: "qrc:/Evacuator.qml"
-        }
-        ListElement{
-            title: "Автомийки"
-            page: "qrc:/Autoclean.qml"
-        }
-        ListElement{
-            title: "Шиномонтаж"
-            page: "qrc:/Tire.qml"
-        }
-        ListElement{
-            title: "Бюро перекладів"
-            page: "qrc:/Translator.qml"
-        }
+
         ListElement{
             title: "Розклад руху"
             page: "qrc:/Shedule.qml"
         }
+
+        ListElement{
+            title: "Салони краси"
+            page: "qrc:/Beauty.qml"
+        }
+
+        ListElement{
+            title: "Сауни"
+            page: "qrc:/Sauna.qml"
+        }
+
+        ListElement{
+            title: "Стоматології"
+            page: "qrc:/Dental.qml"
+        }
+
         ListElement{
             title: "Таксі"
             page: "qrc:/Taxi.qml"
         }
+
+        ListElement{
+            title: "Театри"
+            page: "qrc:/Theatre.qml"
+        }
+
+        ListElement{
+            title: "Тринажерні зали"
+            page: "qrc:/Gym.qml"
+        }
+
+        ListElement{
+            title: "Туристичні агенції"
+            page: "qrc:/Travel.qml"
+        }
+
+        ListElement{
+            title: "Шиномонтаж"
+            page: "qrc:/Tire.qml"
+        }
+/*
         ListElement{
             title: "Про программу"
             page: "qrc:/AboutUs.qml"
-        }
+        }*/
     }
 
     StackView {

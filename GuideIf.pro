@@ -22,5 +22,4 @@ RC_FILE = app.rc
 
 ANDROID_PACKAGE_SOURCE_DIR = $$PWD/android
 
-OTHER_FILES += \
-    android/AndroidManifest.xml
+OTHER_FILES +=

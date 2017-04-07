@@ -75,7 +75,7 @@
 				<icon>qrc:/img/resource/img/pub-icon.png</icon>
 		</item>	
 		<item>
-            <bar>Десятка</bar>
+            <pub>Десятка</pub>
 			<address>в.Шашкевича, 2</address>
             <phoneVodaphone>+38(050)373-82-02</phoneVodaphone>
 			<phoneKyivstar></phoneKyivstar>
@@ -83,7 +83,7 @@
 			<icon>qrc:/img/resource/img/bar.png</icon>
         </item>
 		<item>
-            <bar>Десятка (бістро)</bar>
+            <pub>Десятка (бістро)</pub>
 			<address>в.Шашкевича, 2 </address>
             <phoneVodaphone>+38(050)372-87-07</phoneVodaphone>
 			<phoneKyivstar></phoneKyivstar>
